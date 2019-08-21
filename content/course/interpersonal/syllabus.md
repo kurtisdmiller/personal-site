@@ -36,8 +36,8 @@ Instructor Information
 | Instructor                                            | Office Hours                |
 |:------------------------------------------------------|:----------------------------|
 | Kurtis D. Miller, PhD.                                | Library 126                 |
-| [kurtisdmiller.com](https://kurtisdmiller.com)        | 1:00 pm – 2:50 pm, Tuesdays |
-| [kdmiller@tusculum.edu](mailto:kdmiller@tusculum.edu) | 1:00 pm – 2:50 pm, Fridays  |
+| [kurtisdmiller.com](https://kurtisdmiller.com)        | 1:00 pm – 3:15 pm, Tuesdays |
+| [kdmiller@tusculum.edu](mailto:kdmiller@tusculum.edu) | 1:00 pm – 3:15 pm, Fridays  |
 | 423-636-7300 Ext. 5783                                | also by appointment         |
 
 Course Student Learning Outcomes

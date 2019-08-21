@@ -5,10 +5,9 @@ name: Kurtis D. Miller
 
 # Username (this should match the folder name)
 authors:
-- admin
+- kurtis
 
-# Is this the primary user of the site?
-superuser: true
+# Is this the primary user of the site? superuser: true
 
 # Role/position
 role: Assistant Professor of Communication
