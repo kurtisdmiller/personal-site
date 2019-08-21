@@ -15,7 +15,7 @@ role: Assistant Professor of Communication
 # Organizations/Affiliations
 organizations:
 - name: Tusculum University
-  url: ""
+  url: "https://home.tusculum.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie at the intersections of Interpersonal Communication with the fields of Linguistics, Pedagogy, and Political Science.
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:kdmiller@tusculum.edu" # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/phdkurt
@@ -73,6 +73,11 @@ user_groups:
 - Visitors
 ---
 
-Kurtis is an Assistant Professor of Communication at Tusculum University in the mountains of Eastern Tennessee. His research focuses on communication in educational and political contexts. He serves as the Communication Program Director, Faculty Parliamentarian, and as Coach of the Andrew Johnson Debate Team.
+Kurtis is an Assistant Professor of Communication at Tusculum University
+in the mountains of Eastern Tennessee. His research focuses on
+communication in educational and political contexts. He serves as the
+Communication Program Director, Faculty Parliamentarian, and as Coach of
+the Andrew Johnson Debate Team.
 
-In his free time, Kurtis enjoys bluegrass, chess, and spending time with his family.
+In his free time, Kurtis enjoys bluegrass, chess, and spending time with
+his family.
