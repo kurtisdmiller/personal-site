@@ -76,7 +76,7 @@ Outline of the Lesson
     9.  Time available
 5.  Analyzing topics
     1.  Right for you
-        1.  Interesting to you[^like-on-an-aiplane]
+        1.  Interesting to you[^like-on-an-airplane]
         2.  You have expertise (or you know how to get it)
     2.  Right for your audience
     3.  Right for your situation
