@@ -151,7 +151,7 @@ Appropriate Topic Policy
 ------------------------
 
 Presentation topics should be appropriate for a classroom of college-aged
-professionals. See the [presentation topics][] resource for assastance
+professionals. See the [presentation topics][] resource for assistance
 with picking a strong topic. Students should not present on duplicate
 topics. Students can claim topics using the course management system. The
 first student to post a topic will be allowed to present on it. Any other
@@ -207,7 +207,7 @@ Final Exam Policy
 -----------------
 
 A final exam is a required part of this course; students must take the
-final in order to pass the course. Final exams are idministered only
+final in order to pass the course. Final exams are administered only
 during three days of Final Exam Week and may not be taken early for any
 reason. Consult the syllabus and the Tusculum website to determine when
 your exams will take place and do not make travel, family, or any other
@@ -230,7 +230,7 @@ Grade Disputes
 
 If you believe that you have been graded unfairly, wait 24 hours after
 receiving the grade and schedule a meeting to discuss it with me. I cannot
-discuss your grades publically. Come to this meeting prepared to provide
+discuss your grades publicly. Come to this meeting prepared to provide
 evidence supporting the need for a grade change. Grades are considered
 final one week after they are returned to you (or 2 days after the last
 class meeting).
@@ -264,9 +264,9 @@ Follow the [video submission][] link for more information.
 Participation Policy
 --------------------
 
-Particpation will be considered as part of the course grade. Students who
+Participation will be considered as part of the course grade. Students who
 are not present and actively engaged in the course will not be awarded
-participation points, regardless of the cause for their inibility to be
+participation points, regardless of the cause for their inability to be
 present and actively engaged. Students are expected to be present and on
 time for all classroom activities and are held responsible for all
 learning activity missed.
