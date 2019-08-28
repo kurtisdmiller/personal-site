@@ -17,8 +17,8 @@ slides:
 
 ---
 
-Course Overview
----------------
+Course Overview Review
+----------------------
 
 * How can I get extra credit?
 * What is the late work policy?

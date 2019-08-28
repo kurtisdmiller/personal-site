@@ -17,8 +17,8 @@ slides:
 
 ---
 
-Choosing a Topic
-----------------
+Choosing a Topic Review
+-----------------------
 
 * What two major areas affect topic choice?
 * What are examples of environmental resources?

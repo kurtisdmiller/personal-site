@@ -17,8 +17,8 @@ slides:
 
 ---
 
-Assignment Overview
--------------------
+Assignment Overview Review
+--------------------------
 
 * How many articles do I need for the Fishbowl?
 * What does it mean to annotate an article?
