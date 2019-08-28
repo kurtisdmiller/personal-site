@@ -29,4 +29,3 @@ Course Overview Review
 * Where does most of my grade come from?
 * How is participation assessed?
 
----

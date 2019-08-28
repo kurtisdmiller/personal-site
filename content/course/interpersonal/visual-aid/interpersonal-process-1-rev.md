@@ -20,13 +20,18 @@ slides:
 Interpersonal Process, Day 1 Review
 -----------------------------------
 
-* What are some examples of rich and lean channels?
-* What is a common criticism of all transmission models?
-* What two dimensions are included in all interpersonal comm.?
-* What does it mean to be a high self-monitor?
-* Who created the oldest known model of comm.?
+* What two dimensions are included in all IC?
 * What are two of the common myths about comm.?
-* What features separate interpersonal comm. from other types of comm.?
-* What are the dominant form of comm. models used today?
+* What features separate IC from other types of comm.?
+* Who created the oldest known model of comm.?
+* What is a criticism of all transmission models?
 
 ---
+
+Continued...
+------------
+
+* What are the dominant form of comm. models used today?
+* What are some examples of rich and lean channels?
+* What does it mean to be a high self-monitor?
+

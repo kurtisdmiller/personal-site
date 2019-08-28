@@ -28,4 +28,3 @@ Assignment Overview Review
 * Which style am I expected to follow?
 * What are the two parts of my final Lit. Rev. grade?
 
----

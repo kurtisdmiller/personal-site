@@ -28,4 +28,3 @@ Choosing a Topic Review
 * What does a topic look like?
 * How should you evaluate a potential topic?
 
----
