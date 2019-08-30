@@ -44,9 +44,9 @@ Outline of the Lesson
 
 1.  Review of previous session's content
 2.  What is a culture?
-3.  Intercultural communication occurs across culture or co-culture boundaries[^degree]
+3.  Intercultural communication occurs across culture or co-culture boundaries[^question-of-degree]
     1.  Results in overlap in fields of experience (transactional models)
-4.  Culture vs. Co-cultures[^co-culture examples]
+4.  Culture vs. Co-cultures[^co-culture-examples]
     1.  Cultural and co-cultural differences are necessarily generalizations, not rules
 5.  Common cultural dimensions
     1.  High context vs. Low context (directness)
@@ -54,7 +54,7 @@ Outline of the Lesson
     3.  Geert Hofstede's dimensions of National Culture[^va-ci1]
         1.  Collectivism vs. Individualism
         2.  Power Distance
-        3.  "Masculinity vs. Femininity"[^achievement vs nurturing]
+        3.  "Masculinity vs. Femininity"[^achievement-vs-nurturing]
         4.  Uncertainty Avoidance
         5.  Long-term Orientation
         6.  Indulgence
@@ -72,9 +72,9 @@ Outline of the Lesson
 [^va-ci1]: [VA](/course/interpersonal/visual-aid/culture-and-interpersonal-1/)
 [^va-ci2]: [VA](/course/interpersonal/visual-aid/culture-and-interpersonal-2/)
 
-[^achivement vs nurturing]: Other researchers instead uses an "achievement vs. nurturing" dimension, which covers similar territory and carries less "baggage"
-[^degree]: Cultural difference is more a question of degree than a yes/no question.
-[^co-culture examples]: Age, Race/Ethnicity, Sexual Orientation, Nationality, Region, Ability, Religion, Activity, etc.
+[^achivement-vs-nurturing]: Other researchers instead uses an "achievement vs. nurturing" dimension, which covers similar territory and carries less "baggage"
+[^question-of-degree]: Cultural difference is more a question of degree than a yes/no question.
+[^co-culture-examples]: Age, Race/Ethnicity, Sexual Orientation, Nationality, Region, Ability, Religion, Activity, etc.
 
 Limitations
 ===========
