@@ -130,14 +130,14 @@ class.[^student-permission]
 1](/course/public-speaking/assignment/mediated-outline-example-1.docx) is
 a well-formatted outline.
 
-[![Example Mediated Outline 1](/img/course/mediated-outline-example-1.PNG)](/course/public-speaking/assignment/example-mediated-outline-1.docx)
+[![Example Mediated Outline 1](/img/course/mediated-outline-example-1.PNG)](/course/public-speaking/assignment/mediated-outline-example-1.docx)
 
 [Example Mediated Outline
 2](/course/public-speaking/assignment/mediated-outline-example-2.docx)
 does a very good job with using oral citations throughout the
 presentation.
 
-[![Example Mediated Outline 2](/img/course/mediated-outline-example-2.PNG)](/course/public-speaking/assignment/example-mediated-outline-2.docx)
+[![Example Mediated Outline 2](/img/course/mediated-outline-example-2.PNG)](/course/public-speaking/assignment/mediated-outline-example-2.docx)
 
 Here is an [example of a visual
 aid](/course/public-speaking/visual-aid/example-visual-aid.pptx) that uses
