@@ -58,7 +58,7 @@ Outline of the Lesson
         4.  Uncertainty Avoidance
         5.  Long-term Orientation
         6.  Indulgence
-6.  Code switching
+6.  Code switching[^va-ci2]
     1.  Hillary Clinton over 30 years https://www.youtube.com/watch?v=UCyvyyo6dtQ
     2.  Gillian Anderson in the US https://www.youtube.com/watch?v=sg9i7Mxwm8w
     3.  Gillian Anderson in the UK https://www.youtube.com/watch?v=DlaUOqgZgAM
@@ -70,6 +70,7 @@ Outline of the Lesson
 8.  Lesson closing
 
 [^va-ci1]: [VA](/course/interpersonal/visual-aid/culture-and-interpersonal-1/)
+[^va-ci2]: [VA](/course/interpersonal/visual-aid/culture-and-interpersonal-2/)
 
 [^achivement vs nurturing]: Other researchers instead uses an "achievement vs. nurturing" dimension, which covers similar territory and carries less "baggage"
 [^degree]: Cultural difference is more a question of degree than a yes/no question.
