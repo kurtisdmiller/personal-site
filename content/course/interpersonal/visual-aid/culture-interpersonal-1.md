@@ -45,7 +45,7 @@ Collectivism vs. Individualism
 
 ---
 
-![Heatmap of Collectivism vs. Individualism](/course/interpersonal/visual-aid/img/IDV-world-map.png)[^hofstede-2019-online]
+![Heatmap of Collectivism vs. Individualism](../img/IDV-world-map.png)[^hofstede-2019-online]
 
 ---
 
@@ -58,7 +58,7 @@ Power Distance
 
 ---
 
-![Heatmap of Power Distance](/course/interpersonal/visual-aid/img/PDI-world-map.png)[^hofstede-2019-online]
+![Heatmap of Power Distance](../img/PDI-world-map.png)[^hofstede-2019-online]
 
 ---
 
@@ -75,7 +75,7 @@ Power Distance
 
 ---
 
-![Heatmap of "Masculinity vs. Femininity"](/course/interpersonal/visual-aid/img/MAS-world-map.png)[^hofstede-2019-online]
+![Heatmap of "Masculinity vs. Femininity"](../img/MAS-world-map.png)[^hofstede-2019-online]
 
 ---
 
@@ -87,7 +87,7 @@ Uncertainty Avoidance
 
 ---
 
-![Heatmap of Uncertainty Avoidance](/course/interpersonal/visual-aid/img/UAI-world-map.png)[^hofstede-2019-online]
+![Heatmap of Uncertainty Avoidance](../img/UAI-world-map.png)[^hofstede-2019-online]
 
 ---
 
@@ -102,7 +102,7 @@ Long-term Orientation
 
 ---
 
-![Heatmap of Long-term Orientation](/course/interpersonal/visual-aid/img/MON-world-map.png)[^hofstede-2019-online]
+![Heatmap of Long-term Orientation](../img/MON-world-map.png)[^hofstede-2019-online]
 
 ---
 
@@ -116,7 +116,7 @@ Indulgence
 
 ---
 
-![Heatmap of Indulgence](/course/interpersonal/visual-aid/img/IvR-world-map.png)[^hofstede-2019-online]
+![Heatmap of Indulgence](../img/IvR-world-map.png)[^hofstede-2019-online]
 
 ---
 
