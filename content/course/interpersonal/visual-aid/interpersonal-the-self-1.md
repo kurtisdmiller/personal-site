@@ -25,38 +25,38 @@ The Johari Window
 Pick 5-6 words that describe you
 --------------------------------
 
-|               |             |                |                |
-|---------------|-------------|----------------|----------------|-------------|
-| able          | accepting   | adaptable      | bold           | brave       |
-| calm          | caring      | cheerful       | clever         | complex     |
-| confident     | dependable  | dignified      | energetic      | extroverted |
-| friendly      | giving      | happy          | helpful        | idealistic  |
-| independent   | ingenious   | intelligent    | introverted    | kind        |
-| knowledgeable | logical     | loving         | mature         | modest      |
-| nervous       | observant   | organized      | patient        | powerful    |
-| proud         | quiet       | reflective     | relaxed        | religious   |
-| responsive    | searching   | self-assertive | self-conscious | sensible    |
-| sentimental   | shy         | silly          | spontaneous    | sympathetic |
-| tense         | trustworthy | warm           | wise           | witty       |
+---
+
+able, accepting, adaptable, bold, brave,
+calm, caring, cheerful, clever, complex,
+confident, dependable, dignified, energetic, extroverted,
+friendly, giving, happy, helpful, idealistic,
+independent, ingenious, intelligent, introverted, kind,
+knowledgeable, logical, loving, mature, modest,
+nervous, observant, organized, patient, powerful,
+proud, quiet, reflective, relaxed, religious,
+responsive, searching, self-assertive, self-conscious, sensible,
+sentimental, shy, silly, spontaneous, sympathetic,
+tense, trustworthy, warm, wise, witty,
 
 ---
 
 Pick 5-6 words that describe your partner
 -----------------------------------------
 
-|               |             |                |                |
-|---------------|-------------|----------------|----------------|-------------|
-| able          | accepting   | adaptable      | bold           | brave       |
-| calm          | caring      | cheerful       | clever         | complex     |
-| confident     | dependable  | dignified      | energetic      | extroverted |
-| friendly      | giving      | happy          | helpful        | idealistic  |
-| independent   | ingenious   | intelligent    | introverted    | kind        |
-| knowledgeable | logical     | loving         | mature         | modest      |
-| nervous       | observant   | organized      | patient        | powerful    |
-| proud         | quiet       | reflective     | relaxed        | religious   |
-| responsive    | searching   | self-assertive | self-conscious | sensible    |
-| sentimental   | shy         | silly          | spontaneous    | sympathetic |
-| tense         | trustworthy | warm           | wise           | witty       |
+---
+
+able, accepting, adaptable, bold, brave,
+calm, caring, cheerful, clever, complex,
+confident, dependable, dignified, energetic, extroverted,
+friendly, giving, happy, helpful, idealistic,
+independent, ingenious, intelligent, introverted, kind,
+knowledgeable, logical, loving, mature, modest,
+nervous, observant, organized, patient, powerful,
+proud, quiet, reflective, relaxed, religious,
+responsive, searching, self-assertive, self-conscious, sensible,
+sentimental, shy, silly, spontaneous, sympathetic,
+tense, trustworthy, warm, wise, witty,
 
 ---
 
@@ -81,6 +81,8 @@ Continued...
 
 * Consider doing this online with people who know you well.[^davis-2006-online]
 * If you can take criticism well, there is a "Nohari" window exercise that uses the negative versions of these adjectives.[^davis-2006a-online]
+
+---
 
 [^burke-2018-image]: Burke, D. (2018, August 16). *The Johari Window*. Retrieved from [https://deniseburke.ca](https://deniseburke.ca).
 [^davis-2006-online]: Davis, K. (2006, February 11). *Johari Window*. Retrieved from [https://kevan.org/johari/](https://kevan.org/johari/).

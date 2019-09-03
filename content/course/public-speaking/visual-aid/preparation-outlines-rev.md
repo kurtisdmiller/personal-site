@@ -17,8 +17,8 @@ slides:
 
 ---
 
-Preparation Outlines Review
----------------------------
+Preparation Outlines, Review
+----------------------------
 
 * What does an alphanumeric outline look like?
 * What does the principle of division require?
@@ -33,4 +33,3 @@ Continued...
 * How is a topic outline different from a full sentence outline?
 * How many supporting points should each main point have?
 
----

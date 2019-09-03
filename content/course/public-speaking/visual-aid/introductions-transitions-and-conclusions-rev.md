@@ -29,4 +29,3 @@ Introductions, Transitions, and Conclusions Review
 * What is one easy way to write a strong clincher?
 * When should be the first thing you say in your presentation?
 
----
