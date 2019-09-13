@@ -2,7 +2,7 @@
 title: Visual Aid Design
 toc: true
 type: docs
-date: "2019-08-07"
+date: "2019-09-12"
 draft: false
 featured: false
 # menu:
@@ -27,16 +27,14 @@ here!](/talk/miller-pruim-2018-slides/)*
 **Goals and Objectives:**
 
 * Students can identify fundamentals of good slide design.
-* Students can identify the problems with the typical topic phrase and
-  bullet list presentation aid.
+* Students can identify the problems with the typical topic phrase and bullet list presentation aid.
 * Students are able to use the assertion-evidence structure effectively.
 
-**Rationale:** The speed of information has increased dramatically in our
-interconnected world. Social media, blogging, and other forms of
-communication technology mean that crises appear and build momentum more
-quickly than ever. Basic exposure to crisis response presentations is
-essential because members of organizations never know when they may need
-to be part of responding to a crisis.
+**Rationale:** Many students have difficulty using visual aids properly.
+Most students have been exposed to poor-quality topic and bullet list
+visual aids throughout their entire time in education. This lesson walks
+students at the 100 level through the process of designing effective
+slides using visual forms of different evidence.
 
 Materials Needed
 ================
@@ -125,6 +123,7 @@ needed.
 
    v#   | Date       | Modifications
   ------|------------|:---------------
+  v0.03 | 2019-09-12 | Fixed rationale.
   v0.02 | 2019-08-07 | Changes for Hugo compatibility
   v0.01 | 2017-09-13 | modified to create 3 content slides
   v0.00 | 2017-08-29 | Initial Version
