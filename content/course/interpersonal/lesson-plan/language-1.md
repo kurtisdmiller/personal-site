@@ -55,7 +55,7 @@ Outline of the Lesson
 10. Lesson closing
 
 [^boroditsky-2017-ted]: Boroditsky, L. (2017, November). *Lena Boroditsky: How language shapes the way we think* [Video file]. Retrieved from [https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think](https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think)
-[^radiolab-2010-words]: Abumrad, J. & Krulwich, R. (Hosts). (2010, August 9). Words. [Radio program] In J. Abumrad & P. Walters (Producers), *Radiolab*, New York, NY: WNYC. Retrieved from [https://www.wnycstudios.org/podcasts/radiolab/episodes/91725-words](https://www.wnycstudios.org/podcasts/radiolab/episodes/91725-words)
+[^radiolab-2010-words]: Abumrad, J. & Krulwich, R. (Hosts). (2010, August 9). Words [Radio program]. In J. Abumrad & P. Walters (Producers), *Radiolab*, New York, NY: WNYC. Retrieved from [https://www.wnycstudios.org/podcasts/radiolab/episodes/91725-words](https://www.wnycstudios.org/podcasts/radiolab/episodes/91725-words)
 
 Limitations
 ===========
