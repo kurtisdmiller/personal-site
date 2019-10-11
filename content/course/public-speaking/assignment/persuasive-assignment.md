@@ -2,7 +2,7 @@
 title: Persuasive Presentation
 toc: true
 type: docs
-date: "2019-08-07"
+date: "2019-10-11"
 draft: false
 featured: false
 menu:
@@ -70,32 +70,109 @@ preparation outline and 100 points come from the presentation.
 Outline Rubric
 --------------
 
-The outline portion of this assignment is worth 25 points. (Yes, you get
-a sneaky bonus point! Shh, it's not a math class!)
+The outline portion of this assignment is worth 25 points. A minor issue (1m)
+will reduce the grade by 1 point, multiple minor issues (2m+) in the same area
+by 3 points, and major issues (M) by 5 points.
 
-|                    | 4 points                                                                                                            | 3 points                                                                                                 | 2 points                                                                                            | 1 point                                                               |
-|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|
-| Voice              | Outline is written as the presenter would speak to the audience.                                                    | Outline is written in complete sentences, but not in a spoken style.                                     | Outline has occasional sentence fragments.                                                          | Outline is written in sentence fragments.                             |
-| Organization       | Complete and effective introduction, supported main points, and conclusion, all separated by effective transitions. | Portions of introduction, supported main points, or conclusion are ineffective. All transitions present. | Portions of introduction or conclusion incomplete. Supported main points. Some transitions missing. | Sections or transitions are missing or main points are not supported. |
-| Outline Principles | Outline follows the principles of parallelism, coordination, subordination, and division.                           | Outline breaks one of the outline principles.                                                            | Outline breaks no more than two outline principles.                                                 | Outline breaks multiple outline principles.                           |
-| In-text Citations  | Citations are all present and written how they will be said during the presentation.                                | Citations are all present and mostly written how they will be said during the presentation.              | Citations are all present and are written using APA/MLA style.                                      | Citations are not present.                                            |
-| Reference Section  | References are listed properly and in APA format.                                                                   | References are listed properly.                                                                          | References are listed, but have errors.                                                             | References are not listed or are listed incorrectly.                  |
-| Format             | Uses a professional 12 point font, double spaced. Effective and consistent numbering and indentation.               | No more than one minor inconsistency in formatting.                                                      | No more than one major inconsistency or two minor inconsistencies in formatting.                    | Multiple inconsistencies in formatting.                               |
+| M | 2m+ | 1m | Objective                                                          |
+|:-:|:-:|:-:|:------------------------------------------------------------------------------------------|
+|   |   |   | **Professional**                                                      |
+| · | · | · | Written using a consistent, professional, 12 point font.              |
+| · | · | · | Outline is double-spaced.                                             |
+| · | · | · | Entries in the body are indented effectively and consistently.        |
+| · | · | · | Entries in the outline are numbered effectively and consistently.     |
+| · | · | · | Entries are free of distracting spelling or grammar errors.           |
+|   |   |   | **Topic Fit**                                                         |
+| · | · | · | Topic meets assignment objectives.                                    |
+| · | · | · | Topic is appropriate for the environment.                             |
+| · | · | · | Topic is compelling and interesting for the target audience.          |
+|   |   |   | **Introduction**                                                      |
+| · | · | · | Attention Getter is present, effective, and placed first.             |
+| · | · | · | Relevance effectively connects the topic to the audience.             |
+| · | · | · | Credibility effectively shows speaker's expertise to the audience.    |
+| · | · | · | Thesis Statement is clearly stated.                                   |
+| · | · | · | Overview effectively previews main points (and only main points).     |
+|   |   |   | **Organization**                                                      |
+| · | · | · | Main Points are clearly and consistently organized.                   |
+| · | · | · | Transitions are all present and effective.                            |
+| · | · | · | Directional transitions are used between main points.                 |
+|   |   |   | **Support**                                                           |
+| · | · | · | Main points support the thesis statement.                             |
+| · | · | · | Supporting points are evidence that supports main points.             |
+| · | · | · | Oral citations present for all supporting points.                     |
+| · | · | · | Initial oral citations contain all necessary information.             |
+| · | · | · | Evidence for each main point is diverse in type, form, and source.    |
+| · | · | · | Entries display parallelism, coordination, subordination, & division. |
+|   |   |   | **Conclusion**                                                        |
+| · | · | · | (Optional) Summary effectively reviews main points (only).            |
+| · | · | · | Thesis is clearly restated.                                           |
+| · | · | · | Clincher is present, effective, and placed last.                      |
+|   |   |   | **References**                                                        |
+| · | · | · | References are present for all citations.                             |
+| · | · | · | References have all information for APA format.                       |
+| · | · | · | References are listed in APA format.                                  |
+| · | · | · | References are listed in alphabetical order.                          |
 
-Note: Evidence with citation **and** reference information missing is plagiarism.
+Notes: Required information for initial citations includes creator, their
+credibility, publication date, source type, container title, work title, and
+(for quotations) page number. **Evidence with both citation and reference
+information missing is plagiarism.**
 
 Presentation Rubric
 -------------------
 
-The presentation portion of this assignment is worth 100 points.
+The presentation portion of this assignment is worth 100 points. A minor issue (1m)
+will reduce the grade by 2 points, multiple minor issues (2m+) in the same area
+by 5 points, and major issues (M) by 10 points.
 
-|                 | 20 points                                                                                                                  | 15 points                                                                                  | 10 points                                                                                                      | 5 points                                                                                                      |
-|:----------------|:----------------|:----------------|:----------------|:----------------|
-| Topic Fit       | The topic is compelling and interesting for the environment and audience.                                                  | The topic is appropriate for the environment and audience.                                 | The topic is appropriate for the environment or audience.                                                      | The topic is inappropriate for the environment and audience.                                                  |
-| Organization    | Organization is compelling and adds to the presentation. Complete and effective introduction, conclusion, and transitions. | Organization is clear. Complete introduction and conclusion. Transitions present.          | Portions of organization unclear. Portions of introduction or conclusion missing. One transition missing.      | No organization clear to audience. Significant problems with introduction or conclusion. Transitions missing. |
-| Support         | Thesis and main points are effectively supported. Evidence cited completely and appropriately.                             | Thesis and main points supported. Most evidence is cited completely and appropriately.     | Thesis not supported by main points or support for main points missing. Citations for evidence are incomplete. | Thesis and/or main points missing. No citations.                                                              |
-| Delivery        | Verbally fluent and nonverbally engaging.                                                                                  | Minor issues with verbal or nonverbal delivery that would not distract a general audience. | Distracting issues with verbal or nonverbal delivery that would distract many audience members.                | Significant delivery issues that prevent even motivated audience members from understanding.                  |
-| Time Management | Presentation is within 30 seconds of target length.                                                                        | Presentation is within 1 minute of target length.                                          | Presentation is within 2 minutes of target length.                                                             | Presentation significantly short or had to be stopped.                                                        |
+| M | 2m+ | 1m | Objective                                                              |
+|:-:|:-:|:-:|:------------------------------------------------------------------------------------------|
+|   |   |   | **Topic Fit**                                                             |
+| · | · | · | Topic meets assignment objectives.                                        |
+| · | · | · | Topic is appropriate for the environment.                                 |
+| · | · | · | Topic is compelling and interesting for the target audience.              |
+|   |   |   | **Introduction**                                                          |
+| · | · | · | Attention Getter is present, effective, and placed first.                 |
+| · | · | · | Relevance effectively connects the topic to the audience.                 |
+| · | · | · | Credibility effectively shows speaker's expertise to the audience.        |
+| · | · | · | Thesis Statement is clearly stated.                                       |
+| · | · | · | Overview effectively previews main points (and only main points).         |
+|   |   |   | **Organization**                                                          |
+| · | · | · | Main Points are clearly and consistently organized.                       |
+| · | · | · | Transitions are all present and effective.                                |
+| · | · | · | Directional transitions are used between main points.                     |
+|   |   |   | **Support**                                                               |
+| · | · | · | Main points support the thesis statement.                                 |
+| · | · | · | Supporting points are evidence that supports main points.                 |
+| · | · | · | Oral citations present for all supporting points.                         |
+| · | · | · | Initial oral citations contain all necessary information.                 |
+| · | · | · | Evidence for each main point is diverse in type, form, and source.        |
+|   |   |   | **Conclusion**                                                            |
+| · | · | · | (Optional) Summary effectively reviews main points (only).                |
+| · | · | · | Thesis is clearly restated.                                               |
+| · | · | · | Clincher is present, effective, and placed last.                          |
+|   |   |   | **Presentation Aids**                                                     |
+| · | · | · | Aids are professional and appropriate (topic, audience, environment).     |
+| · | · | · | Aids effectively complement the presentation.                             |
+| · | · | · | Aids are accessible for a general audience.                               |
+| · | · | · | Content slides have full-sentence assertion headings.                     |
+| · | · | · | Assertion headings are supported by visual evidence.                      |
+| · | · | · | Visual evidence is cited visually.                                        |
+| · | · | · | Complete references in APA style are included for visual citations.       |
+|   |   |   | **Delivery**                                                              |
+| · | · | · | Voice is clear, fluent, and engaging (volume, rate, pitch, fillers, etc). |
+| · | · | · | Movement is engaging and appropriate (movement, pacing, swaying, etc.).   |
+| · | · | · | Eye contact is distributed evenly and naturally across the audience.      |
+| · | · | · | Facial expressions are engaging and appropriate.                          |
+| · | · | · | Speech notes are used effectively (a checklist, not a script).            |
+|   |   |   | **Time Management**                                                       |
+| · | · | · | Presentation is within 30 seconds of target length.                       |
+
+Notes: Required information for initial citations includes creator, their
+credibility, publication date, source type, container title, work title, and
+(for quotations) page number. Presentations which greatly exceed the target
+length will be stopped. **Evidence with both citation and reference information
+missing is plagiarism.**
 
 Examples
 ========
@@ -133,6 +210,7 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v3.00 | 2019-10-11 | new grading rubrics
   v2.05 | 2019-08-08 | Changes for Hugo compatibility, integrated and updated rubrics
   v2.04 | 2018-01-16 | moved presentation specific components to standalone assignment
   v2.03 | 2017-10-03 | Added text for choosing a topic

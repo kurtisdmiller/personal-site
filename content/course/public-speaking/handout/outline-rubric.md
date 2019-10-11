@@ -2,7 +2,7 @@
 title: Outline Rubric
 toc: false
 type: docs
-date: "2019-08-07"
+date: "2019-10-11"
 draft: false
 featured: false
 # menu:
@@ -15,18 +15,50 @@ weight: 999
 
 ---
 
-The outline portion of this assignment is worth 25 points. (Yes, you get
-a sneaky bonus point! Shh, it's not a math class!)
+The outline portion of this assignment is worth 25 points. A minor issue (1m)
+will reduce the grade by 1 point, multiple minor issues (2m+) in the same area
+by 3 points, and major issues (M) by 5 points.
 
-|                    | 4 points                                                                                                            | 3 points                                                                                                 | 2 points                                                                                            | 1 point                                                               |
-|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|
-| Voice              | Outline is written as the presenter would speak to the audience.                                                    | Outline is written in complete sentences, but not in a spoken style.                                     | Outline has occasional sentence fragments.                                                          | Outline is written in sentence fragments.                             |
-| Organization       | Complete and effective introduction, supported main points, and conclusion, all separated by effective transitions. | Portions of introduction, supported main points, or conclusion are ineffective. All transitions present. | Portions of introduction or conclusion incomplete. Supported main points. Some transitions missing. | Sections or transitions are missing or main points are not supported. |
-| Outline Principles | Outline follows the principles of parallelism, coordination, subordination, and division.                           | Outline breaks one of the outline principles.                                                            | Outline breaks no more than two outline principles.                                                 | Outline breaks multiple outline principles.                           |
-| In-text Citations  | Citations are all present and written how they will be said during the presentation.                                | Citations are all present and mostly written how they will be said during the presentation.              | Citations are all present and are written using APA/MLA style.                                      | Citations are not present.                                            |
-| Reference Section  | References are listed properly and in APA format.                                                                   | References are listed properly.                                                                          | References are listed, but have errors.                                                             | References are not listed or are listed incorrectly.                  |
-| Format             | Uses a professional 12 point font, double spaced. Effective and consistent numbering and indentation.               | No more than one minor inconsistency in formatting.                                                      | No more than one major inconsistency or two minor inconsistencies in formatting.                    | Multiple inconsistencies in formatting.                               |
+| M | 2m+ | 1m | Objective                                                          |
+|:-:|:-:|:-:|:------------------------------------------------------------------------------------------|
+|   |   |   | **Professional**                                                      |
+| · | · | · | Written using a consistent, professional, 12 point font.              |
+| · | · | · | Outline is double-spaced.                                             |
+| · | · | · | Entries in the body are indented effectively and consistently.        |
+| · | · | · | Entries in the outline are numbered effectively and consistently.     |
+| · | · | · | Entries are free of distracting spelling or grammar errors.           |
+|   |   |   | **Topic Fit**                                                         |
+| · | · | · | Topic meets assignment objectives.                                    |
+| · | · | · | Topic is appropriate for the environment.                             |
+| · | · | · | Topic is compelling and interesting for the target audience.          |
+|   |   |   | **Introduction**                                                      |
+| · | · | · | Attention Getter is present, effective, and placed first.             |
+| · | · | · | Relevance effectively connects the topic to the audience.             |
+| · | · | · | Credibility effectively shows speaker's expertise to the audience.    |
+| · | · | · | Thesis Statement is clearly stated.                                   |
+| · | · | · | Overview effectively previews main points (and only main points).     |
+|   |   |   | **Organization**                                                      |
+| · | · | · | Main Points are clearly and consistently organized.                   |
+| · | · | · | Transitions are all present and effective.                            |
+| · | · | · | Directional transitions are used between main points.                 |
+|   |   |   | **Support**                                                           |
+| · | · | · | Main points support the thesis statement.                             |
+| · | · | · | Supporting points are evidence that supports main points.             |
+| · | · | · | Oral citations present for all supporting points.                     |
+| · | · | · | Initial oral citations contain all necessary information.             |
+| · | · | · | Evidence for each main point is diverse in type, form, and source.    |
+| · | · | · | Entries display parallelism, coordination, subordination, & division. |
+|   |   |   | **Conclusion**                                                        |
+| · | · | · | (Optional) Summary effectively reviews main points (only).            |
+| · | · | · | Thesis is clearly restated.                                           |
+| · | · | · | Clincher is present, effective, and placed last.                      |
+|   |   |   | **References**                                                        |
+| · | · | · | References are present for all citations.                             |
+| · | · | · | References have all information for APA format.                       |
+| · | · | · | References are listed in APA format.                                  |
+| · | · | · | References are listed in alphabetical order.                          |
 
-Note: Evidence with citation **and** reference information missing is plagiarism.
-
-
+Notes: Required information for initial citations includes creator, their
+credibility, publication date, source type, container title, work title, and
+(for quotations) page number. **Evidence with both citation and reference
+information missing is plagiarism.**
