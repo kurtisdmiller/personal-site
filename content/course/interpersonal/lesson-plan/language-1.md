@@ -1,5 +1,5 @@
 ---
-title: Perceiving Others, Day 1
+title: Language, Day 1
 tou: true
 type: docs
 date: "2019-09-24"
