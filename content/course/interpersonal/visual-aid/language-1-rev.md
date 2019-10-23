@@ -23,5 +23,12 @@ Language, Day 1 Review
 * How did researchers show that language improves spatial memory?
 * What was a significant difference between younger and older signers in Nicaragua?
 * What are some examples of ways that language features change our perceptions?
-* What is the name of the best known "linguistic relativity" hypothesis?
 
+---
+
+Continued...
+------------
+
+* What is the name of the best known "linguistic relativity" hypothesis?
+* What are the components of an assertive message?
+* What is a "euphemism?"
