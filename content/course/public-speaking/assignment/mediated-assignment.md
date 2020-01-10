@@ -2,7 +2,7 @@
 title: Mediated Presentation
 toc: true
 type: docs
-date: "2019-10-11"
+date: "2020-01-07"
 draft: false
 featured: false
 menu:
@@ -15,237 +15,92 @@ weight: 10
 
 ---
 
-**Overview:** You will need to prepare a brief recorded presentation that can
-be consumed anywhere in the world through using electronic media.
+**Due Dates:**
 
-**Purpose:** More and more presentations occur through electronic media. The
-ability to record and distribute a presentation electronically has made it far
-easier to reach a much greater number of people all over the world. This
-presentation allows you to edit and re-record portions of your presentation,
-and allows you to present without the pressure of a live audience, which is
-useful in helping new presenters overcome presentation anxiety.
+  * See the calendar for your section for the available presentation dates.
+  * Outline and Visual Aid -- two class meetings prior to your presentation.
 
-**Target Length:** 7 minutes
-
-**Due:** See the calendar for your section for due dates.
-
-Detailed Description
-====================
-
-Objective
----------
-
-Choose a historically significant person in your major area of study. Provide
-an informative presentation that informs your audience about the events which
-make this person historically significant to your future field. If you have
-more than one declared major, choose a person from one of your major areas. If
-you do not have a major area, choose someone who has had a historically
-significant impact on the field of [Communication
-Studies](https://en.wikipedia.org/wiki/Communication_studies).
-
-**Note:** "Historically significant" means that their actions have caused
-a significant change in that field.  Many people who are historically
-significant do not end up being famous or very successful. While some people
-that are very successful in a field cause significant changes, many very
-successful people are not historically significant to any field. Likewise,
-while some people who are famous cause significant changes in a field, many do
-not. Finally, remember that a person may change a field without being in that
-field themselves.
-
-Limitations
------------
-
- * You should not choose someone who is currently active in their career.
- * You must use a PowerPoint-style visual aid which uses the assertion-evidence
-   structure.
- 
-Format
-------
-
-You will need to record the presentation and save it in a commonly-used video
-format in order to upload video to YouTube. Like all presentations, your
-mediated presentation should include an effective introduction, body, and
-conclusion.
-
-Grading
+Purpose
 =======
 
-This project is graded out of 150 points. 25 points come from the
-preparation outline, 25 points come from the graded PowerPoint, and 100
-points come from the presentation.
+Improvements in technology and the Internet have made mediated presentations increasingly common.
+The ability to record and distribute a presentation electronically has made it far easier to reach a much greater number of people all over the world.
+This presentation supports course student learning outcome #2.
 
-Outline Rubric
---------------
+Skills
+------
 
-The outline portion of this assignment is worth 25 points. A minor issue (1m)
-will reduce the grade by 1 point, multiple minor issues (2m+) in the same area
-by 3 points, and major issues (M) by 5 points.
+In this assignment you will:
 
-| M | 2m+ | 1m | Objective                                                          |
-|:-:|:-:|:-:|:------------------------------------------------------------------------------------------|
-|   |   |   | **Professional**                                                      |
-| · | · | · | Written using a consistent, professional, 12 point font.              |
-| · | · | · | Outline is double-spaced.                                             |
-| · | · | · | Entries in the body are indented effectively and consistently.        |
-| · | · | · | Entries in the outline are numbered effectively and consistently.     |
-| · | · | · | Entries are free of distracting spelling or grammar errors.           |
-|   |   |   | **Topic Fit**                                                         |
-| · | · | · | Topic meets assignment objectives.                                    |
-| · | · | · | Topic is appropriate for the environment.                             |
-| · | · | · | Topic is compelling and interesting for the target audience.          |
-|   |   |   | **Introduction**                                                      |
-| · | · | · | Attention Getter is present, effective, and placed first.             |
-| · | · | · | Relevance effectively connects the topic to the audience.             |
-| · | · | · | Credibility effectively shows speaker's expertise to the audience.    |
-| · | · | · | Thesis Statement is clearly stated.                                   |
-| · | · | · | Overview effectively previews main points (and only main points).     |
-|   |   |   | **Organization**                                                      |
-| · | · | · | Main Points are clearly and consistently organized.                   |
-| · | · | · | Transitions are all present and effective.                            |
-| · | · | · | Directional transitions are used between main points.                 |
-|   |   |   | **Support**                                                           |
-| · | · | · | Main points support the thesis statement.                             |
-| · | · | · | Supporting points are evidence that supports main points.             |
-| · | · | · | Oral citations present for all supporting points.                     |
-| · | · | · | Initial oral citations contain all necessary information.             |
-| · | · | · | Evidence for each main point is diverse in type, form, and source.    |
-| · | · | · | Entries display parallelism, coordination, subordination, & division. |
-|   |   |   | **Conclusion**                                                        |
-| · | · | · | (Optional) Summary effectively reviews main points (only).            |
-| · | · | · | Thesis is clearly restated.                                           |
-| · | · | · | Clincher is present, effective, and placed last.                      |
-|   |   |   | **References**                                                        |
-| · | · | · | References are present for all citations.                             |
-| · | · | · | References have all information for APA format.                       |
-| · | · | · | References are listed in APA format.                                  |
-| · | · | · | References are listed in alphabetical order.                          |
+* Prepare a mediated presentation to be viewed asynchronously.
+* Organize evidence to support an informative argument.
 
-Notes: Required information for initial citations includes creator, their
-credibility, publication date, source type, container title, work title, and
-(for quotations) page number. **Evidence with both citation and reference
-information missing is plagiarism.**
+Knowledge
+---------
+
+This assignment will also help you become familiar with the following important content in this discipline:
+
+* Differences between face-to-face and mediated presentations
+* Historically significant figures in various fields of study
+
+Task
+====
+
+You will prepare a deliver a 6-minute presentation where your inform your audience about a historically significant person in your major area of study.
+"Historically significant" means that their actions have caused a significant change in that field.
+If you have more than one declared major, choose a person from one of your major areas.
+If you do not have a major area, choose someone who has had a historically significant impact on the field of [Communication Studies](https://en.wikipedia.org/wiki/Communication_studies).
+Do not choose a living person.
+Do not choose your subject because they were famous or successful.
+The person you choose may be outside your field of study, as long as they had an impact on that field.
+
+To complete this assignment, you will need to:
+
+1. Reserve a topic for your presentation on Moodle.
+2. Create a preparation outline and submit it on Moodle.
+3. Create a projected visual aid and submit it on Moodle.
+4. Record your presentation.
+5. Upload the recording to YouTube.
+6. Submit the video URL on Moodle.
+
+Criteria for Success
+====================
+
+This presentation is graded out of 250 points.
+
+Component           | Points
+--------------------|-------
+Preparation Outline | 50
+Visual Aid          | 50
+Presentation        | 150
+
+See the [grading and feedback rubric][prepared-rubric] for detail.
+
+[prepared-rubric]: /course/public-speaking/handout/prepared-presentation-rubric.pdf/
+
+
 
 Graded PowerPoint Rubric
 ------------------------
 
-The graded PowerPoint of this assignment is worth 25 points. A minor issue (1m)
-will reduce the grade by 1 point, multiple minor issues (2m+) in the same area
-by 3 points, and major issues (M) by 5 points.
-
-| M | 2m+ | 1m | Objective                                                                              |
-|:-:|:-:|:-:|:------------------------------------------------------------------------------------------|
-|   |   |   | **Professional**                                                                          |
-| · | · | · | Slide layouts are consistent.                                                             |
-| · | · | · | Fonts used are consistent and appropriate.                                                |
-| · | · | · | Colors are consistent and appropriate.                                                    |
-| · | · | · | Images are not stretched, squashed, or mangled.                                           |
-| · | · | · | Image styles and backgrounds are consistent and appropriate.                              |
-| · | · | · | Slide components are consistent.                                                          |
-| · | · | · | Text and evidence are placed appropriately.                                               |
-| · | · | · | Call-outs on slides are used effectively if needed to direct audience attention.          |
-| · | · | · | Slides contain no distracting typos, spelling errors, or grammar errors.                  |
-|   |   |   | **Complements the Presentation**                                                          |
-| · | · | · | Does not duplicate verbal content (don't cut-and-paste your outline).                     |
-| · | · | · | Visual aid includes an appropriate number of slides for topic and objective.              |
-|   |   |   | **Accessible**                                                                            |
-| · | · | · | Each text entry is no more than two lines visually (three for quotes).                    |
-| · | · | · | Font sizes are large enough for a general audience (30+ pt recommended).                  |
-| · | · | · | Colors used are appropriate for a general audience.                                       |
-| · | · | · | Color is not the only way meaning is expressed.                                           |
-|   |   |   | **Assertion-evidence Structure**                                                          |
-| · | · | · | Headings on content slides are complete sentences that make a claim.                      |
-| · | · | · | Visual evidence included on content slides.                                               |
-| · | · | · | Visual evidence is diverse in form (ex: uses images, graphs, *and* quotes).               |
-| · | · | · | Visual evidence supports assertion headings.                                              |
-| · | · | · | Citations are provided for all visual evidence.                                           |
-| · | · | · | On-slide citations list creator & date (and also usage rights for images).                |
-|   |   |   | **Referenced Appropriately**                                                              |
-| · | · | · | References are present for all citations.                                                 |
-| · | · | · | References have all information for APA format.                                           |
-| · | · | · | References are listed in APA format.                                                      |
-| · | · | · | References are listed in alphabetical order.                                              |
-
-Note: **Evidence with both citation and reference information missing is plagiarism.**
 
 Presentation Rubric
 -------------------
 
-The presentation portion of this assignment is worth 100 points. A minor issue (1m)
-will reduce the grade by 2 points, multiple minor issues (2m+) in the same area
-by 5 points, and major issues (M) by 10 points.
-
-| M | 2m+ | 1m | Objective                                                              |
-|:-:|:-:|:-:|:------------------------------------------------------------------------------------------|
-|   |   |   | **Topic Fit**                                                             |
-| · | · | · | Topic meets assignment objectives.                                        |
-| · | · | · | Topic is appropriate for the environment.                                 |
-| · | · | · | Topic is compelling and interesting for the target audience.              |
-|   |   |   | **Introduction**                                                          |
-| · | · | · | Attention Getter is present, effective, and placed first.                 |
-| · | · | · | Relevance effectively connects the topic to the audience.                 |
-| · | · | · | Credibility effectively shows speaker's expertise to the audience.        |
-| · | · | · | Thesis Statement is clearly stated.                                       |
-| · | · | · | Overview effectively previews main points (and only main points).         |
-|   |   |   | **Organization**                                                          |
-| · | · | · | Main Points are clearly and consistently organized.                       |
-| · | · | · | Transitions are all present and effective.                                |
-| · | · | · | Directional transitions are used between main points.                     |
-|   |   |   | **Support**                                                               |
-| · | · | · | Main points support the thesis statement.                                 |
-| · | · | · | Supporting points are evidence that supports main points.                 |
-| · | · | · | Oral citations present for all supporting points.                         |
-| · | · | · | Initial oral citations contain all necessary information.                 |
-| · | · | · | Evidence for each main point is diverse in type, form, and source.        |
-|   |   |   | **Conclusion**                                                            |
-| · | · | · | (Optional) Summary effectively reviews main points (only).                |
-| · | · | · | Thesis is clearly restated.                                               |
-| · | · | · | Clincher is present, effective, and placed last.                          |
-|   |   |   | **Presentation Aids**                                                     |
-| · | · | · | Aids are professional and appropriate (topic, audience, environment).     |
-| · | · | · | Aids effectively complement the presentation.                             |
-| · | · | · | Aids are accessible for a general audience.                               |
-| · | · | · | Content slides have full-sentence assertion headings.                     |
-| · | · | · | Assertion headings are supported by visual evidence.                      |
-| · | · | · | Visual evidence is cited visually.                                        |
-| · | · | · | Complete references in APA style are included for visual citations.       |
-|   |   |   | **Delivery**                                                              |
-| · | · | · | Voice is clear, fluent, and engaging (volume, rate, pitch, fillers, etc). |
-| · | · | · | Movement is engaging and appropriate (movement, pacing, swaying, etc.).   |
-| · | · | · | Eye contact is distributed evenly and naturally across the audience.      |
-| · | · | · | Facial expressions are engaging and appropriate.                          |
-| · | · | · | Speech notes are used effectively (a checklist, not a script).            |
-|   |   |   | **Time Management**                                                       |
-| · | · | · | Presentation is within 30 seconds of target length.                       |
-
-Notes: Required information for initial citations includes creator, their
-credibility, publication date, source type, container title, work title, and
-(for quotations) page number. Presentations which greatly exceed the target
-length will be stopped. **Evidence with both citation and reference information
-missing is plagiarism.**
-
 Examples
 ========
 
-Here are some example outlines for mediated presentations given in this
-class.[^student-permission]
+Here are some example outlines for mediated presentations given in this class.[^student-permission]
 
-[Example Mediated Outline
-1](/course/public-speaking/assignment/mediated-outline-example-1.docx) is
-a well-formatted outline.
+[Example Mediated Outline 1](/course/public-speaking/assignment/mediated-outline-example-1.docx) is a well-formatted outline.
 
 [![Example Mediated Outline 1](/img/course/mediated-outline-example-1.PNG)](/course/public-speaking/assignment/mediated-outline-example-1.docx)
 
-[Example Mediated Outline
-2](/course/public-speaking/assignment/mediated-outline-example-2.docx)
-does a very good job with using oral citations throughout the
-presentation.
+[Example Mediated Outline 2](/course/public-speaking/assignment/mediated-outline-example-2.docx) does a very good job with using oral citations throughout the presentation.
 
 [![Example Mediated Outline 2](/img/course/mediated-outline-example-2.PNG)](/course/public-speaking/assignment/mediated-outline-example-2.docx)
 
-Here is an [example of a visual
-aid](/course/public-speaking/visual-aid/example-visual-aid.pptx) that uses
-the Assertion-Evidence structure for each of the three forms of evidence
-which are commonly presented visually.
+Here is an [example of a visual aid](/course/public-speaking/visual-aid/example-visual-aid.pptx) that uses the Assertion-Evidence structure for each of the three forms of evidence which are commonly presented visually.
 
 [![Example Visual
 Aid](/img/course/example-visual-aid.PNG)](/course/public-speaking/visual-aid/example-visual-aid.pptx)
@@ -265,6 +120,7 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v5.00 | 2020-01-07 | Switched formatting for better transparency.
   v4.00 | 2019-10-11 | new grading rubrics
   v3.03 | 2019-08-08 | Changes for Hugo compatibility, integrated and updated rubrics
   v3.02 | 2018-01-16 | moved presentation specific components to standalone assignment

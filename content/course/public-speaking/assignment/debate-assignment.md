@@ -2,7 +2,7 @@
 title: Debate Assignment
 toc: true
 type: docs
-date: "2019-08-07"
+date: "2019-01-07"
 draft: false
 featured: false
 menu:
@@ -15,17 +15,15 @@ weight: 13
 
 ---
 
-***This assignment is under construction***
-
 **Overview:** You will conduct a debate as a team of three people against
-another team of three people. You will have approximately 20 minutes to
+another team of three people. You will have approximately 15 minutes to
 prepare before the debate.
 
 **Purpose:** Being an agile and confident speaker who can think on his or
 her feet is beneficial. Practice in debate requires you to demonstrate the
 majority of the learning outcomes for this course.
 
-**Target Length:** 5 minute maximum, per speaker.
+**Target Length:** 4 minute maximum, per speaker.
 
 **Due:** See the calendar for your section for due dates.
 
@@ -58,12 +56,12 @@ topic is announced. After preparation each member of the group will speak:
 
 Group | Speaker | Speech       | Time Limit
 ------|---------|--------------|-----------
- PRO  | 1       | Constructive | 5 minutes
- CON  | 1       | Constructive | 5 minutes
- PRO  | 2       | Constructive | 5 minutes
- CON  | 2       | Constructive | 5 minutes
- CON  | 3       | Rebuttal     | 5 minutes
- PRO  | 3       | Rebuttal     | 5 minutes
+ PRO  | 1       | Constructive | 4 minutes
+ CON  | 1       | Constructive | 4 minutes
+ PRO  | 2       | Constructive | 4 minutes
+ CON  | 2       | Constructive | 4 minutes
+ CON  | 3       | Rebuttal     | 4 minutes
+ PRO  | 3       | Rebuttal     | 4 minutes
 
 <!-- Normal time limits
 Group Member | Speech       | Time Limit
@@ -76,122 +74,14 @@ Group Member | Speech       | Time Limit
    PM        | Rebuttal     | 5 minutes
 -->
 
-<!--
 Grading
 =======
 
-This project is graded out of 100 points. 30 points come from the
-preparation time, and 70 points come from the presentation.
+This project is graded out of 75 points.
+15 points come from the preparation time, and 60 points come from the presentation.
+This presentation is graded wholistically and does not have a rubric.
 
-Preparation Rubric
-------------------
 
-<table>
-  <tr>
-    <td></td>
-    <td>10 points</td>
-    <td>8 points</td>
-    <td>6 points</td>
-    <td>4 points</td>
-    <td>2 points</td>
-  <tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  <tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  <tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  <tr>
-</table
-
-Presentation Rubric
--------------------
-
-<table>
-  <tr>
-    <td></td>
-    <td>10 points</td>
-    <td>8 points</td>
-    <td>6 points</td>
-    <td>4 points</td>
-    <td>2 points</td>
-  </tr>
-  <tr>
-    <td>Analysis </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Support</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Clash</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Organization</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Audience</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Adaptation</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Delivery</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
--->
 
 <!--
 Examples
@@ -216,6 +106,7 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v0.03 | 2020-01-07 | Specified grading and lack of rubric.
   v0.02 | 2018-08-08 | Changes for Hugo Compatibility
   v0.01 | 2018-01-16 | moved back to point system
   v0.00 | 2017-11-10 | Initial version

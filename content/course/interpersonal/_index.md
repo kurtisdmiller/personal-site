@@ -1,8 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Interpersonal Communication
-summary: "Course Description: This course examines the current thory and research traditions in the areas of interpersonal communication. Topics in the course will include scripted and role-based interaction, intimate relationships and relationship development, deception, verbal and nonverbal aspects of communication."
-weight: 1
+weight: 40
 
 # Page metadata.
 title: Interpersonal Communication
@@ -23,7 +22,7 @@ menu:
 
 <!-- course description -->
 
-**Course Description:** This course examines the current thory and
+**Course Description:** This course examines the current theory and
 research traditions in the areas of interpersonal communication. Topics in
 the course will include scripted and role-based interaction, intimate
 relationships and relationship development, deception, verbal and

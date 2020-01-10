@@ -1,15 +1,16 @@
 ---
-title: SPCH 101, Public Speaking
+title: COMM 212, Team and Small Group Communication
 linktitle: Syllabus
 toc: true
 type: docs
 author: Kurtis D. Miller
-date: "2020-01-13"
+date: 2020-01-07
+lastmod: 2020-01-08
 draft: false
 featured: false
 menu:
-  public-speaking:
-    parent: Public Speaking
+  team-small-group:
+    parent: Team and Small Group
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -25,10 +26,11 @@ weight: 1
 | 423-636-7300 Ext. 5783                                | also by appointment         |
 
 > **Course Description:**
-> Speaking clearly and comfortably in public is an essential skill set.
-> This course prepares students for a variety of professional situations in which formal presentations are expected.
-> Topics will include cultural conventions of speech, verbal and nonverbal messaging, and techniques of oral presentation and persuasion.
-> Students will learn to research, outline, and deliver a variety of speeches (e.g. demonstrative, informative, persuasive, special occasion, etc.) of varying lengths.
+> This class focuses on communication in small groups and teams.
+> In order to further the students' understanding of these processes, a number of current theories and concepts will be introduced.
+> Students will draw connections between these ideas, examples of the interactions of real world groups, and the students' own experiences.
+> A number of group projects will be incorporated so that class members can have a chance to observe the phenomena and apply the strategies that are discussed in assigned readings and media, or which are presented in class.
+> This class will require participation in group activities outside of the regularly scheduled class meetings.
 
 *The syllabus for this course is subject to change at any time.*
 *This includes, but is not limited to, such elements as required assignments, grading requirements/scales and the course calendar.*
@@ -41,7 +43,7 @@ This course is a part of the General Education Program. The following
 learning outcomes will be assessed:
 
 1. Writing: Students will structure evidence to convincingly support their arguments.
-   The **Preparation Outline** of the [Persuasive Presentation][Persuasive] will be used to measure this learning outcome.
+   The [Community Group Observation][] will be used to measure this learning outcome.
 2. Public Speaking: Students will create messages appropriate to the audience, purpose, and context.
    The **Assessment Worksheet** provided in the final weeks of the class will be used to measure this learning outcome.
 3. Public Speaking: Students will evaluate personal communication strengths and weaknesses.
@@ -51,17 +53,17 @@ Other Learning Outcomes
 -----------------------
 
 <!--Course SLOs-->
-1. Students will employ presentation aids which clearly and accurately enhance their presentations.
-   The **Graded PowerPoint** for the [Persuasive Presentation][Persuasive] will be used to measure this learning outcome.
-2. Students will complete a presentation delivered through communication technology.
-   The [Mediated Presentation][Mediated] will be used to measure this learning outcome.
+1. Students will employ communication theory in the area of team and small group communication.
+   The [Community Group Observation][] will be used to measure this learning outcome.
+2. Students will understand the location of team and small group communication as a field within communication studies.
+   The **Assessment Worksheet** provided in the final weeks of the class will be used to measure this learning outcome.
 
 Required Texts and Materials
 ----------------------------
 
-The textbook for this course is "A Speaker's Guidebook" (O'Hair, Stewart, & Rubenstein).
-5th edition or newer is needed. Copies of this textbook are available on course reserve in the Library or from the Tutoring Center.
-In addition to the textbook and standard classroom supplies, you will need a flash drive, white 3x5 index cards, access to a video recording device (such as a phone), and a YouTube account.
+The textbook for this course is "Communicating in Small Groups: Principles and Practices" (Beebe & Masterson).
+We will be using the 10th Edition.
+You will also need to bring standard classroom and note taking supplies with you each day.
 
 Attendance and Participation
 ----------------------------
@@ -78,8 +80,6 @@ Late work will lose 10% of the available points.
 Late preparation materials for prepared presentations may be turned in more than 1 calendar day after the deadline, but will earn zero points.
 Prepared presentations may not be delivered if reasonably complete preparation materials have not been turned in at least 24 hours prior to the scheduled presentation time.
 Late or missing work will also result in penalties to your [Professionalism][] grade.
-Class time will not be provided for late presentations.
-Presentations may be turned in late by following the instructions for [video submission][] available on the class page.
 Using technology is a basic expectation of students at this level of study -- issues with technology are not an excuse for late or missing work.
 If you need assistance with technology, contact [Information Services][].
 
@@ -92,8 +92,6 @@ These situations are handled on a case-by-case basis and, depending on the situa
 Coursework assigned an alternate deadline is graded for full credit, but will not receive feedback.
 
 Alternate deadlines will not be assigned for absences that can be planned for -- this includes school-sponsored events, such as athletics.
-Presentations may always be turned in early using [video submission][].
-Follow the [video submission][] link for more information.
 
 ## Classroom Behavior
 
@@ -114,8 +112,8 @@ Assignments and Grading
 
 Your final grade will be determined by the total points received out of 1,000 points possible.
 Your points will accumulate through the semester.
-The largest portion of your final grade comes from **Prepared Presentations**.
-The other areas you will be graded in include **Content Knowledge**, **Short Notice Presentations**, **Peer Evaluations** and **Professionalism**.
+The largest portions of your final grade comes from **Content Knowledge** and **Group Projects**.
+You will also be graded on your **Professionalism**
 **Extra credit** is available for this class.
 
 Grading Scale
@@ -142,39 +140,21 @@ There are many extra credit opportunities; see above for more information.
 
 [^tu-academic-policies]: Tusculum University. (n.d.). *Academic Policies.* Retrieved from: http://web.tusculum.edu/academics/academic-policies/
 
-Prepared Presentations
-----------------------
-
-Prepared presentations contribute 500 points to your final grade.
-You will have the opportunity to give three prepared presentations: a [Mediated Presentation][Mediated], a [Support Presentation][Support], and a [Persuasive Presentation][Persuasive].
-Each of these presentations is worth 250 points total (100 from preparation and 150 from execution).
-The lowest of these three presentation grades will be dropped.
-
-We will begin the semester with a [Practice Presentation][Practice].
-This presentation is designed to familiarize you with the technology and submission process for the class.
-Completing all portions of this presentation contributes 25 points to your final grade.
-
 Content Knowledge
 -----------------
 
-Demonstrating content knowledge contributes 200 points to your final grade.
+Demonstrating content knowledge contributes 500 points to your final grade.
+You will complete a [Community Group Observation][]. The report from this observation contributes 200 points to your final grade.
 Your understanding of the course material will be assessed through multiple choice quizzes in class and a final exam.
 The lowest two quiz scores will be dropped and the average of your remaining quiz scores will contribute 100 points to your final grade.
-The final exam will draw heavily from the quizzes given in class and will contribute 100 points to your final grade.
+The final exam will draw heavily from the quizzes given in class and will contribute 200 points to your final grade.
 
-Short Notice Presentations
---------------------------
+Group Projects
+--------------
 
-Short notice presentations contribute 75 points to your final grade.
-Near the end of the semester there will be a series of [Debate][] presentations.
-You may repeat the Debate presentation as many times as you would like, provided no other student with fewer attempts also wants to go.
-The highest score from these attempts will count toward your final grade.
-
-Peer Evaluations
-----------------
-
-A random selection of the [Peer Evaluations][] you provide to other students when they present will be graded.
-The average score on peer evaluations will contribute 100 points to your final grade.
+Participation in group projects contributes 400 points to your grade.
+The [Small Group Project][] will be completed in the middle of the semester and contributes 150 points to your final grade.
+The [Final Group Project][] will be completed at the end of the semester and contributes 250 points to your final grade.
 
 Professionalism
 ---------------
@@ -320,14 +300,10 @@ Student Veterans
 
 For information on support provided by Tusculum to veterans, contact Dale Laney, Director of Veteran Services, 121 Garland Library, tel. 423-636-7371, or [dlaney@tusculum.edu](mailto:dlaney@tusculum.edu). 
 
-<!-- Assignment Links -->
+<!--
+# Assignment Links -->
 
-[Mediated]:          /course/public-speaking/assignment/mediated-assignment/               "Assignment description"
-[Debate]:            /course/public-speaking/assignment/debate-assignment/                 "Assignment description"
-[Graded PowerPoint]: /course/public-speaking/assignment/graded-powerpoint-assignment/      "Assignment description"
-[Peer Evaluations]:  /course/public-speaking/assignment/peer-evaluations/                  "Assignment description"
-[Persuasive]:        /course/public-speaking/assignment/persuasive-assignment/             "Assignment description"
-[Practice]:          /course/public-speaking/assignment/practice-presentation/             "Assignment description"
-[Professionalism]:   /course/public-speaking/assignment/professionalism-grade/             "Assignment description"
-[Video Submission]:  /course/public-speaking/assignment/submitting-presentations-by-video/ "Assignment description"
-[Support]:           /course/public-speaking/assignment/support-assignment/                "Assignment description"
+[Community Group Observation]: /course/team-small-group/assignment/community-group-observation-assignment/ "Assignment description"
+[Small Group Project]:   /course/team-small-group/assignment/small-project-assignment/     "Assignment description"
+[Final Group Project]:   /course/team-small-group/assignment/final-project-assignment/     "Assignment description"
+[Professionalism]:       /course/team-small-group/assignment/professionalism-grade/        "Assignment description"

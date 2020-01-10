@@ -1,21 +1,24 @@
 ---
-title: SPCH 101, Public Speaking
-linktitle: Syllabus
+title: COMM 220, Argumentation and Debate
+linktitle: Argumentation Syllabus
 toc: true
 type: docs
 author: Kurtis D. Miller
-date: "2020-01-13"
+date: 2020-01-10
 draft: false
-featured: false
+featured: true
+summary: M/Th, 3:30 - 4:45, Location TBD
 menu:
-  public-speaking:
-    parent: Public Speaking
+  argumentation-debate:
+    parent: Debate
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 
 ---
+
+Spring 2020, M/Th, 3:30 -- 4:45, Location TBD
 
 | Instructor                                            | Office                      |
 |:------------------------------------------------------|:----------------------------|
@@ -24,11 +27,12 @@ weight: 1
 | [kdmiller@tusculum.edu](mailto:kdmiller@tusculum.edu) | 10:00 am – Noon, Wed        |
 | 423-636-7300 Ext. 5783                                | also by appointment         |
 
-> **Course Description:**
-> Speaking clearly and comfortably in public is an essential skill set.
-> This course prepares students for a variety of professional situations in which formal presentations are expected.
-> Topics will include cultural conventions of speech, verbal and nonverbal messaging, and techniques of oral presentation and persuasion.
-> Students will learn to research, outline, and deliver a variety of speeches (e.g. demonstrative, informative, persuasive, special occasion, etc.) of varying lengths.
+> **Course Description:** 
+> Students will learn about oral argumentation and debate, including case construction techniques, and case analysis and criticism.
+> As part of this class, students will prepare for and compete in debate events as part of the Debate team.
+> Emphasis will be given to discussion of current issues.
+> Travel to at least two competitive events will be required, as well as a fee to offset competition entrance fees, transportation costs, and other expenses.
+> Students may not take COMM 120 Debate Team Practicum and this course for credit in the same semester.
 
 *The syllabus for this course is subject to change at any time.*
 *This includes, but is not limited to, such elements as required assignments, grading requirements/scales and the course calendar.*
@@ -41,7 +45,7 @@ This course is a part of the General Education Program. The following
 learning outcomes will be assessed:
 
 1. Writing: Students will structure evidence to convincingly support their arguments.
-   The **Preparation Outline** of the [Persuasive Presentation][Persuasive] will be used to measure this learning outcome.
+   The final **[Argument Diagram][Diagram]** will be used to measure this learning outcome.
 2. Public Speaking: Students will create messages appropriate to the audience, purpose, and context.
    The **Assessment Worksheet** provided in the final weeks of the class will be used to measure this learning outcome.
 3. Public Speaking: Students will evaluate personal communication strengths and weaknesses.
@@ -51,17 +55,19 @@ Other Learning Outcomes
 -----------------------
 
 <!--Course SLOs-->
-1. Students will employ presentation aids which clearly and accurately enhance their presentations.
-   The **Graded PowerPoint** for the [Persuasive Presentation][Persuasive] will be used to measure this learning outcome.
-2. Students will complete a presentation delivered through communication technology.
-   The [Mediated Presentation][Mediated] will be used to measure this learning outcome.
+1. Students will explain the importance of communication in civic life.
+   The **Assessment Worksheet** provided in the final weeks of the class will be used to measure this learning outcome.
+2. Students will identify the challenges facing communities and the role of communication in resolving those challenges.
+   The **Assessment Worksheet** provided in the final weeks of the class will be used to measure this learning outcome.
+3. Students will utilize communication to respond to issues at the local, national and/or global level.
+   The **Assessment Worksheet** provided in the final weeks of the class will be used to measure this learning outcome.
 
 Required Texts and Materials
 ----------------------------
 
-The textbook for this course is "A Speaker's Guidebook" (O'Hair, Stewart, & Rubenstein).
-5th edition or newer is needed. Copies of this textbook are available on course reserve in the Library or from the Tutoring Center.
-In addition to the textbook and standard classroom supplies, you will need a flash drive, white 3x5 index cards, access to a video recording device (such as a phone), and a YouTube account.
+There is no required textbook for this class.
+Readings may be assigned and distributed through Moodle.
+You will need paper and a writing utensil, a device for conducting research (phone, laptop, etc.), and a standard kitchen timer in every class meeting.
 
 Attendance and Participation
 ----------------------------
@@ -69,17 +75,15 @@ Attendance and Participation
 Attendance will be taken regularly.
 Attendance records will be kept and reported to the extent required by law and university policy.
 Participating regularly in class is assessed as a portion of your [Professionalism][] grade.
+Attendance is strongly encouraged, as the majority of the points in this class come from in-class activities.
+<!--TODO: create Professionalism Assignment page --> 
 
 Late Work Policy
 ----------------
 
 Late work may be turned in up to 1 calendar day after the deadline.
 Late work will lose 10% of the available points.
-Late preparation materials for prepared presentations may be turned in more than 1 calendar day after the deadline, but will earn zero points.
-Prepared presentations may not be delivered if reasonably complete preparation materials have not been turned in at least 24 hours prior to the scheduled presentation time.
 Late or missing work will also result in penalties to your [Professionalism][] grade.
-Class time will not be provided for late presentations.
-Presentations may be turned in late by following the instructions for [video submission][] available on the class page.
 Using technology is a basic expectation of students at this level of study -- issues with technology are not an excuse for late or missing work.
 If you need assistance with technology, contact [Information Services][].
 
@@ -92,8 +96,6 @@ These situations are handled on a case-by-case basis and, depending on the situa
 Coursework assigned an alternate deadline is graded for full credit, but will not receive feedback.
 
 Alternate deadlines will not be assigned for absences that can be planned for -- this includes school-sponsored events, such as athletics.
-Presentations may always be turned in early using [video submission][].
-Follow the [video submission][] link for more information.
 
 ## Classroom Behavior
 
@@ -112,11 +114,13 @@ Unprofessional behavior in the classroom will result in penalties to your [Profe
 Assignments and Grading
 =======================
 
-Your final grade will be determined by the total points received out of 1,000 points possible.
+Your final grade will be determined by the total points received out of 1000 points possible.
 Your points will accumulate through the semester.
-The largest portion of your final grade comes from **Prepared Presentations**.
-The other areas you will be graded in include **Content Knowledge**, **Short Notice Presentations**, **Peer Evaluations** and **Professionalism**.
-**Extra credit** is available for this class.
+The largest portions of your final grade comes from **Content Knowledge**.
+A second significant portion of your final grade comes from **Practicing Debate**.
+You will also earn points from **Professionalism**
+**Extra credit** is available for this class
+**You must participate in two debate competition in order to pass this class.**
 
 Grading Scale
 -------------
@@ -142,39 +146,20 @@ There are many extra credit opportunities; see above for more information.
 
 [^tu-academic-policies]: Tusculum University. (n.d.). *Academic Policies.* Retrieved from: http://web.tusculum.edu/academics/academic-policies/
 
-Prepared Presentations
-----------------------
-
-Prepared presentations contribute 500 points to your final grade.
-You will have the opportunity to give three prepared presentations: a [Mediated Presentation][Mediated], a [Support Presentation][Support], and a [Persuasive Presentation][Persuasive].
-Each of these presentations is worth 250 points total (100 from preparation and 150 from execution).
-The lowest of these three presentation grades will be dropped.
-
-We will begin the semester with a [Practice Presentation][Practice].
-This presentation is designed to familiarize you with the technology and submission process for the class.
-Completing all portions of this presentation contributes 25 points to your final grade.
-
 Content Knowledge
 -----------------
 
-Demonstrating content knowledge contributes 200 points to your final grade.
-Your understanding of the course material will be assessed through multiple choice quizzes in class and a final exam.
-The lowest two quiz scores will be dropped and the average of your remaining quiz scores will contribute 100 points to your final grade.
-The final exam will draw heavily from the quizzes given in class and will contribute 100 points to your final grade.
+Demonstrating content knowledge contributes 500 points to your final grade.
+You will complete two [Argument Diagrams][Diagram] worth 200 points.
+You will also complete a syllabus quiz and an exam on the rules of one form of debate competition that the team is competing in during the current semester, worth a total of 100 points.
 
-Short Notice Presentations
---------------------------
+Practicing Debate
+-----------------
 
-Short notice presentations contribute 75 points to your final grade.
-Near the end of the semester there will be a series of [Debate][] presentations.
-You may repeat the Debate presentation as many times as you would like, provided no other student with fewer attempts also wants to go.
-The highest score from these attempts will count toward your final grade.
-
-Peer Evaluations
-----------------
-
-A random selection of the [Peer Evaluations][] you provide to other students when they present will be graded.
-The average score on peer evaluations will contribute 100 points to your final grade.
+Practicing Debate contributes 400 points to your final grade.
+You will have receive a grade for completing [Practice Speeches][debate practice], [Prep Participation][], [Flow Sheets][] and [Judge Sheets][] during the course of the semester.
+You will receive an overall grade in each of these areas at three points during the semester.
+Your average across the semester in each area contributes 100 points to your final grade.
 
 Professionalism
 ---------------
@@ -188,10 +173,9 @@ Your average of all three grades contributes 100 points to your final grade.[^Ke
 Extra Credit
 ------------
 
-Students can earn up to a maximum of 55 points in extra credit toward their final grade.
-Students will earn 10 points of extra credit by completing the Syllabus Check assignment on Moodle.
-Students may also earn up to 45 points of extra credit by participating in debate team practice sessions, 15 points for each session.
-Additional extra credit opportunities may also be announced as they become available.
+Students can earn up to a maximum of 60 points in extra credit toward their final grade.
+Extra credit opportunities will be announced as they become available.
+If you have suggestions for extra credit activities, please contact me so I can inform the class.
 Extra Credit may not be turned in after the last class meeting.
 
 Email Policy
@@ -232,10 +216,7 @@ Whether you are in my class or any other class at the university, this template 
 Final Exam Policy
 -----------------
 
-A final exam is a required part of this course.
-Final exams are administered only during three days of Final Exam Week in accordance with the established schedule.
-Consult the syllabus and the Tusculum website to determine when your exams will take place and do not make travel, family, or any other plans that conflict with any of your final exams.
-If you see that there will be an unavoidable conflict, drop this course before the Add/Drop period concludes and sign up for a different section.
+There is no final exam for this course.
 
 Grade Disputes
 --------------
@@ -320,14 +301,12 @@ Student Veterans
 
 For information on support provided by Tusculum to veterans, contact Dale Laney, Director of Veteran Services, 121 Garland Library, tel. 423-636-7371, or [dlaney@tusculum.edu](mailto:dlaney@tusculum.edu). 
 
-<!-- Assignment Links -->
+<!--
+# Assignment Links -->
 
-[Mediated]:          /course/public-speaking/assignment/mediated-assignment/               "Assignment description"
-[Debate]:            /course/public-speaking/assignment/debate-assignment/                 "Assignment description"
-[Graded PowerPoint]: /course/public-speaking/assignment/graded-powerpoint-assignment/      "Assignment description"
-[Peer Evaluations]:  /course/public-speaking/assignment/peer-evaluations/                  "Assignment description"
-[Persuasive]:        /course/public-speaking/assignment/persuasive-assignment/             "Assignment description"
-[Practice]:          /course/public-speaking/assignment/practice-presentation/             "Assignment description"
-[Professionalism]:   /course/public-speaking/assignment/professionalism-grade/             "Assignment description"
-[Video Submission]:  /course/public-speaking/assignment/submitting-presentations-by-video/ "Assignment description"
-[Support]:           /course/public-speaking/assignment/support-assignment/                "Assignment description"
+[Diagram]:            /course/argumentation-deabte/assignment/argument-diagram-assignment/       "Assignment description"
+[debate practice]:    /course/argumentation-debate/assignment/practice-speeches-grade/           "Assignment description"
+[Flow Sheets]:        /course/argumentation-debate/assignment/flow-sheet-grade/                  "Assignment description"
+[Judge Sheets]:       /course/argumentation-debate/assignment/judge-sheet-grade/                 "Assignment description"
+[Prep Participation]: /course/argumentation-debate/assignment/prep-participation-grade/          "Assignment description"
+[Professionalism]:    /course/argumentation-debate/assignment/professionalism-grade/             "Assignment description"
