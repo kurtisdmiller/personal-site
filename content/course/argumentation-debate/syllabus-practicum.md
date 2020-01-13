@@ -7,7 +7,7 @@ author: Kurtis D. Miller
 date: 2020-01-12
 draft: false
 featured: true
-summary: M/Th, 3:30 - 4:45, Location TBD
+summary: M/Th, 3:30 - 4:45, Virginia 216
 menu:
   argumentation-debate:
     parent: Debate
@@ -18,14 +18,14 @@ weight: 1
 
 ---
 
-Spring 2020, M/Th, 3:30 -- 4:45, Location TBD
-
 | Instructor                                            | Office                      |
 |:------------------------------------------------------|:----------------------------|
 | Kurtis D. Miller, PhD.                                | Library 126                 |
 | [kurtisdmiller.com](https://kurtisdmiller.com)        | 2:00 pm – 3:15 pm, Mon/Thu  |
 | [kdmiller@tusculum.edu](mailto:kdmiller@tusculum.edu) | 10:00 am – Noon, Wed        |
 | 423-636-7300 Ext. 5783                                | also by appointment         |
+
+Spring 2020, M/Th, 3:30 -- 4:45, Virginia 216
 
 > **Course Description:** Students will prepare for and compete in public speaking, debate, and/or dramatic interpretation events as part of the Debate team.
 > Emphasis will be given to discussion of current issues.
@@ -289,7 +289,7 @@ For information on support provided by Tusculum to veterans, contact Dale Laney,
 <!--
 # Assignment Links -->
 
-[Diagram]:            /course/argumentation-deabte/assignment/argument-diagram-assignment/       "Assignment description"
+[Diagram]:            /course/argumentation-debate/assignment/argument-diagram-assignment/       "Assignment description"
 [debate practice]:    /course/argumentation-debate/assignment/practice-speeches-grade/           "Assignment description"
 [Flow Sheets]:        /course/argumentation-debate/assignment/flow-sheet-grade/                  "Assignment description"
 [Judge Sheets]:       /course/argumentation-debate/assignment/judge-sheet-grade/                 "Assignment description"
