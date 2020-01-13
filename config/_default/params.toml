@@ -58,8 +58,9 @@ email = "kdmiller@tusculum.edu"
 address = """Library 126<br>
              Tusculum University<br>
              Greeneville, TN, 37745, USA"""
-office_hours = """Tuesday 13:00 to 15:15<br>
-                  Friday 13:00 to 15:15"""
+office_hours = """Monday, 2:00pm to 3:15pm<br>
+                  Wednesday, 10:00am to 11:45am<br>
+                  Thursday, 2:00pm to 3:15pm"""
 phone = "+1 423 636 7300 x5783"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
