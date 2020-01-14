@@ -18,8 +18,8 @@ menu:
 weight: 2
 ---
 
-[ho-sp]:  /course/debate-practicum/COMM-120-100-SP20-KM.pdf  "Handout - Syllabus"
-[ho-sa]:  /course/debate-practicum/COMM-220-100-SP20-KM.pdf  "Handout - Syllabus"
+[ho-sp]:  /course/argumentation-debate/COMM-120-100-SP20-KM.pdf  "Handout - Syllabus"
+[ho-sa]:  /course/argumentation-debate/COMM-220-100-SP20-KM.pdf  "Handout - Syllabus"
 
 Calendar
 --------
