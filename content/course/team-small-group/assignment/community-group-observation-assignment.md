@@ -3,7 +3,7 @@ title: Community Group Observation
 toc: true
 type: docs
 date: 2019-01-07
-lastmod: 2020-01-09
+lastmod: 2020-01-23
 draft: false
 featured: false
 menu:
@@ -16,51 +16,53 @@ weight: 13
 
 ---
 
-This assignment is under construction.
-
-<!--
 **Due Dates:**
 
-  * See the calendar for your section for the available presentation dates.
-  * Outline and Visual Aid -- two class meetings prior to your presentation.
+  * See the calendar for your section for due dates.
 
 Purpose
 =======
 
-This assignment familiarizes students with the types of preparation work that are expected, when and how to turn in that preparation work, and classroom processes on presentation days.
+This assignment is designed for you to apply course concepts to real-world groups.
 
 Skills
 ------
 
 In this assignment you will:
 
-* Orient yourself to the Moodle page for the class.
-* Practice the process to complete prepared presentation assignments in this class.
-* Familiarize yourself with the presentation space and resources.
+* Observe a group meeting and create an interaction diagram.
+* Apply course concepts to the group you observe.
+* Make recommendations for improved group processes based on course concepts.
 
 Knowledge
 ---------
 
 This assignment will also help you become familiar with the following important content in this discipline:
 
-* Using projected visual aids
-* Preparing and practicing presentations
+* Types of groups in the community
+* Making field notes
 
 Task
 ====
 
-You will prepare and deliver a 1-minute, face-to-face presentation about a specific detail of your life (other than sports).
-You will inform your audience 
-Remember: An informative presentation should consist of mostly new information for your audience.
+You will observe a group meeting of a group in the community (ex: government group, school board meeting, social club, etc.).
+You should *NOT* choose a group you belong to or a group that meets on campus.
+Attend a meeting of this group, take notes during the meeting, and create an interaction diagram.
+Plan to take some additional time after the meeting to add additional information to your observation notes.
+The observation notes and interaction diagram will be scanned and turned in.
+
+You will also write a report on what you observed.
+The report should describe the meeting, connect at least two concepts discussed in class to that meeting, and include at least two recommendations for specific ways that the group could improve.
+Your recommendations should be grounded in the content of the class.
+The report should be two *FULL* pages of content, double-spaced, in APA format (7th Ed.).
+References must be included and are not included in the page requirement.
+A title page and abstract are not required, but if either one is included it will also not count toward the page requirement.
 
 To complete the assignment, you will need to:
 
-1. Reserve a topic for your presentation on Moodle.
-2. Schedule a time for your presentation on Moodle.
-3. Create a preparation outline and submit it on Moodle.
-4. Create a projected visual aid and submit it on Moodle.
-5. Deliver your presentation face-to-face in front of an audience.
--->
+1. Submit a scanned copy of your notes (including the interaction diagram).
+2. Submit the written paper.
+3. Participate in discussion in class.
 
 <!--
 Examples
@@ -99,6 +101,6 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
-  v0.00 | 2020-01-07 | Initial version
+  v0.00 | 2020-01-23 | Initial version
 
 -->
