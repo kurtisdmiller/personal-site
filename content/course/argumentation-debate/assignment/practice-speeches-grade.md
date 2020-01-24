@@ -16,51 +16,37 @@ weight: 13
 
 ---
 
-This assignment is under construction.
-
-<!--
 **Due Dates:**
 
-  * See the calendar for your section for the available presentation dates.
-  * Outline and Visual Aid -- two class meetings prior to your presentation.
+  * None. Practice speeches are assessed throughout the semester.
 
 Purpose
 =======
 
-This assignment familiarizes students with the types of preparation work that are expected, when and how to turn in that preparation work, and classroom processes on presentation days.
+This assignment helps students gain familiarity and confidence with speaking in an evaluated context.
 
 Skills
 ------
 
 In this assignment you will:
 
-* Orient yourself to the Moodle page for the class.
-* Practice the process to complete prepared presentation assignments in this class.
-* Familiarize yourself with the presentation space and resources.
+* Deliver your presentation.
+* Respond to questions from opposing team members.
+* Adjust your presentation based on context.
 
 Knowledge
 ---------
 
 This assignment will also help you become familiar with the following important content in this discipline:
 
-* Using projected visual aids
-* Preparing and practicing presentations
+* Speaking from notes
+* Time management
 
 Task
 ====
 
-You will prepare and deliver a 1-minute, face-to-face presentation about a specific detail of your life (other than sports).
-You will inform your audience 
-Remember: An informative presentation should consist of mostly new information for your audience.
-
-To complete the assignment, you will need to:
-
-1. Reserve a topic for your presentation on Moodle.
-2. Schedule a time for your presentation on Moodle.
-3. Create a preparation outline and submit it on Moodle.
-4. Create a projected visual aid and submit it on Moodle.
-5. Deliver your presentation face-to-face in front of an audience.
--->
+You will deliver a presentation in front of a judge and opposition team.
+You will receive feedback according to the principles of debate.
 
 <!--
 Examples
@@ -99,6 +85,6 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
-  v0.00 | 2020-01-07 | Initial version
+  v0.00 | 2020-01-21 | Initial version
 
 -->

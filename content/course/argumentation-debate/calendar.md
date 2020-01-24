@@ -66,7 +66,7 @@ Calendar
 | 30 | R,  5/07 |                                            **NO Final Exam**                                                                                                                                |
 
 <!-- Assignment Links -->
-[Diagram]:            /course/argumentation-deabte/assignment/argument-diagram-assignment/       "Assignment description"
+[Diagram]:            /course/argumentation-debate/assignment/argument-diagram-assignment/       "Assignment description"
 [debate practice]:    /course/argumentation-debate/assignment/practice-speeches-grade/           "Assignment description"
 [Flow Sheets]:        /course/argumentation-debate/assignment/flow-sheet-grade/                  "Assignment description"
 [Judge Sheets]:       /course/argumentation-debate/assignment/judge-sheet-grade/                 "Assignment description"

@@ -104,8 +104,8 @@ Assignments and Grading
 Your final grade will be determined by the total points received out of 500 points possible.
 Your points will accumulate through the semester.
 The largest portion of your final grade comes from **Practicing Debate**.
-You will also earn points from **Content Knowledge** and **Professionalism**
-**Extra credit** is available for this class
+You will also earn points from **Content Knowledge** and **Professionalism**.
+**Extra credit** is available for this class.
 **You must participate in one debate competition in order to pass this class.**
 
 Grading Scale

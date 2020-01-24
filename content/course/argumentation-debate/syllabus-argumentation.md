@@ -118,8 +118,8 @@ Your final grade will be determined by the total points received out of 1000 poi
 Your points will accumulate through the semester.
 The largest portions of your final grade comes from **Content Knowledge**.
 A second significant portion of your final grade comes from **Practicing Debate**.
-You will also earn points from **Professionalism**
-**Extra credit** is available for this class
+You will also earn points from **Professionalism**.
+**Extra credit** is available for this class.
 **You must participate in two debate competition in order to pass this class.**
 
 Grading Scale

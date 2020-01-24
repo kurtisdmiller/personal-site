@@ -16,51 +16,35 @@ weight: 13
 
 ---
 
-This assignment is under construction.
-
-<!--
 **Due Dates:**
 
-  * See the calendar for your section for the available presentation dates.
-  * Outline and Visual Aid -- two class meetings prior to your presentation.
+  * None. Judge sheets are completed throughout the course of the semester.
 
 Purpose
 =======
 
-This assignment familiarizes students with the types of preparation work that are expected, when and how to turn in that preparation work, and classroom processes on presentation days.
+This assignment familiarizes students with the perspective of their audience (the judge or judges) when presenting in debate.
 
 Skills
 ------
 
 In this assignment you will:
 
-* Orient yourself to the Moodle page for the class.
-* Practice the process to complete prepared presentation assignments in this class.
-* Familiarize yourself with the presentation space and resources.
+* Observe a debate.
+* Complete a judges ballot based on your observations.
 
 Knowledge
 ---------
 
 This assignment will also help you become familiar with the following important content in this discipline:
 
-* Using projected visual aids
-* Preparing and practicing presentations
+* Listening
+* Critical evaluation of presentations
 
 Task
 ====
 
-You will prepare and deliver a 1-minute, face-to-face presentation about a specific detail of your life (other than sports).
-You will inform your audience 
-Remember: An informative presentation should consist of mostly new information for your audience.
-
-To complete the assignment, you will need to:
-
-1. Reserve a topic for your presentation on Moodle.
-2. Schedule a time for your presentation on Moodle.
-3. Create a preparation outline and submit it on Moodle.
-4. Create a projected visual aid and submit it on Moodle.
-5. Deliver your presentation face-to-face in front of an audience.
--->
+You will observe a debate in the classroom and complete a judges ballot.
 
 <!--
 Examples
@@ -99,6 +83,6 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
-  v0.00 | 2020-01-07 | Initial version
+  v0.00 | 2020-01-21 | Initial version
 
 -->
