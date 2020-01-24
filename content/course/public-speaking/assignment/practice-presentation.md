@@ -46,7 +46,7 @@ Task
 ====
 
 You will prepare and deliver a 1-minute, face-to-face presentation about a specific detail of your life (other than sports).
-You will inform your audience 
+You will inform your audience.
 Remember: An informative presentation should consist of mostly new information for your audience.
 
 To complete the assignment, you will need to:

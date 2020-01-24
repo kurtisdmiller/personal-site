@@ -2,7 +2,8 @@
 title: Support Presentation
 toc: true
 type: docs
-date: "2019-10-11"
+date: 2019-10-11
+lastmod: 2020-01-21
 draft: false
 featured: false
 menu:
@@ -15,209 +16,57 @@ weight: 11
 
 ---
 
-**Overview:** You will deliver a presentation where you inform your
-audience on a subject.
+**Due Dates:**
 
-**Purpose:** All presentations benefit from using a variety of forms of
-evidence from a variety of sources. This presentation provides a good
-opportunity to practice finding and incorporating a variety of forms of
-evidence from multiple sources and incorporating that information with
-appropriate citations.
+  * See the calendar for your section for the available presentation dates.
+  * Outline and Visual Aid -- two class meetings prior to your presentation.
 
-**Target Length:**  6 minutes
-
-**Due:** See the calendar for your section for due dates.
-
-Detailed Description
-====================
-
-Objective
----------
-
-Locate an official US Federal, State, or Local Government report that is
-about 20 pages long or longer. Prepare an informative presentation to
-inform your audience on a subject **related to** key findings included in
-this report. **You should not be summarizing the report**, you are only
-using this report as **one source** of evidence to support **your**
-informative argument, which should not be the same as the informative
-argument this source is making.
-
-Limitations
------------
-
- * The report must be about 20 pages long or longer
- * The report must be less than 3 years old
- * You must include at least 2 additional sources
- * You must use a PowerPoint-style visual aid which uses the
-   assertion-evidence structure
-
-Format
-------
-
-Your presentation will be a live presentation delivered face-to-face in
-front of your audience in an extemporaneous fashion. This format applies
-to presentations delivered in-class and presentations [submitted by
-video][Submitting Presentations by Video]. You should be practiced and
-prepared for the presentation, but should not memorize the presentation or
-read from a manuscript. You may use a key word/phrase outline on note
-cards as speaking notes for this presentation if you will find them
-helpful.
-
-Grading
+Purpose
 =======
 
-This project is graded out of 150 points. 25 points come from the
-preparation outline, 25 points come from the graded PowerPoint, and 100
-points come from the presentation.
+All presentations benefit from using a variety of forms of evidence from a variety of sources.
+This presentation provides a good opportunity to practice finding and incorporating a variety of forms of evidence from multiple sources and incorporating that information with appropriate citations.
 
-Outline Rubric
---------------
+Skills
+------
 
-The outline portion of this assignment is worth 25 points. A minor issue (1m)
-will reduce the grade by 1 point, multiple minor issues (2m+) in the same area
-by 3 points, and major issues (M) by 5 points.
+In this assignment you will:
 
-| M | 2m+ | 1m | Objective                                                          |
-|:-:|:-:|:-:|:------------------------------------------------------------------------------------------|
-|   |   |   | **Professional**                                                      |
-| · | · | · | Written using a consistent, professional, 12 point font.              |
-| · | · | · | Outline is double-spaced.                                             |
-| · | · | · | Entries in the body are indented effectively and consistently.        |
-| · | · | · | Entries in the outline are numbered effectively and consistently.     |
-| · | · | · | Entries are free of distracting spelling or grammar errors.           |
-|   |   |   | **Topic Fit**                                                         |
-| · | · | · | Topic meets assignment objectives.                                    |
-| · | · | · | Topic is appropriate for the environment.                             |
-| · | · | · | Topic is compelling and interesting for the target audience.          |
-|   |   |   | **Introduction**                                                      |
-| · | · | · | Attention Getter is present, effective, and placed first.             |
-| · | · | · | Relevance effectively connects the topic to the audience.             |
-| · | · | · | Credibility effectively shows speaker's expertise to the audience.    |
-| · | · | · | Thesis Statement is clearly stated.                                   |
-| · | · | · | Overview effectively previews main points (and only main points).     |
-|   |   |   | **Organization**                                                      |
-| · | · | · | Main Points are clearly and consistently organized.                   |
-| · | · | · | Transitions are all present and effective.                            |
-| · | · | · | Directional transitions are used between main points.                 |
-|   |   |   | **Support**                                                           |
-| · | · | · | Main points support the thesis statement.                             |
-| · | · | · | Supporting points are evidence that supports main points.             |
-| · | · | · | Oral citations present for all supporting points.                     |
-| · | · | · | Initial oral citations contain all necessary information.             |
-| · | · | · | Evidence for each main point is diverse in type, form, and source.    |
-| · | · | · | Entries display parallelism, coordination, subordination, & division. |
-|   |   |   | **Conclusion**                                                        |
-| · | · | · | (Optional) Summary effectively reviews main points (only).            |
-| · | · | · | Thesis is clearly restated.                                           |
-| · | · | · | Clincher is present, effective, and placed last.                      |
-|   |   |   | **References**                                                        |
-| · | · | · | References are present for all citations.                             |
-| · | · | · | References have all information for APA format.                       |
-| · | · | · | References are listed in APA format.                                  |
-| · | · | · | References are listed in alphabetical order.                          |
+* Deliver an informative prepared presentation face-to-face.
+* Organize evidence to support an informative argument.
 
-Notes: Required information for initial citations includes creator, their
-credibility, publication date, source type, container title, work title, and
-(for quotations) page number. **Evidence with both citation and reference
-information missing is plagiarism.**
+Knowledge
+---------
 
-Graded PowerPoint Rubric
-------------------------
+This assignment will also help you become familiar with the following important content in this discipline:
 
-The graded PowerPoint of this assignment is worth 25 points. A minor issue (1m)
-will reduce the grade by 1 point, multiple minor issues (2m+) in the same area
-by 3 points, and major issues (M) by 5 points.
+* Time management
+* Information literacy
+* Research skills
 
-| M | 2m+ | 1m | Objective                                                                              |
-|:-:|:-:|:-:|:------------------------------------------------------------------------------------------|
-|   |   |   | **Professional**                                                                          |
-| · | · | · | Slide layouts are consistent.                                                             |
-| · | · | · | Fonts used are consistent and appropriate.                                                |
-| · | · | · | Colors are consistent and appropriate.                                                    |
-| · | · | · | Images are not stretched, squashed, or mangled.                                           |
-| · | · | · | Image styles and backgrounds are consistent and appropriate.                              |
-| · | · | · | Slide components are consistent.                                                          |
-| · | · | · | Text and evidence are placed appropriately.                                               |
-| · | · | · | Call-outs on slides are used effectively if needed to direct audience attention.          |
-| · | · | · | Slides contain no distracting typos, spelling errors, or grammar errors.                  |
-|   |   |   | **Complements the Presentation**                                                          |
-| · | · | · | Does not duplicate verbal content (don't cut-and-paste your outline).                     |
-| · | · | · | Visual aid includes an appropriate number of slides for topic and objective.              |
-|   |   |   | **Accessible**                                                                            |
-| · | · | · | Each text entry is no more than two lines visually (three for quotes).                    |
-| · | · | · | Font sizes are large enough for a general audience (30+ pt recommended).                  |
-| · | · | · | Colors used are appropriate for a general audience.                                       |
-| · | · | · | Color is not the only way meaning is expressed.                                           |
-|   |   |   | **Assertion-evidence Structure**                                                          |
-| · | · | · | Headings on content slides are complete sentences that make a claim.                      |
-| · | · | · | Visual evidence included on content slides.                                               |
-| · | · | · | Visual evidence is diverse in form (ex: uses images, graphs, *and* quotes).               |
-| · | · | · | Visual evidence supports assertion headings.                                              |
-| · | · | · | Citations are provided for all visual evidence.                                           |
-| · | · | · | On-slide citations list creator & date (and also usage rights for images).                |
-|   |   |   | **Referenced Appropriately**                                                              |
-| · | · | · | References are present for all citations.                                                 |
-| · | · | · | References have all information for APA format.                                           |
-| · | · | · | References are listed in APA format.                                                      |
-| · | · | · | References are listed in alphabetical order.                                              |
+Task
+====
 
-Note: **Evidence with both citation and reference information missing is plagiarism.**
+You will prepare and deliver a 5-minute, face-to-face presentation where you inform your audience about any subject you choose.
+You should have at least 3 sources to support this presentation.
+One of these sources must be an official US Federal, State, or Local Government report that is about 20 pages long or longer and which has been published within the last 3 years.
+**You should not summarize this report.**
+You are only using this report as **one source** of evidence to support **your** informative argument.
 
-Presentation Rubric
--------------------
+Criteria for Success
+====================
 
-The presentation portion of this assignment is worth 100 points. A minor issue (1m)
-will reduce the grade by 2 points, multiple minor issues (2m+) in the same area
-by 5 points, and major issues (M) by 10 points.
+This presentation is graded out of 250 points.
 
-| M | 2m+ | 1m | Objective                                                              |
-|:-:|:-:|:-:|:------------------------------------------------------------------------------------------|
-|   |   |   | **Topic Fit**                                                             |
-| · | · | · | Topic meets assignment objectives.                                        |
-| · | · | · | Topic is appropriate for the environment.                                 |
-| · | · | · | Topic is compelling and interesting for the target audience.              |
-|   |   |   | **Introduction**                                                          |
-| · | · | · | Attention Getter is present, effective, and placed first.                 |
-| · | · | · | Relevance effectively connects the topic to the audience.                 |
-| · | · | · | Credibility effectively shows speaker's expertise to the audience.        |
-| · | · | · | Thesis Statement is clearly stated.                                       |
-| · | · | · | Overview effectively previews main points (and only main points).         |
-|   |   |   | **Organization**                                                          |
-| · | · | · | Main Points are clearly and consistently organized.                       |
-| · | · | · | Transitions are all present and effective.                                |
-| · | · | · | Directional transitions are used between main points.                     |
-|   |   |   | **Support**                                                               |
-| · | · | · | Main points support the thesis statement.                                 |
-| · | · | · | Supporting points are evidence that supports main points.                 |
-| · | · | · | Oral citations present for all supporting points.                         |
-| · | · | · | Initial oral citations contain all necessary information.                 |
-| · | · | · | Evidence for each main point is diverse in type, form, and source.        |
-|   |   |   | **Conclusion**                                                            |
-| · | · | · | (Optional) Summary effectively reviews main points (only).                |
-| · | · | · | Thesis is clearly restated.                                               |
-| · | · | · | Clincher is present, effective, and placed last.                          |
-|   |   |   | **Presentation Aids**                                                     |
-| · | · | · | Aids are professional and appropriate (topic, audience, environment).     |
-| · | · | · | Aids effectively complement the presentation.                             |
-| · | · | · | Aids are accessible for a general audience.                               |
-| · | · | · | Content slides have full-sentence assertion headings.                     |
-| · | · | · | Assertion headings are supported by visual evidence.                      |
-| · | · | · | Visual evidence is cited visually.                                        |
-| · | · | · | Complete references in APA style are included for visual citations.       |
-|   |   |   | **Delivery**                                                              |
-| · | · | · | Voice is clear, fluent, and engaging (volume, rate, pitch, fillers, etc). |
-| · | · | · | Movement is engaging and appropriate (movement, pacing, swaying, etc.).   |
-| · | · | · | Eye contact is distributed evenly and naturally across the audience.      |
-| · | · | · | Facial expressions are engaging and appropriate.                          |
-| · | · | · | Speech notes are used effectively (a checklist, not a script).            |
-|   |   |   | **Time Management**                                                       |
-| · | · | · | Presentation is within 30 seconds of target length.                       |
+Component           | Points
+--------------------|-------
+Preparation Outline | 50
+Visual Aid          | 50
+Presentation        | 150
 
-Notes: Required information for initial citations includes creator, their
-credibility, publication date, source type, container title, work title, and
-(for quotations) page number. Presentations which greatly exceed the target
-length will be stopped. **Evidence with both citation and reference information
-missing is plagiarism.**
+See the [grading and feedback rubric][prepared-rubric] for detail.
+
+[prepared-rubric]: /course/public-speaking/handout/prepared-presentation-rubric.pdf
 
 Examples
 ========
@@ -269,6 +118,7 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v4.00 | 2020-01-21 | Switched formatting for better transparency
   v3.00 | 2019-10-11 | new grading rubrics
   v2.05 | 2019-08-08 | Changes for Hugo compatibility, integrated and updated rubrics
   v2.04 | 2018-01-16 | moved presentation specific components to standalone assignment

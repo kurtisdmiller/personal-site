@@ -2,7 +2,8 @@
 title: Mediated Presentation
 toc: true
 type: docs
-date: "2020-01-07"
+date: 2020-01-07
+lastmod: 2020-01-21
 draft: false
 featured: false
 menu:
@@ -46,7 +47,7 @@ This assignment will also help you become familiar with the following important 
 Task
 ====
 
-You will prepare a deliver a 6-minute presentation where your inform your audience about a historically significant person in your major area of study.
+You will prepare and deliver a 6-minute presentation where you inform your audience about a historically significant person in your major area of study.
 "Historically significant" means that their actions have caused a significant change in that field.
 If you have more than one declared major, choose a person from one of your major areas.
 If you do not have a major area, choose someone who has had a historically significant impact on the field of [Communication Studies](https://en.wikipedia.org/wiki/Communication_studies).
@@ -76,16 +77,7 @@ Presentation        | 150
 
 See the [grading and feedback rubric][prepared-rubric] for detail.
 
-[prepared-rubric]: /course/public-speaking/handout/prepared-presentation-rubric.pdf/
-
-
-
-Graded PowerPoint Rubric
-------------------------
-
-
-Presentation Rubric
--------------------
+[prepared-rubric]: /course/public-speaking/handout/prepared-presentation-rubric.pdf
 
 Examples
 ========
@@ -120,6 +112,7 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v5.01 | 2020-01-21 | Minor corrections
   v5.00 | 2020-01-07 | Switched formatting for better transparency.
   v4.00 | 2019-10-11 | new grading rubrics
   v3.03 | 2019-08-08 | Changes for Hugo compatibility, integrated and updated rubrics
