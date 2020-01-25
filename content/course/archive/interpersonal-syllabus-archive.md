@@ -28,8 +28,6 @@ Tusculum University
 Purdue University
 -----------------
 
-*Note: I no longer have copies of some syllabi from this time period*
-
 * 2014 Fall, [COM 212-002](/course/archive/interpersonal/2014F-com-212-002.pdf)
 * 2012 Fall, [COM 212-003](/course/archive/interpersonal/2012F-com-212-003.pdf)
 * 2012 Spring, [COM 212-005](/course/archive/interpersonal/2012S-com-212-005.pdf)
