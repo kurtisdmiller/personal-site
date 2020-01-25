@@ -2,7 +2,8 @@
 title: Practice Presentation
 toc: true
 type: docs
-date: "2019-01-07"
+date: 2019-01-07
+lastmod: 2020-01-07
 draft: false
 featured: false
 menu:
