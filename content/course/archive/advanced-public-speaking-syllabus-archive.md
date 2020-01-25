@@ -30,6 +30,4 @@ Tusculum University
 Purdue University
 -----------------
 
-*Note: I no longer have copies of some syllabi from this time period*
-
-* 2014 Fall, COM 320-004
+* 2016 Spring, [COM 314-006](/course/archive/advanced-public-speaking/2016S-com-314-006.pdf)
