@@ -2,7 +2,8 @@
 title: Persuasive Presentation
 toc: true
 type: docs
-date: "2019-10-11"
+date: 2019-10-11
+lastmod: 2020-01-25
 draft: false
 featured: false
 menu:
@@ -15,164 +16,64 @@ weight: 12
 
 ---
 
-**Overview:** You will deliver a presentation where you persuade your
-audience on a subject.
+** Due Dates:
 
-**Purpose:** Using all the techniques and strategies you learned in class,
-you will prepare and deliver a persuasive speech. Your speech should be
-appropriate for a professional audience.
+  * See the calendar for your section for the available presentation dates.
+  * Outline and Visual Aid -- two class meetings prior to your presentation.
 
-**Target Length:** 8 minutes
-
-**Due:** See the calendar for your section for due dates.
-
-Detailed Description
-====================
-
-Objective
----------
-
-This is a persuasion speech. You can select any topic (remembering who
-your audience is). Be sure that there is a specific proposal or call for
-action/change in your speech. You must state this clearly so your
-audience knows exactly what you want of them. Maintain a focus on this
-proposal. When you finish your presentation, many of the members of your
-audience should have been persuaded to take the action you described in
-your call to action.
-
-Limitations
------------
-
- * You must use Monroe's Motivated Sequence to organize your presentation.
- * You must use **at least two** presentation aids in your speech.
-   * One aid **must be** a PowerPoint-style visual aid which uses the
-     **assertion-evidence structure.**
-   * One aid may be **any other kind** of presentation aid.
- 
-Format
-------
-
-Your presentation will be a live presentation delivered face-to-face in
-front of your audience in an extemporaneous fashion. This format applies
-to presentations delivered in-class and presentations [submitted by
-video][Submitting Presentations by Video]. You should be practiced and
-prepared for the presentation, but should not memorize the presentation or
-read from a manuscript. You may use a key word / phrase outline on note
-cards as speaking notes for this presentation if you will find them
-helpful.
-
-Grading
+Purpose
 =======
 
-This project is graded out of 125 points. 25 points come from the
-preparation outline and 100 points come from the presentation.
+Persuasive presentations are one of the most important types of presentations.
+Persuasion skills serve students throughout their lives.
+This presentation supports general education student learning outcome #1 and course student learning outcome #1.
 
-Outline Rubric
---------------
+Skills
+------
 
-The outline portion of this assignment is worth 25 points. A minor issue (1m)
-will reduce the grade by 1 point, multiple minor issues (2m+) in the same area
-by 3 points, and major issues (M) by 5 points.
+In this assignment you will:
 
-| M | 2m+ | 1m | Objective                                                          |
-|:-:|:-:|:-:|:------------------------------------------------------------------------------------------|
-|   |   |   | **Professional**                                                      |
-| · | · | · | Written using a consistent, professional, 12 point font.              |
-| · | · | · | Outline is double-spaced.                                             |
-| · | · | · | Entries in the body are indented effectively and consistently.        |
-| · | · | · | Entries in the outline are numbered effectively and consistently.     |
-| · | · | · | Entries are free of distracting spelling or grammar errors.           |
-|   |   |   | **Topic Fit**                                                         |
-| · | · | · | Topic meets assignment objectives.                                    |
-| · | · | · | Topic is appropriate for the environment.                             |
-| · | · | · | Topic is compelling and interesting for the target audience.          |
-|   |   |   | **Introduction**                                                      |
-| · | · | · | Attention Getter is present, effective, and placed first.             |
-| · | · | · | Relevance effectively connects the topic to the audience.             |
-| · | · | · | Credibility effectively shows speaker's expertise to the audience.    |
-| · | · | · | Thesis Statement is clearly stated.                                   |
-| · | · | · | Overview effectively previews main points (and only main points).     |
-|   |   |   | **Organization**                                                      |
-| · | · | · | Main Points are clearly and consistently organized.                   |
-| · | · | · | Transitions are all present and effective.                            |
-| · | · | · | Directional transitions are used between main points.                 |
-|   |   |   | **Support**                                                           |
-| · | · | · | Main points support the thesis statement.                             |
-| · | · | · | Supporting points are evidence that supports main points.             |
-| · | · | · | Oral citations present for all supporting points.                     |
-| · | · | · | Initial oral citations contain all necessary information.             |
-| · | · | · | Evidence for each main point is diverse in type, form, and source.    |
-| · | · | · | Entries display parallelism, coordination, subordination, & division. |
-|   |   |   | **Conclusion**                                                        |
-| · | · | · | (Optional) Summary effectively reviews main points (only).            |
-| · | · | · | Thesis is clearly restated.                                           |
-| · | · | · | Clincher is present, effective, and placed last.                      |
-|   |   |   | **References**                                                        |
-| · | · | · | References are present for all citations.                             |
-| · | · | · | References have all information for APA format.                       |
-| · | · | · | References are listed in APA format.                                  |
-| · | · | · | References are listed in alphabetical order.                          |
+* Prepare a persuasive presentation.
+* Organize evidence to support a persuasive argument.
+* Create an effective projected presentation aid.
 
-Notes: Required information for initial citations includes creator, their
-credibility, publication date, source type, container title, work title, and
-(for quotations) page number. **Evidence with both citation and reference
-information missing is plagiarism.**
+Knowledge
+---------
 
-Presentation Rubric
--------------------
+This assignment will also help you become familiar with the following important content in this discipline:
 
-The presentation portion of this assignment is worth 100 points. A minor issue (1m)
-will reduce the grade by 2 points, multiple minor issues (2m+) in the same area
-by 5 points, and major issues (M) by 10 points.
+* Using Monroe's Motivated Sequence
+* Presentation aids that are not projected
 
-| M | 2m+ | 1m | Objective                                                              |
-|:-:|:-:|:-:|:------------------------------------------------------------------------------------------|
-|   |   |   | **Topic Fit**                                                             |
-| · | · | · | Topic meets assignment objectives.                                        |
-| · | · | · | Topic is appropriate for the environment.                                 |
-| · | · | · | Topic is compelling and interesting for the target audience.              |
-|   |   |   | **Introduction**                                                          |
-| · | · | · | Attention Getter is present, effective, and placed first.                 |
-| · | · | · | Relevance effectively connects the topic to the audience.                 |
-| · | · | · | Credibility effectively shows speaker's expertise to the audience.        |
-| · | · | · | Thesis Statement is clearly stated.                                       |
-| · | · | · | Overview effectively previews main points (and only main points).         |
-|   |   |   | **Organization**                                                          |
-| · | · | · | Main Points are clearly and consistently organized.                       |
-| · | · | · | Transitions are all present and effective.                                |
-| · | · | · | Directional transitions are used between main points.                     |
-|   |   |   | **Support**                                                               |
-| · | · | · | Main points support the thesis statement.                                 |
-| · | · | · | Supporting points are evidence that supports main points.                 |
-| · | · | · | Oral citations present for all supporting points.                         |
-| · | · | · | Initial oral citations contain all necessary information.                 |
-| · | · | · | Evidence for each main point is diverse in type, form, and source.        |
-|   |   |   | **Conclusion**                                                            |
-| · | · | · | (Optional) Summary effectively reviews main points (only).                |
-| · | · | · | Thesis is clearly restated.                                               |
-| · | · | · | Clincher is present, effective, and placed last.                          |
-|   |   |   | **Presentation Aids**                                                     |
-| · | · | · | Aids are professional and appropriate (topic, audience, environment).     |
-| · | · | · | Aids effectively complement the presentation.                             |
-| · | · | · | Aids are accessible for a general audience.                               |
-| · | · | · | Content slides have full-sentence assertion headings.                     |
-| · | · | · | Assertion headings are supported by visual evidence.                      |
-| · | · | · | Visual evidence is cited visually.                                        |
-| · | · | · | Complete references in APA style are included for visual citations.       |
-|   |   |   | **Delivery**                                                              |
-| · | · | · | Voice is clear, fluent, and engaging (volume, rate, pitch, fillers, etc). |
-| · | · | · | Movement is engaging and appropriate (movement, pacing, swaying, etc.).   |
-| · | · | · | Eye contact is distributed evenly and naturally across the audience.      |
-| · | · | · | Facial expressions are engaging and appropriate.                          |
-| · | · | · | Speech notes are used effectively (a checklist, not a script).            |
-|   |   |   | **Time Management**                                                       |
-| · | · | · | Presentation is within 30 seconds of target length.                       |
+Task
+====
 
-Notes: Required information for initial citations includes creator, their
-credibility, publication date, source type, container title, work title, and
-(for quotations) page number. Presentations which greatly exceed the target
-length will be stopped. **Evidence with both citation and reference information
-missing is plagiarism.**
+You will prepare and deliver a 7-minute, face-to-face presentation where you persuade your audience.
+You can select any topic you like, but keep in mind your audience and presentation environment (including the time available).
+Make sure you choose a topic that will require a majority of your audience to change their behaviors and beliefs.
+Be certain to include a specific proposal or call for action/change in your speech.
+You must state this clearly so your audience knows exactly what you want of them.
+When you finish your presentation, many of the members of your audience should have been persuaded to take the action you described in your call to action.
+
+You must use Monroe's Motivated Sequence to organize your presentation.
+You must use **at least two** presentation aids in your speech.
+One presentation aid must be a PowerPoint-style visual aid which uses the **assertion-evidence structure.**
+The other presentation aid should be **any other kind** of presentation aid.
+
+Criteria for Success
+====================
+
+This presentation is graded out of 250 points.
+
+Component           | Points
+--------------------|-------
+Preparation Outline | 50
+Visual Aid          | 50
+Presentation        | 150
+
+See the [grading and feedback rubric][prepared-rubric] for detail.
+
+[prepared-rubric]: /course/public-speaking/handout/prepared-presentation-rubric.pdf
 
 Examples
 ========
@@ -210,6 +111,7 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v4.00 | 2020-01-25 | Switched formatting for better transparency
   v3.00 | 2019-10-11 | new grading rubrics
   v2.05 | 2019-08-08 | Changes for Hugo compatibility, integrated and updated rubrics
   v2.04 | 2018-01-16 | moved presentation specific components to standalone assignment

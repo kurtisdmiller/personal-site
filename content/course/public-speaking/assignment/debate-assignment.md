@@ -2,7 +2,8 @@
 title: Debate Assignment
 toc: true
 type: docs
-date: "2019-01-07"
+date: 2019-01-07
+lastmod: 2020-01-25
 draft: false
 featured: false
 menu:
@@ -15,44 +16,48 @@ weight: 13
 
 ---
 
-**Overview:** You will conduct a debate as a team of three people against
-another team of three people. You will have approximately 15 minutes to
-prepare before the debate.
+**Due Dates:**
 
-**Purpose:** Being an agile and confident speaker who can think on his or
-her feet is beneficial. Practice in debate requires you to demonstrate the
-majority of the learning outcomes for this course.
+  * See the calendar for your section for the available presentation dates.
+  * Outline and Visual Aid -- two class meetings prior to your presentation.
 
-**Target Length:** 4 minute maximum, per speaker.
+Purpose
+=======
 
-**Due:** See the calendar for your section for due dates.
+Being an agile and confident speaker who can think on his or her feet is beneficial.
+Persuasive situations often arise when minimal preparation time is available.
+Practice in debate requires you to demonstrate the majority of the learning outcomes for this course.
+You will present as part of a team during this presentation.
 
-Detailed Description
-====================
-
-Objective
----------
-
-The debate consists of a series of persuasive speeches argued as a team.
-You can select any approach within the theme for the round. You do not
-need to include a presentation aid in these speeches. **When you finish
-your presentation, the members of your audience should have been persuaded
-to vote in favor of your side.**
-
-Limitations
------------
- * No new arguments may be presented in rebuttal speeches. 
- 
-Format 
+Skills
 ------
 
-Your presentation will be part of a live debate as a team against an
-opposing team. The debate will be delivered face-to-face in front of your
-audience in an extemporaneous fashion. You may use any notes you wish, as
-long as they have been prepared during the preparation time or during the
-debate itself. You and your team mate will have 20 minutes to prepare for
-the debate with the assistance of some additional class members after the
-topic is announced. After preparation each member of the group will speak:
+In this assignment you will:
+
+* Work with a team to prepare and deliver a series of persuasive presentations face-to-face with limited preparation time.
+* Address arguments made by an opposing team.
+
+Knowledge
+---------
+
+This assignment will also help you become familiar with the following important content in this discipline:
+
+* Time management
+* Forms of debate
+
+Task
+====
+
+You will conduct a debate as a team of three people against another team of three people.
+You will have approximately 15 minutes to prepare before the debate.
+Each presenter will be able to speak for a maximum of 4-minutes.
+The debate will be delivered face-to-face in front of your audience.
+You may use any notes you wish, as long as they have been prepared during the preparation time or during the debate itself.
+You can select any approach within the theme for the round.
+You do not need to include a presentation aid in these speeches.
+**When you finish your presentation, the members of your audience should have been persuaded to vote in favor of your side.**
+
+After preparation each member of the group will speak:
 
 Group | Speaker | Speech       | Time Limit
 ------|---------|--------------|-----------
@@ -62,6 +67,8 @@ Group | Speaker | Speech       | Time Limit
  CON  | 2       | Constructive | 4 minutes
  CON  | 3       | Rebuttal     | 4 minutes
  PRO  | 3       | Rebuttal     | 4 minutes
+
+No new arguments may be presented in rebuttal speeches.
 
 <!-- Normal time limits
 Group Member | Speech       | Time Limit
@@ -74,11 +81,16 @@ Group Member | Speech       | Time Limit
    PM        | Rebuttal     | 5 minutes
 -->
 
-Grading
-=======
+Criteria for Success
+====================
 
-This project is graded out of 75 points.
-15 points come from the preparation time, and 60 points come from the presentation.
+This presentation is graded out of 75 points.
+
+Component                 | Points
+--------------------------|-------
+Preparation Participation | 15
+Presentation              | 60
+
 This presentation is graded wholistically and does not have a rubric.
 
 
@@ -106,6 +118,7 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v1.00 | 2020-01-25 | Switched formatting for better transparency
   v0.03 | 2020-01-07 | Specified grading and lack of rubric.
   v0.02 | 2018-08-08 | Changes for Hugo Compatibility
   v0.01 | 2018-01-16 | moved back to point system
