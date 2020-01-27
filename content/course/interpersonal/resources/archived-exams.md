@@ -7,7 +7,7 @@ lastmod: 2020-01-25
 draft: false
 featured: false
 menu:
-  public-speaking:
+  interpersonal:
     parent: Resources
     weight: 1
 
