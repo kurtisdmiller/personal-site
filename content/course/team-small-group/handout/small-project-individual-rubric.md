@@ -29,7 +29,7 @@ Completed and turned in Peer Evaluation | 10
 
 See the [agenda rubric][] and the [minutes rubric][] for more detail.
 
-[agenda rubric]:  /course/team-small-group/handout/minutes-rubric.pdf
+[agenda rubric]:  /course/team-small-group/handout/agenda-rubric.pdf
 [minutes rubric]: /course/team-small-group/handout/minutes-rubric.pdf
 
 Anonymous Peer Evaluation
