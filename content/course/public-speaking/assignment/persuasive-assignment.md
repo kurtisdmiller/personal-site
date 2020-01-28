@@ -16,7 +16,7 @@ weight: 12
 
 ---
 
-** Due Dates:
+**Due Dates:**
 
   * See the calendar for your section for the available presentation dates.
   * Outline and Visual Aid -- two class meetings prior to your presentation.
