@@ -1,0 +1,103 @@
+---
+title: Relating to Others in Groups and Teams, cont.
+toc: true
+type: docs
+date: 2020-02-14
+draft: false
+featured: false
+# menu:
+#   public-speaking:
+#     parent: Lesson Plans
+#     weight: 15
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 60
+
+---
+
+**Course(s) Used:**
+
+* Team and Small Group Communication
+
+**Goals and Objectives:**
+
+* Students understand the variety of forms of power and situations involving power, including the societal fantasy of equal power.
+* Students know the 5 bases of power described by French and Raven.
+* Students are able to list examples of people with each form of power.
+* Students gain experience with coding and rater reliability, which are common techniques in Communication research.
+
+**Rationale:**
+
+Students bring a variety of misconceptions about power into communication classes.
+A more fine-grained understanding of power and its influences on people is helpful in a large number of real-world situations.
+
+Materials Needed
+================
+
+**Materials:**
+
+* None
+
+**Technology:**
+
+* Classroom computer and projector
+
+Outline of the Lesson
+=====================
+
+1.  Review of previous session's content
+2.  Power in groups and teams works differently than we think
+    A.  Power is never equal
+    B.  Power differences are not necessarily bad
+    C.  Power is not constant: it depends on situation
+    D.  Power is not monolithic, there are different forms
+3.  French and Raven created the most influential way of describing the bases of power[^french-raven-1959]
+    A.  Legitimate power
+    B.  Expert power
+    C.  Reward power[^classical-conditioning]
+    D.  Coercive power[^classical-conditioning]
+    E.  Referent power
+4.  Hands on group work: "Power Bases in Tweets"
+    A.  Students are assigned to pairs or small groups of three
+    B.  Groups should all analyze tweets from the same person, but on different days
+    C.  Each group is assigned a day of tweets to look at (no more than 10 from that day)
+    D.  Students are instructed to include original tweets only, not retweets.
+    E.  For each tweet, the group should:
+        2.  Read the tweet as a group
+        3.  Decide individually what base of power they would categorize the tweet in
+        4.  Compare their categorizations
+        5.  Discuss and decide which categorization they believe is best
+        6.  Record their final determination as a group
+    F.  Discussion Questions:
+        1.  How many tweets did your group have in each category?
+        2.  How easy was it to categorize the tweets?
+        3.  What base of power do they use most often? Least? Why?
+5.  Lesson closing
+
+[^classical-conditioning]: Both reward power and coercive power represent classical conditioning in Psychology.
+[^french-raven-1959]: French, J. & Raven, B. H. (1959). The bases of social power. In D. Cartwright (Ed.) *Studies in social power* (pp. 150--167). Institute for Social Research.
+
+Limitations
+===========
+
+Requires that students have access to a device capable of accessing Twitter.
+
+<!--
+Debrief
+=======
+-->
+
+Variations and Accommodations
+=============================
+
+Follow guidance from local accommodation authorities.
+
+<!-- End Notes -->
+
+<!-- Previous Versions:
+
+   v#   | Date       | Modifications
+  ------|:-----------|:-------------
+  v0.00 | 2020-02-14 | Initial Version
+
+-->
