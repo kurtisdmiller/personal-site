@@ -20,7 +20,7 @@ weight: 13
 
   * Meeting Agenda are due 24 hours before each meeting.
   * Meeting Minutes are due 24 hours after each meeting.
-  * You video should be turned in no later than 24 hours prior to the presentation date.
+  * Your video should be turned in no later than 24 hours prior to the presentation date.
   * See the calendar for your section presentation dates.
   * Peer evaluations must be completed within one week of the final presentation.
 
@@ -53,7 +53,7 @@ Task
 
 You will be assigned into a 4-6 person group at random.
 Your group will create an idea for a product that will solve a common campus problem.
-You product should be larger than a backpack, but smaller than a couch.
+Your product should be larger than a backpack, but smaller than a couch.
 You will need to make a prototype of this product.
 Awful prototypes are encouraged -- do not spend any of your own money on this project.
 Then, storyboard, script, and star in a commercial designed to attract investors.
@@ -123,6 +123,7 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v0.01 | 2020-02-18 | Minor spelling corrections
   v0.00 | 2020-01-28 | Initial version
 
 -->
