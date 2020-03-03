@@ -3,7 +3,7 @@ title: Final Group Project
 toc: true
 type: docs
 date: 2019-01-07
-lastmod: 2020-01-09
+lastmod: 2020-03-02
 draft: false
 featured: false
 menu:
@@ -16,67 +16,57 @@ weight: 13
 
 ---
 
-This assignment is under construction.
-
-<!--
 **Due Dates:**
 
-  * See the calendar for your section for the available presentation dates.
-  * Outline and Visual Aid -- two class meetings prior to your presentation.
+  * Due dates as established by students.
 
-Purpose
-=======
+# Purpose
 
-This assignment familiarizes students with the types of preparation work that are expected, when and how to turn in that preparation work, and classroom processes on presentation days.
+This assignment is an opportunity to demonstrate the skills learned in the class.
 
-Skills
-------
+## Skills
 
 In this assignment you will:
 
-* Orient yourself to the Moodle page for the class.
-* Practice the process to complete prepared presentation assignments in this class.
-* Familiarize yourself with the presentation space and resources.
+* Plan a class project.
+* Task organize to complete the project.
+* Determine methods for evaluating group work.
 
-Knowledge
----------
+## Knowledge
 
 This assignment will also help you become familiar with the following important content in this discipline:
 
-* Using projected visual aids
-* Preparing and practicing presentations
+* Conflict management
+* Inter-group collaboration
 
-Task
-====
+# Task
 
-You will prepare and deliver a 1-minute, face-to-face presentation about a specific detail of your life (other than sports).
-You will inform your audience 
-Remember: An informative presentation should consist of mostly new information for your audience.
+You will identify, plan, and execute a class-level project.
 
 To complete the assignment, you will need to:
 
-1. Reserve a topic for your presentation on Moodle.
-2. Schedule a time for your presentation on Moodle.
-3. Create a preparation outline and submit it on Moodle.
-4. Create a projected visual aid and submit it on Moodle.
-5. Deliver your presentation face-to-face in front of an audience.
--->
+1. Identify a project.
+2. Assign due-outs to specific groups.
+3. Determine evaluation criteria.
+4. Execute the project.
+
+## Examples
+
+Some example documents and a consolidated file of student advice are included on the class Moodle site.
 
 <!--
-Examples
---------
-
 Here is an example debate.[^student-permission]
 
 {{< youtube 9oiPG1VIzR4 >}}
 -->
 
+## Criteria for Success
+
+This presentation is graded out of 250 points.
+The standards and method of evaluation are determined by the students, but the evaluation itself is performed by the instructor.
+The instructor retains "veto authority" over standards to ensure that they are appropriate and aligned with course learning outcomes.
+
 <!--
-Criteria for Success
-====================
-
-This presentation is graded for completion out of 25 points.
-
 Component                       | Points
 --------------------------------|-------
 Topic Reserved                  | 5
@@ -99,6 +89,7 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v1.00 | 2020-03-02 | Written out now
   v0.00 | 2020-01-07 | Initial version
 
 -->
