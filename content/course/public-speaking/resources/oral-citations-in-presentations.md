@@ -42,8 +42,8 @@ reference to the source that would go in a reference section at the end of
 a paper. An oral citation should always include as much of the following
 information as possible the first time that you cite it:
 
-  * Author’s name
-  * The author’s credibility (Who is this person? Why are they qualified
+  * Author's name
+  * The author's credibility (Who is this person? Why are they qualified
     on this subject?)
   * The type of source (Editorial, News Article, Book, TV Show, etc.)
   * Title of the piece (Article title, Book title, Episode title, etc.)
@@ -65,23 +65,23 @@ Each Time the Source is Cited After
 -----------------------------------
 
 Then, whenever you bring up new information in the same source, you only
-need to make sure we know where you got it, but you don’t need to give us
+need to make sure we know where you got it, but you don't need to give us
 all of the same information again. These subsequent citations have the
 same function as the brief in-text citations that go throughout a paper.
 You can say things like:
 
   * "Burton's book also argues…"
-  * “She goes on to say…”
-  * “In the same article…”
-  * “But Davis takes issue with this point…”
-  * “Samir quotes Bill Clinton as saying ‘…’”
+  * "She goes on to say…"
+  * "In the same article…"
+  * "But Davis takes issue with this point…"
+  * "Samir quotes Bill Clinton as saying '…'"
   * Remember: every direct quotation should include a page number (or equivalent)
 
 Watch out for These Mistakes!
 -----------------------------
 
   * Be certain you are citing the right thing. If someone is quoted in an
-    article then you should say that they were quoted in the article – you
+    article then you should say that they were quoted in the article -- you
     should not cite them directly!
   * When you are putting citations in your outline or on your speaking
     notes[^citations-on-speaking-notes], you should write them as you
@@ -104,6 +104,7 @@ Watch out for These Mistakes!
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v1.02 | 2020-03-05 | Minor formatting changes
   v1.01 | 2019-08-15 | Changes for Hugo compatibility
   v1.00 | 2017-09-04 | forked resource to focus on oral citations here and citations in presentation aids in a separate resource
   v0.07 | 2017-03-09 | fixed reference link

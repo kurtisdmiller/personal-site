@@ -15,21 +15,15 @@ weight: 20
 
 ---
 
-Picking a topic is one of the hardest parts of putting together
-a presentation, and it is one of the most important. Getting off to
-a strong start with a good topic that you find interesting will make the
-research you need to do to put together a strong presentation fun, it will
-make it easier for you to speak passionately to your audience, and it will
-make it easier to put together a presentation the audience will listen to.
+Picking a topic is one of the hardest parts of putting together a presentation, and it is one of the most important.
+Getting off to a strong start with a good topic that you find interesting will make the research you need to do to put together a strong presentation fun, it will make it easier for you to speak passionately to your audience, and it will make it easier to put together a presentation the audience will listen to.
 
 Brainstorming Topics
 ====================
 
 Step one is coming up with a large number of topics to evaluate.
-I generally recommend that students consider **at least 100 topics** in
-for each presentation they give in my classes. Coming up with that many
-topics can be difficult, so I put together some [tips for brainstorming
-topics][].
+I generally recommend that students consider **at least 100 topics** for each presentation they give in my classes.
+Coming up with that many topics can be difficult, so I put together some [tips for brainstorming topics][].
 
 Evaluating Topics
 =================
@@ -47,8 +41,7 @@ When evaluating topics, be sure to consider:
 Topics to Avoid
 ===============
 
-After many years of experience teaching Public Speaking, I've learned that
-there are some topics that rarely result in high-quality student work.
+After many years of experience teaching Public Speaking, I've learned that there are some topics that rarely result in high-quality student work.
 I **strongly** advise you to avoid the topics listed below.
 
 Controversial or Political Issues 
@@ -68,7 +61,7 @@ Examples include (but are not limited to):
 - Paying College Athletes
 - Title IX
 - Lowering the Drinking Age
-  - Actually, anything to do with drinking (even “wine is good for you”). I’m tired of hearing about drinking.
+  - Actually, anything to do with drinking (even "wine is good for you"). I'm tired of hearing about drinking.
 
 Things People Already Know They Should or Should Not Do
 -------------------------------------------------------
@@ -127,6 +120,7 @@ Examples include (but are not limited to):
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v0.05 | 2020-03-05 | Minor formatting changes
   v0.04 | 2019-08-08 | Changes for Hugo compatibility
   v0.03 | 2017-10-11 | Clarified tobacco and drug use
   v0.02 | 2017-10-02 | Added in the "scary chemical" speech.
