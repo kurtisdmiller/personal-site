@@ -17,8 +17,7 @@ menu:
 weight: 2
 ---
 
-Section Information
-===================
+# Section Information
 
 Spring 2020
 
@@ -28,8 +27,7 @@ T/F, 9:30 -- 11:45, Virginia 216
 
 [ho-s]:   /course/team-small-group/COMM-212-100-SP20-KM.pdf "Handout - Syllabus"
 
-Calendar
---------
+## Calendar
 
 *The calendar for this course is subject to change.*
 *Updates will be communicated through the Moodle announcement system.*
@@ -94,17 +92,56 @@ Calendar
 
  --   F,  3/13   *No Classes, Spring Break* \
 
- 17   T,  3/17   **[Community Group Observation][] Due** \
-                 Class Discussion \
+ --         --   **Course Changes Due to Coronavirus Cancellation**
+
+ 17   T,  3/17   Transition Day 1 \
+                 Course Changes \
+                 ~~**[Community Group Observation][] Due**~~ \
+                 ~~Class Discussion~~ \
 
  18   F,  3/20   <!-- drill 19-20 -->
-                 Guest Lecture \
+                 Transition Day 2 \
+                 Proposal Presentations (Live Class Meeting) \
+                 **Quiz 7, Ch. 7** \
+                 ~~Guest Lecture~~ \
+---   --------   ---------------------------------------------------------------------------------------------
 
- 19   T,  3/24   Ch. 8: Managing Conflict \
+## Completion Schedule
+
+*This schedule will be used to finish out the semester in an online format.*
+
+---   ----------   ---------------------------------------------------------------------------------------------
+Week  Ends         Content
+---   ----------   ---------------------------------------------------------------------------------------------
+Wk1   Sun,  3/29   Ch. 8: Managing Conflict \
+                   **Quiz 8, Ch. 8** \
+
+Wk2   Sun,  4/05   Ch. 9: Leadership \
+                   **Quiz 9, Ch. 9** \
+
+Wk3   Sun,  4/12   Ch. 10: Making Decisions and Solving Problems \
+                   **Quiz 10, Ch. 10** \
+
+Wk4   Sun,  4/19   Ch. 11: Using Problem-Solving Strategies \
+                   **Quiz 11, Ch. 11** \
+
+Wk5   Sun,  4/26   Ch. 12: Enhancing Creativity in Groups and Teams \
+                   **Quiz 12, Ch. 12** \
+
+Wk6   Sun,  5/03   Course Evaluations \
+                   Make-up/Review \
+
+ --   Tue,  5/05   Assessment Post-test \
+                   **Final Exam** at 10:00 am
+---   ----------   ---------------------------------------------------------------------------------------------
+
+<!-- Old Plan
+ 19   T,  3/24   **[Community Group Observation][] Due** \ TODO: remove
+                 Ch. 8: Managing Conflict \
 
  20   F,  3/27   **Quiz 7, Ch. 7** \
                  Ch. 8: Managing Conflict, cont. \
-                 <!--[Lesson Plan][TODO]-->
+                 [Lesson Plan][TODO]
 
  21   T,  3/31   Ch. 9: Leadership \
 
@@ -132,11 +169,13 @@ Calendar
  29   F,  5/01   Course Evaluations \
                  **Quiz 12, Ch. 12** \
                  Make-up/Review \
-                 <!--[Lesson Plan][TODO]-->
+                 [Lesson Plan][TODO]
 
  30   T,  5/05   Assessment Post-test \
                  **Final Exam** at 10:00 am
 ---   --------   ---------------------------------------------------------------------------------------------
+
+-->
 
 <!--
 # Assignment Links -->
