@@ -17,8 +17,7 @@ menu:
 weight: 2
 ---
 
-Section Information
-===================
+# Section Information
 
 Spring 2020
 
@@ -28,8 +27,7 @@ M/Th, 09:30 -- 10:45, Library 112
 
 [ho-s]:   /course/public-speaking/SPCH-101-100-SP20-KM.pdf "Handout - Syllabus"
 
-Calendar
---------
+## Calendar
 
 *The calendar for this course is subject to change.*
 *Updates will be communicated through the Moodle announcement system.*
@@ -99,56 +97,64 @@ Calendar
  --   R,  3/12   *No Classes, Spring Break* \
 
  15   M,  3/16   **Support Presentation Sign-ups** \
-                 Crisis Response Presentations \
+                 Crisis Response Presentations (Live) \
                  [Lesson Plan][lp-crp] \
-                 **Quiz 9: Visual Presentation of Data** \
+                 Discussion Due Sun, 3/22 \
+                 <!-- **Quiz 9: Visual Presentation of Data** \ -->
 
  16   R,  3/19   <!-- drill 19-20 -->
+                 No Live Class, Peer Feedback Delayed \
                  Preparation Workshop \
                  [Handout][ho-ppr] \
 
- 17   M,  3/23   Organizing Persuasive Presentations \
+ 17   M,  3/23   **Support Preparation Materials Due** \
+                 Organizing Persuasive Presentations (Recorded) \
                  [Lesson Plan][lp-opp] \
-                 **Quiz 10: Verbal and Nonverbal Delivery** \
+                 Discussion Due Sun, 3/29 \
+                 <!-- **Quiz 10: Verbal and Nonverbal Delivery** \ -->
 
- 18   R,  3/26   [Support Presentations][Support] \
+ 18   R,  3/26   **Support Presentation Prep. Peer Feedback Due** \
+                 [Support Presentations][Support] (Live) \
                  [Visual Aid][va-pf] \
 
- 19   M,  3/30   [Support Presentations][Support] \
+ 19   M,  3/30   [Support Presentations][Support] (Live) \
                  [Visual Aid][va-pf] \
 
- 20   R,  4/02   Competitive Debate \
+ 20   R,  4/02   Competitive Debate (Recorded) \
                  <!--[Lesson Plan][TODO]-->
-                 **Quiz 11: Crisis Response Presentations** \
+                 Discussion Due Sun, 4/05 \
+                 <!-- **Quiz 11: Crisis Response Presentations** \ -->
 
- 21   M,  4/06   [Debate Presentations][Debate] \
+ 21   M,  4/06   [Debate Presentations][Debate] (Live) \
                  [Visual Aid][va-pf] \
 
- 22   R,  4/09   [Debate Presentations][Debate] \
+ 22   R,  4/09   [Debate Presentations][Debate] (Live) \
                  [Visual Aid][va-pf] \
 
  23   M,  4/13   **Persuasive Presentation Sign-ups** \
-                 [Debate Presentations][Debate] \
+                 [Debate Presentations][Debate] (Live) \
                  [Visual Aid][va-pf] \
 
- 24   R,  4/16   [Debate Presentations][Debate] \
+ 24   R,  4/16   [Debate Presentations][Debate] (Live) \
                  [Visual Aid][va-pf] \
 
- 25   M,  4/20   Special Occasion Presentations \
+ 25   M,  4/20   Special Occasion Presentations (Recorded) \
                  [Lesson Plan][lp-sop] \
-                 **Quiz 12: Competitive Debate** \
+                 Discussion Due Sun, 4/26 \
+                 <!-- **Quiz 12: Competitive Debate** \ -->
 
- 26   R,  4/23   [Persuasive Presentations][Persuasive] \
+ 26   R,  4/23   [Persuasive Presentations][Persuasive] (Live) \
                  [Visual Aid][va-pf] \
 
- 27   M,  4/27   [Persuasive Presentations][Persuasive] \
+ 27   M,  4/27   [Persuasive Presentations][Persuasive] (Live) \
                  [Visual Aid][va-pf] \
 
- 28   R,  4/30   [Persuasive Presentations][Persuasive] \
+ 28   R,  4/30   [Persuasive Presentations][Persuasive] (Live) \
                  [Visual Aid][va-pf] \
 
  29   M,  5/04   Course Evaluations \
-                 Make-up/Review, Presenting Beyond the Classroom \
+                 Make-up/Review, Presenting Beyond the Classroom (Recorded) \
+                 **NO Discussion Required**
                  <!--[Lesson Plan][TODO]-->
 
  30   R,  5/07   Assessment Post-test \
