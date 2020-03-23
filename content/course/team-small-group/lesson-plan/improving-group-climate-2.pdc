@@ -1,0 +1,90 @@
+---
+title: Improving Group Climate, cont.
+toc: true
+type: docs
+date: 2020-03-23
+draft: false
+featured: false
+# menu:
+#   public-speaking:
+#     parent: Lesson Plans
+#     weight: 15
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 60
+
+---
+
+**Course(s) Used:**
+
+* Team and Small Group Communication
+
+**Goals and Objectives:**
+
+* Students can identify the common archetypal network structures.
+* Students understand features and limitations of different network structures.
+
+**Rationale:**
+
+Students are engaged in a large number of different networks, and different network structures can have significant effects on the ways that groups work together, process information, and the different outcomes that students may encounter.
+
+# Materials Needed
+
+**Materials:**
+
+* Labelled note cards to make nodes
+* String or yarn to make connections
+
+**Technology:**
+
+* Classroom computer and projector
+
+# Outline of the Lesson
+
+1.  Review of previous session's content
+2.  Networks are made of two parts
+    A.  Nodes (AKA "Vertices")
+    B.  Connections (AKA "Edges")
+3.  Archetypal network structures
+    A.  Linear
+    B.  Ring
+    C.  Star
+    D.  Tree
+    E.  Mesh
+    F.  Full
+    G.  Bus[^not-used-interpersonally]
+4.  Features of Networks and Nodes
+    A.  **Path length** is how many steps it takes for a message to travel
+    B.  **Centrality** is average distance to all other points
+    C.  **Resilience** is about how average path length changes when a node or connection is removed
+    D.  **"Criticality"** is how much any particular node or connection impacts resilience
+<!-- 5.  Features unique to human networks -->
+5.  Hands on group work: "Weaving and visualizing networks"
+    <!-- A.  TODO: create and write-up this activity -->
+6.  Lesson closing
+
+[^not-used-interpersonally]: Bus architecture is not used in human groups and teams, but is used in other types of networks, so it is included here for completeness.
+
+# Limitations
+
+This activity requires students to have a fair amount of open floor space in the room.
+
+<!--
+# Debrief
+-->
+
+# Variations and Accommodations
+
+Follow guidance from local accommodation authorities.
+
+<!--
+# End Notes
+-->
+
+<!-- Previous Versions:
+
+   v#   | Date       | Modifications
+  ------|:-----------|:-------------
+  v0.00 | 2020-03-23 | Initial Version
+
+-->
