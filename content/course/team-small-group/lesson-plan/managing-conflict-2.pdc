@@ -1,0 +1,105 @@
+---
+title: Managing Conflict, cont.
+toc: true
+type: docs
+date: 2020-03-24
+draft: false
+featured: false
+# menu:
+#   public-speaking:
+#     parent: Lesson Plans
+#     weight: 15
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 60
+
+---
+
+**Course(s) Used:**
+
+* Team and Small Group Communication
+
+**Goals and Objectives:**
+
+* Students can identify the indicators of groupthink.
+* Students are aware of strategies to avoid groupthink in their groups.
+
+**Rationale:**
+
+Groupthink and excessive conflict avoidance are unfortunately common.
+Students need to be able to identify and respond to groupthink in order to help their groups be successful.
+
+# Materials Needed
+
+**Materials:**
+
+* None
+
+**Technology:**
+
+* Classroom computer and projector
+
+# Outline of the Lesson
+
+1.  Review of previous session's content
+2.  **Groupthink** is one way that conflict is managed ineffectively[^janis-1972][^janis-1982]
+3.  Features that make groupthink more likely:
+    A.  Apathetic group (class projects, OMG)
+    B.  Members don't believe they can be successful
+    C.  One or more qualified and capable group members
+    D.  A very persuasive group member
+    E.  A norm of censoring negative opinions
+4.  Identifying groupthink
+    A.  Critical thinking not encouraged or rewarded
+    B.  Members think their group can do no wrong
+    C.  Members too concerned with justifying/rationalizing their actions
+    D.  Members pressure those that don't support decisions
+    E.  Members believe there is consensus
+    F.  Members reinforce the leader's beliefs
+5.  Avoiding/Reducing groupthink
+    A.  Encourage critical thinking
+        1.  Explicitly ask for disagreement
+    B.  Pay attention to status
+    C.  Invite an outside observer
+        1.  They should not be critiquing your ideas
+        2.  Have them focus on process and relationships
+    D.  Assign responsibility for criticism
+        1.  Assigning this responsibility makes criticism less personal ("It's my job")
+    E.  Subdivide the group
+        1.  Limited time in larger groups for people to share
+        2.  There is a reason committees are so common--they work!
+    F.  Integrate technology
+        1.  Can allow asynchronous work
+        2.  Can allow anonymity
+        3.  Brainstorming/Feedback/Voting
+<!-- 6.  TODO: Hands on group work: "Survival under time pressure" -->
+7.  Lesson closing
+
+[^janis-1972]: Janis, I. L. (1972). *Victims of groupthink: A psychological study of foreign-policy decisions and fiascoes*. Houghton Mifflin.
+[^janis-1982]: Janis, I. L. (1982). *Groupthink: Psychological studies of policy decisions and fiascoes*. Houghton Mifflin.
+
+<!--
+# Limitations
+
+This class requires 75 minutes when paired with the activity.
+-->
+
+<!--
+# Debrief
+-->
+
+# Variations and Accommodations
+
+Follow guidance from local accommodation authorities.
+
+<!--
+# End Notes
+-->
+
+<!-- Previous Versions:
+
+   v#   | Date       | Modifications
+  ------|:-----------|:-------------
+  v0.00 | 2020-03-24 | Initial Version
+
+-->

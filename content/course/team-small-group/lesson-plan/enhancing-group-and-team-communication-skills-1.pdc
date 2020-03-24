@@ -2,7 +2,7 @@
 title: Enhancing Group and Team Communication Skills
 toc: true
 type: docs
-date: 2020-03-23
+date: 2020-03-24
 draft: false
 featured: false
 # menu:
@@ -41,31 +41,28 @@ Students need to be able to articulate when and why groups choose sub-optimal de
 # Outline of the Lesson
 
 1.  Review of previous session's content
-2.  How often do we decide on "good enough" decisions? Why?
-3.  There are two important kinds of trust in group interactions:[^pearson-nelson-1997]
-    A.  **Task trust** is the belief that each group member will do their fair share.
-    B.  **Interpersonal trust** is the belief that members will act in the best interests of the group.
-4.  Common constraints on group decision making
-    A.  **Temporal** constraints include availability and how quickly decisions must be made.
-    B.  **Cognitive** constraints include competing tasks and things to focus on.
-    C.  **Situational** constraints include limits imposed by the environment or decision task.
-    D.  **Relational** constraints include maintaining relationships and overcoming difficult ones.
-5.  Potentially problematic approaches
-    A.  **Groupthink** is prioritizing relationships and face over decision quality.[^janis-1972][^janis-1982]
-    B.  **Satisficing** is accepting the first good-enough option rather than optimizing.[^march-simon-1958]
-6.  Hands on group work: "Survival under time pressure"
+2.  Many decisions about participation and leadership in groups are made before anyone says anything.
+3.  Placement is also associated with how much we talk<!-- TODO: citation michelina, passalacqua cusimany 1975, names doubtful -->
+    A.  Initiating messages is associated with more central placement in a group
+    B.  Receiving messages is associated with more central placement in a group
+4.  Placement predicts leader emergence[^small-group-ecology][^howells-becker-1962-JAppSocPsy]
+    A.  Much of turn regulation is managed through eye contact[^see-every-class-question-ever]
+    B.  Some positions make eye contact more likely or more difficult
+    C.  We tend to look at the people that we expect to speak next
+    D.  We tend to look at people when listening, and less when talking
+<!-- 8.  Hands on group work: "Survival under time pressure" -->
     <!-- TODO: track down this activity from Comm Ed -->
-7.  Lesson closing
+9.  Lesson closing
 
-[^janis-1972]: Janis, I. L. (1972). *Victims of groupthink: A psychological study of foreign-policy decisions and fiascoes*. Houghton Mifflin.
-[^janis-1982]: Janis, I. L. (1982). *Groupthink: Psychological studies of policy decisions and fiascoes*. Houghton Mifflin.
-[^march-simon-1958]: March, J. G. & Simon, H. A. (1958). *Organizations*. Wiley.
-[^pearson-nelson-1997]: Pearson, J. C. & Nelson, P. E. (1997). *An introduction to human communication: Understanding & sharing*. McGraw-Hill.
-[^french-raven-1959]: French, J. & Raven, B. H. (1959). The bases of social power. In D. Cartwright (Ed.) *Studies in social power* (pp. 150--167). Institute for Social Research.
+[^howells-becker-1962-JAppSocPsy]: Howells, L. T., & Becker, S. W. (1962). Seating arrangement and leadership emergence. *The Journal of Abnormal and Social Psychology, 65*(2) 148--150. https://doi.org/10.1037/h0040421
+[^see-every-class-question-ever]: We know this, which is why students avoid eye contact when they don't want to answer.
+[^small-group-ecology]: The study of how people are arranged in the environment is called "Small Group Ecology"
 
+<!--
 # Limitations
 
 This class requires 75 minutes when paired with the activity.
+-->
 
 <!--
 # Debrief
