@@ -1,0 +1,88 @@
+---
+title: Enhancing Group and Team Communication Skills
+toc: true
+type: docs
+date: 2020-03-23
+draft: false
+featured: false
+# menu:
+#   public-speaking:
+#     parent: Lesson Plans
+#     weight: 15
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 60
+
+---
+
+**Course(s) Used:**
+
+* Team and Small Group Communication
+
+**Goals and Objectives:**
+
+* Students understand the common constraints on group decision making.
+* Students are able to articulate how these satisficing and groupthink are influenced by these constraints.
+
+**Rationale:**
+
+Students need to be able to articulate when and why groups choose sub-optimal decision-making strategies.
+
+# Materials Needed
+
+**Materials:**
+
+* None
+
+**Technology:**
+
+* Classroom computer and projector
+
+# Outline of the Lesson
+
+1.  Review of previous session's content
+2.  How often do we decide on "good enough" decisions? Why?
+3.  There are two important kinds of trust in group interactions:[^pearson-nelson-1997]
+    A.  **Task trust** is the belief that each group member will do their fair share.
+    B.  **Interpersonal trust** is the belief that members will act in the best interests of the group.
+4.  Common constraints on group decision making
+    A.  **Temporal** constraints include availability and how quickly decisions must be made.
+    B.  **Cognitive** constraints include competing tasks and things to focus on.
+    C.  **Situational** constraints include limits imposed by the environment or decision task.
+    D.  **Relational** constraints include maintaining relationships and overcoming difficult ones.
+5.  Potentially problematic approaches
+    A.  **Groupthink** is prioritizing relationships and face over decision quality.[^janis-1972][^janis-1982]
+    B.  **Satisficing** is accepting the first good-enough option rather than optimizing.[^march-simon-1958]
+6.  Hands on group work: "Survival under time pressure"
+    <!-- TODO: track down this activity from Comm Ed -->
+7.  Lesson closing
+
+[^janis-1972]: Janis, I. L. (1972). *Victims of groupthink: A psychological study of foreign-policy decisions and fiascoes*. Houghton Mifflin.
+[^janis-1982]: Janis, I. L. (1982). *Groupthink: Psychological studies of policy decisions and fiascoes*. Houghton Mifflin.
+[^march-simon-1958]: March, J. G. & Simon, H. A. (1958). *Organizations*. Wiley.
+[^pearson-nelson-1997]: Pearson, J. C. & Nelson, P. E. (1997). *An introduction to human communication: Understanding & sharing*. McGraw-Hill.
+[^french-raven-1959]: French, J. & Raven, B. H. (1959). The bases of social power. In D. Cartwright (Ed.) *Studies in social power* (pp. 150--167). Institute for Social Research.
+
+# Limitations
+
+This class requires 75 minutes when paired with the activity.
+
+<!--
+# Debrief
+-->
+
+# Variations and Accommodations
+
+Follow guidance from local accommodation authorities.
+
+<!--
+# End Notes
+-->
+
+<!-- Previous Versions:
+
+   v#   | Date       | Modifications
+  ------|:-----------|:-------------
+  v0.00 | 2020-03-23 | Initial Version
+
+-->
