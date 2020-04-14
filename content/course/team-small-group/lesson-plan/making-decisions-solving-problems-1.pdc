@@ -1,0 +1,91 @@
+---
+title: Making Decisions and Solving Problems
+toc: true
+type: docs
+date: 2020-04-14
+draft: false
+featured: false
+# menu:
+#   public-speaking:
+#     parent: Lesson Plans
+#     weight: 15
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 60
+
+---
+
+**Course(s) Used:**
+
+* Team and Small Group Communication
+
+**Goals and Objectives:**
+
+* Students can describe the various mechanisms available to make decisions within groups
+
+**Rationale:**
+
+Groups work best when the decision-making process is explicitly identified and decision-making mechanisms are chosen intelligently
+
+# Materials Needed
+
+**Materials:**
+
+* None
+
+**Technology:**
+
+* Classroom computer and projector
+
+# Outline of the Lesson
+
+1.  Review of previous session's content
+2.  Groups make the best decisions when the process is explicitly identified[^gouran-hirokawa-1996]
+3.  There are 5 steps to group decision-making:
+    A.  Assess the situation
+    B.  Identify goals
+    C.  Identify alternatives
+    D.  Evaluate alternatives and their consequences
+    E.  Actually making the decision[^our-focus-for-this-lesson]
+4.  Group decision-making mechanisms
+    A.  Choice of mechanism represents a 3-way trade-off between Decision Quality, Relationships, and Speed
+    B.  Decision by Expert
+    C.  Averaging Individual Rankings/Ratings
+    D.  Random Choice
+    E.  Majority Decision
+    F.  Minority Decision
+    G.  Consensus
+    H.  Judge systems[^not-in-textbook][^includes-leader-choice]
+<!-- 5.  TODO: Hands on group work: "Survival under time pressure" -->
+6.  Lesson closing
+
+[^gouran-hirokawa-1996]: Gouran, D. S. & Hirokawa, R. Y. (1996). Functional theory and communication in decision-making and problem-solving groups: An expanded view. In R. Y. Hirokawa and M. S. Poole, Eds., *Communication and group decision making*, 55--80. Sage.
+[^includes-leader-choice]: This method includes decisions made by a leader
+[^not-in-textbook]: This method is not described in the textbook
+[^our-focus-for-this-lesson]: Today's lesson focuses on mechanisms for group decision-making
+
+<!--
+# Limitations
+
+This class requires 75 minutes when paired with the activity.
+-->
+
+<!--
+# Debrief
+-->
+
+# Variations and Accommodations
+
+Follow guidance from local accommodation authorities.
+
+<!--
+# End Notes
+-->
+
+<!-- Previous Versions:
+
+   v#   | Date       | Modifications
+  ------|:-----------|:-------------
+  v0.00 | 2020-04-14 | Initial Version
+
+-->
