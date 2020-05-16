@@ -5,7 +5,7 @@ toc: true
 type: docs
 author: Kurtis D. Miller
 date: 2020-01-08
-lastmod: 2020-01-08
+lastmod: 2020-05-15
 draft: false
 featured: false
 menu:
@@ -18,9 +18,11 @@ weight: 1
 
 ---
 
-Tusculum University
--------------------
+## Tusculum University
 
+* 2020 Spring, [SPCH 101-100](/course/archive/public-speaking/2020S-spch-101-100.pdf)
+* 2020 Spring, [SPCH 101-101](/course/archive/public-speaking/2020S-spch-101-101.pdf)
+* 2020 Spring, [SPCH 101-103](/course/archive/public-speaking/2020S-spch-101-103.pdf)
 * 2019 Fall, [SPCH 101-100](/course/archive/public-speaking/2019F-spch-101-100.pdf)
 * 2019 Fall, [SPCH 101-101](/course/archive/public-speaking/2019F-spch-101-101.pdf)
 * 2018 Spring, [SPCH 101-40](/course/archive/public-speaking/2018S-spch-101-40.pdf)
@@ -39,8 +41,7 @@ Tusculum University
 * 2016 Fall, [SPCH 101-23X](/course/archive/public-speaking/2016F-spch-101-23x.pdf)
 * 2016 Fall, [SPCH 101-30](/course/archive/public-speaking/2016F-spch-101-30.pdf)
 
-Purdue University
------------------
+## Purdue University
 
 *Note: I no longer have copies of some syllabi from this time period*
 
