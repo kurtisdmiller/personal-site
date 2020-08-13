@@ -6,7 +6,7 @@ type: docs
 author: Kurtis D. Miller
 date: 2020-01-07
 lastmod: 2020-01-08
-draft: false
+draft: true
 featured: false # change this to show on homepage
 summary:
 menu:

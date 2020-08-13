@@ -7,7 +7,7 @@ weight: 2
 title: Argumentation & Debate / Debate Team Practicum
 date: "2020-01-07"
 lastmod: "2020-01-07"
-draft: false # Is this a draft? true/false
+draft: true # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 

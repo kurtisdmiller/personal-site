@@ -7,7 +7,7 @@ weight: 90
 title: Team and Small Group Communication
 date: "2020-01-08"
 lastmod: "2020-01-08"
-draft: false  # Is this a draft? true/false
+draft: true  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 

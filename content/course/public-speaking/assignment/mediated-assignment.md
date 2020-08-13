@@ -9,10 +9,10 @@ featured: false
 menu:
   public-speaking:
     parent: Assignments
-    weight: 10
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 10
+weight: 12
 
 ---
 

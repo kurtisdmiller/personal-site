@@ -2,16 +2,17 @@
 title: Professionalism Grade
 toc: true
 type: docs
-date: "2019-01-07"
+date: 2019-01-07
+lastmod: 2020-08-06
 draft: false
 featured: false
 menu:
   public-speaking:
     parent: Assignments
-    weight: 99
+    weight: 21
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 13
+weight: 21
 
 ---
 
@@ -19,13 +20,11 @@ weight: 13
 
   * None. Professionalism is assessed throughout the semester.
 
-Purpose
-=======
+# Purpose
 
 This assignment helps students develop the professional behaviors expected in most working environments.
 
-Skills
-------
+## Skills
 
 In this assignment you will:
 
@@ -34,16 +33,14 @@ In this assignment you will:
 * Meet deadlines.
 * Treat others respectfully in class and outside of class.
 
-Knowledge
----------
+## Knowledge
 
 This assignment will also help you become familiar with the following important content in this discipline:
 
 * Common workplace expectations for professional behavior
 * Cultural norms for respectful treatment of others
 
-Task
-====
+# Task
 
 1. Arrive in class on time each day.
 2. Bring all required materials.

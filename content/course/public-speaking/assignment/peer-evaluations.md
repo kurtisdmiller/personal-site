@@ -2,16 +2,17 @@
 title: Peer Evaluations
 toc: true
 type: docs
-date: "2019-08-07"
+date: 2019-08-07
+updated: 2020-08-06
 draft: false
 featured: false
 menu:
   public-speaking:
     parent: Assignments
-    weight: 14
+    weight: 10
 
 # Prev/Next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 14
+weight: 20
 
 ---
 
@@ -20,20 +21,17 @@ weight: 14
  * Traditional courses: peer feedback is completed during the in-class presentations.
  * Online/Hybrid courses: peer feedback is due no later than two days after the presentation due date.
 
-Purpose
-=======
+# Purpose
 
 Critically evaluating presentations is a key competency of this course, as is effectively providing and incorporating feedback.
 
-Skills
-------
+## Skills
 
 In this assignment you will:
 
 * Prepared feedback for other presenters.
 
-Knowledge
----------
+## Knowledge
 
 This assignment will also help you become familiar with the following important content in this discipline:
 
@@ -42,8 +40,7 @@ This assignment will also help you become familiar with the following important 
 * Use of evidence
 * Audience analysis
 
-Task
-====
+# Task
 
 **Traditional courses:** Your peer evaluation will be written on a note card during each presentation.
 You will write a short paragraph or series of bullet points containing feedback on their performance in your assigned area of feedback.
@@ -54,22 +51,23 @@ Students will be assigned to a topic for feedback randomly from the following fo
 3. Research and evidence
 4. Delivery
 
-**Online/Hybrid courses:** Your peer evaluation will be delivered as a text post in a forum on the course management system website.
+**Online/Hybrid courses:** Your peer evaluation will be an abbreviated [Speech Critique][] delivered as a text post in a forum on the course management system website.
+References are not required for the peer evaluations.
 You will reply to the video linked by your partner with several paragraphs addressing their performance in the presentation.
-You should write at least one paragraph with multiple sentences addressing each of the required sections:
 
-1. Delivery Evaluation
-2. Organization Evaluation
-3. Research and Evidence Evaluation
-4. Objective Evaluation
-5. Other Comments
+The required paragraphs are listed below.
+Each should contain multiple sentences.
+The [Speech Critique][] assignment description includes more detail about topics that you might want to address within each paragraph, if you are having trouble.
 
-Criteria for Success
-====================
+1. Discuss organization of the presentation
+2. Discuss research and supporting evidence in the presentation
+3. Delivery evaluation for the presenter
+4. Other comments (optional)
+5. Was the speech objective achieved? Why or why not?
 
-Your peer feedback provided during the semester will be evaluated out of 100 points.
-Each peer feedback artifact that you should turn in will be graded out of 4 points, and your overall percentage on this feedback will be converted to a total out of 100 points.
+# Criteria for Success
 
+Your peer feedback is part of your participation and professionalism grade.
 Your peer feedback will be evaluated based on the quality and usefulness of the feedback for the presenter.
 Peer feedback should demonstrate each of the four principles of effective feedback:
 
@@ -77,20 +75,20 @@ Peer feedback should demonstrate each of the four principles of effective feedba
 2. Objective
 3. Actionable
 4. Paired (Balanced)
+5. Professional
 
-Peer Feedback Rubric
---------------------
+## Peer Feedback Rubric
 
-Component  | Points
----------- | ------
-Specific   | 1
-Objective  | 1
-Actionable | 1
-Paired     | 1
+Component    | Points
+------------ | ------
+Specific     | 1
+Objective    | 1
+Actionable   | 1
+Paired       | 1
+Professional | 1
 
 <!--
-Examples
-========
+# Examples
 -->
 
 <!--
@@ -103,8 +101,7 @@ a well-formatted outline.
 -->
 
 <!--
-Acknowledgments
-===============
+# Acknowledgments
 
 [^student-permission] Many thanks to the students who have given me permission to use examples based on their work. Student consent forms are on file.
 -->
@@ -113,6 +110,7 @@ Acknowledgments
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v2.01 | 2020-08-06 | Update for Hyflex delivery
   v2.00 | 2020-02-14 | Switched formatting for better transparency.
   v1.01 | 2019-08-08 | Updates for Hugo compatibility
   v1.00 | 2017-04-03 | Description for in-class vs. online feedback 

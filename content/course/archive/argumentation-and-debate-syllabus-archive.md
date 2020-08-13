@@ -5,7 +5,7 @@ toc: true
 type: docs
 author: Kurtis D. Miller
 date: 2020-05-15
-lastmod: 2020-05-15
+lastmod: 2020-08-06
 draft: false
 featured: false
 menu:
@@ -20,4 +20,5 @@ weight: 1
 
 ## Tusculum University
 
+* 2020 Spring, [COMM 120-100](/course/archive/argumentation-and-debate/2020S-comm-120-100.pdf)
 * 2020 Spring, [COMM 220-100](/course/archive/argumentation-and-debate/2020S-comm-220-100.pdf)

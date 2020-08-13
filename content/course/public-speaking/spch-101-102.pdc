@@ -1,39 +1,37 @@
 ---
-title: SPCH 101, Section 100
-linktitle: Section 100, MW 12:30
+title: SPCH 101, Section 102
+linktitle: Section 102, TR 09:30
 toc: false
 type: docs
 author: Kurtis D. Miller
-date: 2020-08-06
+date: 2020-08-05
 draft: false
 featured: true
-summary: M/W, 12:30 - 1:50, Library 117
+summary: T/Th, 09:30 - 10:50, Library 117
 menu:
   public-speaking:
     parent: Public Speaking
-    weight: 2
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 3
 ---
 
 # Section Supplemental Information
 
-Section 100, Fall 2020
+Section 102, Fall 2020
 
-M/W, 12:30 - 1:50, Library 117
+T/Th, 09:30 - 10:50, Library 117
 
 Hyflex Plan: Students assigned into both "A" and "B" groups.
 Students in the "A" group should plan for face-to-face meetings on Tuesdays, and students in the "B" group should plan for face-to-face meetings on Thursdays.
 Students who wish to switch from one group to another may do so *one* time, and must find another student who is willing to switch with them.
 
-<!-- more -->
-
-[ho-s]:   /course/public-speaking/SPCH-101-100-FA20-KM.pdf     "Handout - Syllabus"
+[ho-s]:   /course/public-speaking/SPCH-101-102-FA20-KM.pdf     "Handout - Syllabus"
 
 # Calendar
 
-***All items are turned in on Canvas, and will be considered late after 11:59 pm on the Monday of the following week (US Eastern Time).***
+***All items are turned in on Canvas, and will be considered late after 11:55 pm on the Monday of the following week (US Eastern Time).***
 *The calendar for this course is subject to change.*
 *Updates will be communicated through the Canvas announcement system.*
 This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
@@ -43,8 +41,8 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
 ----   -------------   ---------------------------------------------------------------------------------------------
   Wk   Meetings        Topic
 ----   -------------   ---------------------------------------------------------------------------------------------
-  1    A: M,  8/17 \   Welcome, Communication as a Field of Study, ([Handout][ho-s]) \
-       B: W,  8/19 \   [Choosing Topics][lp-ts] \
+  1    A: T,  8/18 \   Welcome, Communication as a Field of Study, ([Handout][ho-s]) \
+       B: R,  8/20 \   [Choosing Topics][lp-ts] \
                        [Introductions, Transitions, & Conclusions][lp-itc] \
                        <!-- drill 22&23 -->
                        *Complete the following by 8/24* \
@@ -55,8 +53,8 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
                        - Activity 2: Introductions, Transitions, & Conclusions \
                        - Syllabus Quiz \
 
-  2    A: M,  8/24 \   [Preparation Outlines][lp-po] \
-       B: W,  8/26 \   [Organizing Informative Presentations][lp-oip] \
+  2    A: T,  8/25 \   [Preparation Outlines][lp-po] \
+       B: R,  8/27 \   [Organizing Informative Presentations][lp-oip] \
                        *Complete the following by 8/31* \
                        - [Practice Presentations][Practice], ([Visual Aid][va-pf]) \
                        - Assessment Pretest \
@@ -71,8 +69,8 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
 ----   -------------   ---------------------------------------------------------------------------------------------
   Wk   Meetings        Topic
 ----   -------------   ---------------------------------------------------------------------------------------------
-  3    A: M,  8/31 \   [Supporting Evidence][lp-se] \
-       B: W,  9/02 \   [Plagiarism & Intellectual Property][lp-pip] \
+  3    A: T,  9/01 \   [Supporting Evidence][lp-se] \
+       B: R,  9/03 \   [Plagiarism & Intellectual Property][lp-pip] \
                        *Complete the following by 9/07* \
                        - [Support Presentation][Support] Sign-up \
                        - [Peer Feedback][] for Practice Presentation ([Visual Aid][va-pf]) \
@@ -81,8 +79,8 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
                        - Quiz 3: Preparation Outlines \
                        - Quiz 4: Organizing Informative Presentations
 
-  4    A: M,  9/07 \   [Visual Aid Design][lp-vad], ([Visual Aid][va-ex]) \
-       B: W,  9/09 \   [Finding and Using Images][lp-fui], ([Visual Aid][va-ex]) \
+  4    A: T,  9/08 \   [Visual Aid Design][lp-vad], ([Visual Aid][va-ex]) \
+       B: R,  9/10 \   [Finding and Using Images][lp-fui], ([Visual Aid][va-ex]) \
                        <!-- drill 12&13 -->
                        *Complete the following by 9/14* \
                        - Activity 7: Visual Aid Design \
@@ -90,8 +88,8 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
                        - Quiz 5: Supporting Evidence \
                        - Quiz 6: Plagiarism & Intellectual Property \
 
-  5    A: M,  9/14 \   [Verbal and Nonverbal Delivery][lp-vnd] \
-       B: W,  9/16 \   [Visual Presentation of Data][lp-vpd], ([Visual Aid][va-ex]) \
+  5    A: T,  9/15 \   [Verbal and Nonverbal Delivery][lp-vnd] \
+       B: R,  9/17 \   [Visual Presentation of Data][lp-vpd], ([Visual Aid][va-ex]) \
                        *Complete the following by 9/21* \
                        - [Support Presentation][Support] Outline and Visual Aid \
                        - Activity 9: Verbal and Nonverbal Delivery \
@@ -99,8 +97,8 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
                        - Quiz 7: Visual Aid Design \
                        - Quiz 8: Finding and Using Images \
 
-  6    A: M,  9/21 \   [Support Presentations][Support], ([Visual Aid][va-pf]) \
-       B: W,  9/23 \   
+  6    A: T,  9/22 \   [Support Presentations][Support], ([Visual Aid][va-pf]) \
+       B: R,  9/24 \   
                        *Complete the following by 9/28* \
                        - Quiz 9: Verbal and Nonverbal Delivery \
                        - Quiz 10: Visual Presentation of Data \
@@ -111,24 +109,24 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
 ----   -------------   ---------------------------------------------------------------------------------------------
   Wk   Meetings        Topic
 ----   -------------   ---------------------------------------------------------------------------------------------
-  7    A: M,  9/28 \   Preparing Mediated Presentations \
-       B: W,  9/30 \   [Crisis Response Presentations][lp-crp] \
+  7    A: T,  9/29 \   Preparing Mediated Presentations \
+       B: R, 10/01 \   [Crisis Response Presentations][lp-crp] \
                        *Complete the following by 10/05* \
                        - [Mediated Presentation][Mediated] Sign-ups \
                        - [Peer Feedback][] for Support Presentation, ([Visual Aid][va-pf])  \
                        - Activity 11: Preparing Mediated Presentations \
                        - Activity 12: Crisis Response Presentations \
 
-  8    A: M, 10/05 \   PowerPoint Tips and Tricks \
-       B: W, 10/07 \   Hostile Audiences \
+  8    A: T, 10/06 \   PowerPoint Tips and Tricks \
+       B: R, 10/08 \   Hostile Audiences \
                        *Complete the following by 10/12* \
                        - Activity 13: PowerPoint Tips and Tricks \
                        - Activity 14: Question & Answer Sessions \
                        - Quiz 11: Preparing Mediated Presentations \
                        - Quiz 12: Crisis Response Presentations \
 
-  9    A: M, 10/12 \   [Competitive Debate][lp-cd] \
-       B: W, 10/14 \   [Organizing Persuasive Presentations][lp-opp] \
+  9    A: T, 10/13 \   [Competitive Debate][lp-cd] \
+       B: R, 10/15 \   [Organizing Persuasive Presentations][lp-opp] \
                        <!-- drill 16-18 -->
                        *Complete the following by 10/19* \
                        - [Mediated Presentation][Mediated] Outline and Visual Aid \
@@ -137,8 +135,8 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
                        - Quiz 13: PowerPoint Tips and Tricks \
                        - Quiz 14: Hostile Audiences \
 
- 10    A: M, 10/19 \   [Mediated Presentations][Mediated], ([Visual Aid][va-pf]) \
-       B: W, 10/21 \   
+ 10    A: T, 10/20 \   [Mediated Presentations][Mediated], ([Visual Aid][va-pf]) \
+       B: R, 10/22 \   
                        *Complete the following by 10/26* \
                        - Quiz 15: Competitive Debate \
                        - Quiz 16: Organizing Persuasive Presentations \
@@ -149,16 +147,16 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
 ----   -------------   ---------------------------------------------------------------------------------------------
   Wk   Meetings        Topic
 ----   -------------   ---------------------------------------------------------------------------------------------
- 11    A: M, 10/26 \   Presenting as a Team \
-       B: W, 10/28 \   Question & Answer Sessions \
+ 11    A: T, 10/27 \   Presenting as a Team \
+       B: R, 10/29 \   Question & Answer Sessions \
                        *Complete the following by 11/02* \
                        - [Persuasive Presentation][Persuasive] Sign-up \
                        - [Peer Feedback][] for Mediated Presentation, ([Visual Aid][va-pf]) \
                        - Activity 17: Presenting as a Team \
                        - Activity 18: Question & Answer Sessions \
 
- 12    A: M, 11/02 \   [Special Occasion Presentations][lp-sop] \
-       B: W, 11/04 \   Presenting Beyond the Classroom \
+ 12    A: T, 11/03 \   [Special Occasion Presentations][lp-sop] \
+       B: R, 11/05 \   Presenting Beyond the Classroom \
                        <!-- drill 5-8 -->
                        *Complete the following by 11/09* \
                        - [Persuasive Presentation][Persuasive] Outline and Visual Aid \
@@ -167,20 +165,20 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
                        - Quiz 17: Presenting as a Team \
                        - Quiz 18: Question & Answer Sessions \
 
- 13    A: M, 11/09 \   [Persuasive Presentations][Persuasive], ([Visual Aid][va-pf]) \
-       B: W, 11/11 \   
+ 13    A: T, 11/10 \   [Persuasive Presentations][Persuasive], ([Visual Aid][va-pf]) \
+       B: R, 11/12 \   
                        *Complete the following by 11/16* \
                        - Quiz 19: Special Occasion Presentations \
                        - Quiz 20: Presenting Beyond the Classroom \
 
- 14    A: M, 11/16 \   Course Evaluations \
-       B: W, 11/18 \   Make-up/Review \
+ 14    A: T, 11/17 \   Course Evaluations \
+       B: R, 11/19 \   Make-up/Review \
                        *Complete the following by 11/23* \
                        - [Peer Feedback][] for Persuasive Presentation, ([Visual Aid][va-pf]) \
                        - Last day to submit [Speech Critiques][Speech Critique] for extra credit \
 
- --    M, 11/30 \      Assessment Post-test \
-                       - Final Exam, 2:00 to 3:50 pm, US Eastern Time (Tentative) \
+ --    T, 12/01 \      Assessment Post-test \
+                       - Final Exam, 10:00 to 11:50 am, US Eastern Time (Tentative) \
 ----   -------------   ---------------------------------------------------------------------------------------------
 
 <!-- 
@@ -219,6 +217,7 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
 <!-- visual aid links-->
 [va-ex]:      /course/public-speaking/visual-aid/example-visual-aid.pptx                        "Visual Aid - Example Visual Aid"
 [va-pf]:      /course/public-speaking/visual-aid/peer-feedback/                                 "Visual Aid - Peer Feedback"
+
 <!-- Removed review slide links
 [va-fui-rev]: /course/public-speaking/visual-aid/finding-and-using-images-rev/                  "Review Slides"
 [va-itc-rev]: /course/public-speaking/visual-aid/introductions-transitions-and-conclusions-rev/ "Review Slides"

@@ -3,8 +3,8 @@ title: Debate Assignment
 toc: true
 type: docs
 date: 2019-01-07
-lastmod: 2020-01-25
-draft: false
+lastmod: 2020-08-06
+draft: true
 featured: false
 menu:
   public-speaking:

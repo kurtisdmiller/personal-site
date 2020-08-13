@@ -5,8 +5,8 @@ toc: false
 type: docs
 author: Kurtis D. Miller
 date: 2020-01-11
-draft: false
-featured: true
+draft: true
+featured: false # show on home page
 summary: T/F, 9:30 - 10:45, Virginia 216
 menu:
   team-small-group:

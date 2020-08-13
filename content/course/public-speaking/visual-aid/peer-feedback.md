@@ -6,8 +6,8 @@ author: Kurtis D. Miller
 tags:
 categories: 
 draft: false
-date: "2019-09-03"
-updated: "2019-09-03"
+date: 2019-09-03
+updated: 2020-08-06
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -17,8 +17,9 @@ slides:
 
 ---
 
-Peer Feedback Tasks
--------------------
+## Peer Feedback Tasks
+
+In the Classroom:
 
 1.  Assignment Objective
 2.  Delivery
@@ -27,8 +28,7 @@ Peer Feedback Tasks
 
 ---
 
-Assignment Objective
---------------------
+## Assignment Objective
 
 * Meets goal of assignment
 * Appropriate for audience
@@ -36,8 +36,7 @@ Assignment Objective
 
 ---
 
-Delivery
---------
+## Delivery
 
 * Verbal Delivery
   * Volume, Clarity, Word Choice, etc.
@@ -46,8 +45,7 @@ Delivery
 
 ---
 
-Organization
-------------
+## Organization
 
 * All parts of introduction present and effective
 * Directional transitions clear, present and effective
@@ -55,8 +53,7 @@ Organization
 
 ---
 
-Research & Evidence
--------------------
+## Research & Evidence
 
 * Citations
 * Visual Evidence
@@ -65,10 +62,10 @@ Research & Evidence
 
 ---
 
-Good Feedback is...
--------------------
+## Good Feedback is...
 
 * Specific
 * Objective
 * Actionable
 * Paired
+* Professional

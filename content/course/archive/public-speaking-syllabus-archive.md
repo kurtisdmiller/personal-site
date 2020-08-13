@@ -20,6 +20,8 @@ weight: 1
 
 ## Tusculum University
 
+* 2020 Fall, [SPCH 101-100](/course/archive/public-speaking/2020F-spch-101-100.pdf)
+* 2020 Fall, [SPCH 101-102](/course/archive/public-speaking/2020F-spch-101-102.pdf)
 * 2020 Spring, [SPCH 101-100](/course/archive/public-speaking/2020S-spch-101-100.pdf)
 * 2020 Spring, [SPCH 101-101](/course/archive/public-speaking/2020S-spch-101-101.pdf)
 * 2020 Spring, [SPCH 101-103](/course/archive/public-speaking/2020S-spch-101-103.pdf)

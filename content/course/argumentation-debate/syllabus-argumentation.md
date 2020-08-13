@@ -5,8 +5,8 @@ toc: true
 type: docs
 author: Kurtis D. Miller
 date: 2020-01-10
-draft: false
-featured: true
+draft: true
+featured: false # change this to show on home page
 summary: M/Th, 3:30 - 4:45, Virginia 216
 menu:
   argumentation-debate:

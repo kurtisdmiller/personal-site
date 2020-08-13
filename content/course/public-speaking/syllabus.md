@@ -4,9 +4,9 @@ linktitle: Syllabus
 toc: true
 type: docs
 author: Kurtis D. Miller
-date: "2020-01-13"
+date: 2020-08-05
 draft: false
-featured: false
+featured: false # show link on home page
 menu:
   public-speaking:
     parent: Public Speaking
@@ -17,25 +17,53 @@ weight: 1
 
 ---
 
-| Instructor                                            | Office                      |
-|:------------------------------------------------------|:----------------------------|
-| Kurtis D. Miller, PhD.                                | Library 126                 |
-| [kurtisdmiller.com](https://kurtisdmiller.com)        | 2:00 pm – 3:15 pm, Mon/Thu  |
-| [kdmiller@tusculum.edu](mailto:kdmiller@tusculum.edu) | 10:00 am – Noon, Wed        |
-| 423-636-7300 Ext. 5783                                | also by appointment         |
-
 > **Course Description:**
 > Speaking clearly and comfortably in public is an essential skill set.
 > This course prepares students for a variety of professional situations in which formal presentations are expected.
 > Topics will include cultural conventions of speech, verbal and nonverbal messaging, and techniques of oral presentation and persuasion.
 > Students will learn to research, outline, and deliver a variety of speeches (e.g. demonstrative, informative, persuasive, special occasion, etc.) of varying lengths.
 
+<!-- TODO: bring back this block as appropriate after the pandemic
 *The syllabus for this course is subject to change at any time.*
 *This includes, but is not limited to, such elements as required assignments, grading requirements/scales and the course calendar.*
-*Updates will be communicated through the Moodle announcement system.*
+*Updates will be communicated through the Canvas announcement system.*
+-->
 
-General Education Student Learning Outcomes
--------------------------------------------
+## Instructor Information
+
+Kurtis D. Miller, PhD.
+
+* Office: Garland Library, Room 126
+* Office Phone: 423-636-7300 Ext. 5783
+* Email: [kdmiller@tusculum.edu](mailto:kdmiller@tusculum.edu)
+* Online: [kurtisdmiller.com](https://kurtisdmiller.com)
+
+Email is the primary and preferred method of communication for most student issues.
+I do not accept assignments by email.
+I typically check email once daily during business hours Monday to Thursday.
+Additional information is available below in my [email policy](#email-policy)
+
+Virtual Office Hours via Zoom at [https://tusculum.zoom.us/j/95312191625](https://tusculum.zoom.us/j/95312191625).
+Contact me by email to set up appointments outside of drop-in hours.
+
+| Drop-in           |  By Appointment     |
+| ----------------- | ------------------- |
+| M, 2:30 - 4:30 pm | M, 10:00 - 11:00 am |
+|                   | W, 10:00 - 11:00 am |
+|                   | W, 2:30 - 3:30 pm   |
+
+<!-- TODO: remove this paragraph after the pandemic -->
+COVID-19 Statement: This course format is subject to change with little notice should conditions related to COVID-19 differ from those in place at the beginning of the semester.
+This includes, but is not limited to, such elements as required assignments, grading requirements/scales and the course calendar.
+Updates specific to this course will be communicated through the Canvas announcement system.
+
+## Required Texts and Materials
+
+The textbook for this course is "A Speaker's Guidebook" (O'Hair, Stewart, & Rubenstein).
+6th edition or newer is needed.
+In addition to the textbook and standard classroom supplies, you will need a flash drive, white 3x5 index cards, access to a video recording device (such as a phone), and a YouTube account.
+
+## General Education Student Learning Outcomes
 
 This course is a part of the General Education Program. The following
 learning outcomes will be assessed:
@@ -47,167 +75,130 @@ learning outcomes will be assessed:
 3. Public Speaking: Students will evaluate personal communication strengths and weaknesses.
    The **Assessment Worksheet** provided in the final weeks of the class will be used to measure this learning outcome.
 
-Other Learning Outcomes
------------------------
+## Other Learning Outcomes
 
-<!--Course SLOs-->
+<!-- Course SLOs -->
 1. Students will employ presentation aids which clearly and accurately enhance their presentations.
    The **Graded PowerPoint** for the [Persuasive Presentation][Persuasive] will be used to measure this learning outcome.
 2. Students will complete a presentation delivered through communication technology.
    The [Mediated Presentation][Mediated] will be used to measure this learning outcome.
 
-Required Texts and Materials
-----------------------------
+# Course Assignments and Grade Determination
 
-The textbook for this course is "A Speaker's Guidebook" (O'Hair, Stewart, & Rubenstein).
-5th edition or newer is needed. Copies of this textbook are available on course reserve in the Library or from the Tutoring Center.
-In addition to the textbook and standard classroom supplies, you will need a flash drive, white 3x5 index cards, access to a video recording device (such as a phone), and a YouTube account.
+| Prepared Presentations (60%) | Content Knowledge (25%) | Participation/Professionalism (15%) |
+| ---------------------------- | ----------------------- | ----------------------------------- |
+| 30% Best Presentation        | 10% Quizzes             | 4% Phase 1                          |
+| 20% Middle Presentation      | 15% Final Exam          | 4% Phase 2                          |
+| 10% Worst Presentation       |                         | 4% Phase 3                          |
+|                              |                         | 3% Phase 4                          |
 
-Attendance and Participation
-----------------------------
+## Prepared Presentations
 
-Attendance will be taken regularly.
-Attendance records will be kept and reported to the extent required by law and university policy.
-Participating regularly in class is assessed as a portion of your [Professionalism][] grade.
+Prepared presentations contribute a total of 60% of your final grade.
+You will have the opportunity to give three prepared presentations: a [Support Presentation][Support], a [Mediated Presentation][Mediated], and a [Persuasive Presentation][Persuasive].
+The presentation grades will be weighted according to how well you do on each of them.
+Your highest scoring presentation is worth 30% of your final grade, the middle presentation is worth 20% of your final grade, and the lowest presentation is worth 10% of your final grade.
+Nearly half (40%) of the score on each of the prepared presentation comes from the preparation work (outline, visual aid, etc.), the rest (60%) comes from the presentation itself.
+Video and live Zoom presentations are possible during class.
+A limited number of presentations may be completed using [video submission][], however **at least one presentation must be completed live for you to pass this class.**
 
-Late Work Policy
-----------------
+## Participation and Professionalism
 
-Late work may be turned in up to 1 calendar day after the deadline.
-Late work will lose 10% of the available points.
-Late preparation materials for prepared presentations may be turned in more than 1 calendar day after the deadline, but will earn zero points.
-Prepared presentations may not be delivered if reasonably complete preparation materials have not been turned in at least 24 hours prior to the scheduled presentation time.
-Late or missing work will also result in penalties to your [Professionalism][] grade.
-Class time will not be provided for late presentations.
-Presentations may be turned in late by following the instructions for [video submission][] available on the class page.
-Using technology is a basic expectation of students at this level of study -- issues with technology are not an excuse for late or missing work.
-If you need assistance with technology, contact [Information Services][].
-
-[Information Services]:     http://www3.tusculum.edu/is/
-
-### Alternate Deadlines
-
-In some rare cases an emergency may require you to miss class and turn in work after the assigned due date.
-These situations are handled on a case-by-case basis and, depending on the situation and documentation, this work may be assigned an alternate deadline.
-Coursework assigned an alternate deadline is graded for full credit, but will not receive feedback.
-
-Alternate deadlines will not be assigned for absences that can be planned for -- this includes school-sponsored events, such as athletics.
-Presentations may always be turned in early using [video submission][].
-Follow the [video submission][] link for more information.
-
-## Classroom Behavior
-
-We are a community of learners, and your classmates are entitled to the standard professional courtesies.
-Show respect for every person in the classroom.
-Complete your assigned work on time.
-Be ready for classroom discussion and activities.
-Ask questions.
-Be supportive audience members.
-Any member of an activity group should be prepared to present the work of the entire group.
-Each student is required to conduct themselves in an appropriate manner at all times.
-Racist, sexist, or other offensive or discriminatory language will not be tolerated.
-Keep all devices (phones, tablets, laptops, headphones, etc.) out of sight, unless their use is required for a classroom activity.
-Unprofessional behavior in the classroom will result in penalties to your [Professionalism][] grade.
-
-Assignments and Grading
-=======================
-
-Your final grade will be determined by the total points received out of 1,000 points possible.
-Your points will accumulate through the semester.
-The largest portion of your final grade comes from **Prepared Presentations**.
-The other areas you will be graded in include **Content Knowledge**, **Short Notice Presentations**, **Peer Evaluations** and **Professionalism**.
-**Extra credit** is available for this class.
-
-Grading Scale
--------------
-
-The grading scale for the class is below.
-When determining final grades I will round up decimals to the next full point.
-I will not round up multiple points.
-There are many extra credit opportunities; see above for more information.
-
-|  Total Points | Grade | Quality Points[^tu-academic-policies] |
-|--------------:|:------|:------------------------------------|
-|          930+ | A     | 4.0 per semester hour  <!-- 93% --> |
-|          900+ | A-    | 3.7 per semester hour  <!-- 90% --> |
-|          880+ | B+    | 3.5 per semester hour  <!-- 88% --> |
-|          830+ | B     | 3.0 per semester hour  <!-- 83% --> |
-|          800+ | B-    | 2.7 per semester hour  <!-- 80% --> |
-|          780+ | C+    | 2.5 per semester hour  <!-- 78% --> |
-|          730+ | C     | 2.0 per semester hour  <!-- 73% --> |
-|          700+ | C-    | 1.7 per semester hour  <!-- 70% --> |
-|          680+ | D+    | 1.5 per semester hour  <!-- 68% --> |
-|          630+ | D     | 1.0 per semester hour  <!-- 63% --> |
-| less than 630 | F     | 0.0 per semester hour  <!-- 00% --> |
-
-[^tu-academic-policies]: Tusculum University. (n.d.). *Academic Policies.* Retrieved from: http://web.tusculum.edu/academics/academic-policies/
-
-Prepared Presentations
-----------------------
-
-Prepared presentations contribute 500 points to your final grade.
-You will have the opportunity to give three prepared presentations: a [Mediated Presentation][Mediated], a [Support Presentation][Support], and a [Persuasive Presentation][Persuasive].
-Each of these presentations is worth 250 points total (100 from preparation and 150 from execution).
-The lowest of these three presentation grades will be dropped.
-
-We will begin the semester with a [Practice Presentation][Practice].
-This presentation is designed to familiarize you with the technology and submission process for the class.
-Completing all portions of this presentation contributes 25 points to your final grade.
-
-Content Knowledge
------------------
-
-Demonstrating content knowledge contributes 200 points to your final grade.
-Your understanding of the course material will be assessed through multiple choice quizzes in class and a final exam.
-The lowest two quiz scores will be dropped and the average of your remaining quiz scores will contribute 100 points to your final grade.
-The final exam will draw heavily from the quizzes given in class and will contribute 100 points to your final grade.
-
-Short Notice Presentations
---------------------------
-
-Short notice presentations contribute 75 points to your final grade.
-Near the end of the semester there will be a series of [Debate][] presentations.
-You may repeat the Debate presentation as many times as you would like, provided no other student with fewer attempts also wants to go.
-The highest score from these attempts will count toward your final grade.
-
-Peer Evaluations
-----------------
-
-A random selection of the [Peer Evaluations][] you provide to other students when they present will be graded.
-The average score on peer evaluations will contribute 100 points to your final grade.
-
-Professionalism
----------------
-
+Participation and Professionalism contributes 15% of your final grade.
 Displaying basic [Professionalism][] is an expectation in this class and one of the most useful skills to have when you graduate.
-You will receive an overall professionalism grade at three points during the semester.
-Your average of all three grades contributes 100 points to your final grade.[^Keaton-2015-Professionalism]
+Class activities are designed to help you understand the class content and to help you develop your prepared presentations.
+These class activities include example activities, drafts, and the [Peer Evaluations][] your write about your peer's presentations.
+All participation and professionalism activities can be fully completed without in-person attendance. <!-- TODO: Pandemic-specific -->
+Your participation and professionalism will be evaluated at the end of each phase of the class.[^Keaton-2015-Professionalism]
+
+Students must self-certify their health every day using the Healthy Together App or the paper form. <!-- TODO: Pandemic-specific -->
+Any student who must miss class due to COVID, whether based on a positive test or a required quarantine due to exposure or symptoms, should notify Student Affairs and the instructor as soon as possible. <!-- TODO: Pandemic-specific -->
+Attendance will be recorded in this class.
+Attendance records will be maintained and reported to the extent required by law and university policy.
+Students are *not* graded based on their attendance.
+<!-- TODO: coming to class is the easiest method of studying the course material.-->
+Students who require an alternate deadline for any work, including class activities, should see the section on [Alternate Deadlines](#alternate-deadlines)
 
 [^Keaton-2015-Professionalism]: Keaton, A. F. (2015). Teaching students the importance of professionalism. *Teaching Professor, 29*(6). https://www.magnapubs.com/newsletter/the-teaching-professor/114/Teaching-Students-the-Importance-of-Professionalism-13541-1.html
 
-Extra Credit
-------------
+## Content Knowledge
 
-Students can earn up to a maximum of 55 points in extra credit toward their final grade.
-Students will earn 10 points of extra credit by completing the Syllabus Check assignment on Moodle.
-Students may also earn up to 45 points of extra credit by participating in debate team practice sessions, 15 points for each session.
+Demonstrating content knowledge contributes a total of 25% of your final grade.
+Your understanding of the course material will be assessed through multiple choice quizzes and a final exam.
+The lowest two quiz scores will be dropped, and the average of your remaining quiz scores will contribute 10% of your final grade.
+The final exam will draw heavily from the quizzes given in class and will contribute 15% of your final grade.
+
+## Final Exam Policy
+
+A final exam is a required part of this course.
+For Fall 2020, final exams will be administered online only during Final Exam Week and may not be taken early for any reason. <!-- TODO: remove this line and re-add the next after the pandemic -->
+<!-- Final exams are administered only during three days of Final Exam Week in accordance with the established schedule. -->
+Consult the syllabus and the Tusculum website to determine when your exams will take place and do not make travel, family, or any other plans that conflict with any of your final exams.
+If you see that there will be an unavoidable conflict, drop this course before the Add/Drop period concludes and sign up for a different section or course.
+
+## Extra Credit
+
+Students can earn up to a maximum of a 4.5% bonus on their final grade.
+A [Speech Critique][] is the primary way of earning extra credit, and is worth up to 4.5%.
+Only one Speech Critique may be submitted.
 Additional extra credit opportunities may also be announced as they become available.
-Extra Credit may not be turned in after the last class meeting.
+Any additional opportunities will not raise the cap of 4.5%.
+Extra credit may not be turned in after the last regular class meeting.
 
-Email Policy
-------------
+## Grading Scale
+
+The total score recorded in the grade book shows what your grade would be if you did nothing else in the class.
+A projected final grade will be posted in Canvas at the end of each phase of the class based on your scores on assignments up to that point.
+Final grades are allocated according to the table below.
+I round up any hundredths to the next tenth of a percentage point (examples: 92.39% would round to 92.4% and remain an A-, but 87.43% would round to 87.5% and become a B+).
+
+|  Total Points | Grade |
+|--------------:|:------|
+|     92.5-100% | A     | <!-- 4.0 per semester hour  (93%)  -->
+|    89.5-92.4% | A-    | <!-- 3.7 per semester hour  (90%)  -->
+|    87.5-89.4% | B+    | <!-- 3.5 per semester hour  (88%)  -->
+|    82.5-87.4% | B     | <!-- 3.0 per semester hour  (83%)  -->
+|    79.5-82.4% | B-    | <!-- 2.7 per semester hour  (80%)  -->
+|    76.5-79.4% | C+    | <!-- 2.5 per semester hour  (78%)  -->
+|    72.5-77.4% | C     | <!-- 2.0 per semester hour  (73%)  -->
+|    69.5-72.4% | C-    | <!-- 1.7 per semester hour  (70%)  -->
+|    67.5-69.4% | D+    | <!-- 1.5 per semester hour  (68%)  -->
+|    62.5-67.4% | D     | <!-- 1.0 per semester hour  (63%)  -->
+| less than 62.5% | F     | <!-- 0.0 per semester hour  (00%)  -->
+
+
+# Course Policies
+
+Please review the [Tusculum University Policies and Support Systems](https://web.tusculum.edu/academics/syllabus-related-policies/).
+These support systems and policies apply to all courses at Tusculum University.
+
+## Appropriate Behavior Policy
+
+We are a community of learners, and your classmates are entitled to the standard professional courtesies.
+Each student is required to conduct themselves in an appropriate manner at all times.
+Show respect for every person in the class.
+Complete your assigned work on time.
+Be ready for discussion and activities.
+Ask questions.
+Be supportive audience members.
+Racist, sexist, or other offensive or discriminatory language will not be tolerated.
+Keep all devices (phones, tablets, laptops, headphones, etc.) out of sight, unless their use is required for a classroom activity.
+Unprofessional behavior in and out of the class, including online, will result in penalties to your [Professionalism][] grade.
+Any member of an activity group should be prepared to present the work of the entire group.
+
+## Email Policy
 
 Email is the primary and preferred method of communication for most student issues.
-I check and respond to my email once daily, except weekends and holidays.
-
-The privacy of student educational records is protected by the Family Educational Rights and Privacy Act (FERPA).
-I will not respond to any communication about a student which does not come from an official school email address.
 I do not accept assignments by email.
-Brief emails asking questions which are already answered in course documents (syllabus, calendar, assignment descriptions, etc.) may not receive a reply.
+I check and respond to my email once daily during business hours, however I dedicate my Fridays to research and larger projects.
+I typically do not see emails sent late on Thursday or during the day Friday until Monday the next week.
 
 Engaging in professional communication with your professors and the university staff is important.
+I am unlikely to respond to emails that do not contain any questions.
+Brief emails asking questions which are already answered in course documents (syllabus, calendar, assignment descriptions, etc.) will typically receive brief replies referring to course documents.
 Some students benefit from the below email template, which comes from a post I wrote to help students with [writing professional emails][].
-Whether you are in my class or any other class at the university, this template should work well. Just replace the information in brackets as needed:
+Whether you are in my class or any other class at the university, this template should work well.
+Just replace the information in brackets as needed:
 
 [writing professional emails]: /post/writing-professional-emails/
 
@@ -229,105 +220,48 @@ Whether you are in my class or any other class at the university, this template 
 >
 > [Your First and Last Name]
 
-Final Exam Policy
------------------
-
-A final exam is a required part of this course.
-Final exams are administered only during three days of Final Exam Week in accordance with the established schedule.
-Consult the syllabus and the Tusculum website to determine when your exams will take place and do not make travel, family, or any other plans that conflict with any of your final exams.
-If you see that there will be an unavoidable conflict, drop this course before the Add/Drop period concludes and sign up for a different section.
-
-Grade Disputes
---------------
+## Grade Dispute Policy
 
 If you believe that you have been graded unfairly, wait 24 hours after receiving the grade, review the rubric, and schedule a meeting to discuss it with me.
-I will not discuss your grades publicly.
-Come to this meeting prepared to provide evidence supporting the need for a grade change.
-Grades are considered final one week after they are posted in Moodle.
+Come to this meeting prepared to provide *evidence* supporting the need for a grade change.
+Grades are considered final one week after they are posted in Canvas.
+The privacy of student educational records is protected by the Family Educational Rights and Privacy Act (FERPA).
+I will not respond to any communication about a student which does not come from an official school email address, and I will not discuss your grades publicly.
 
-University Policies
-===================
+## Late Work Policy
 
-The following policies apply to *all* courses at Tusculum University.
+Late work may be turned in up to 1 calendar day after the deadline.
+No late work is accepted after the last class meeting.
+Late work will lose 10% of the available points.
+Late preparation materials for prepared presentations may be turned in more than 1 calendar day after the deadline, but will earn zero points.
+**Prepared presentations may not be delivered if reasonably complete preparation materials have not been turned in at least 24 hours prior to the scheduled presentation time.**
+Class time will not be provided for late presentations.
+Presentations may be turned in late by following the instructions for [video submission][] available on the class page.
+Using technology is a basic expectation of students at this level of study -- issues with technology are not an excuse for late or missing work.
+If you need assistance with technology, contact [Information Services][].
 
-Minimum Grade for a Course to Count Toward a Major or Minor
------------------------------------------------------------
+[Information Services]:     http://www3.tusculum.edu/is/
 
-Grades below C- earned in the student’s major and minor will satisfy the course prerequisites requirement; however, grades below C- cannot be counted in the total number of hours required in the major and minor.
+### Alternate Deadlines
 
-Tusculum Communication Policy
------------------------------
+In some cases an emergency may require you to miss class and turn in work after the assigned due date.
+These situations are handled on a case-by-case basis and, depending on the situation and documentation, this work may be assigned an alternate deadline.
+Coursework assigned an alternate deadline is graded for full credit, but will not receive feedback.
 
-All students are responsible for checking their personal Tusculum University email account each day, as it is the university’s only official communication tool.
+Alternate deadlines will not be assigned for absences that can be planned for -- this includes school-sponsored events, such as athletics.
+Presentations may always be turned in early using [video submission][].
+Follow the [video submission][] link for more information.
 
-Plagiarism and Academic Dishonesty Policy
------------------------------------------
+<!--
+# Assignment Links -->
 
-Cheating and plagiarism are violations of Ethics of Social Responsibility -- one of the outcomes that has been identified as essential to the Civic Arts.
-Plagiarism is a form of academic dishonesty.
-It consists of knowingly presenting in writing or in speech the intellectual or creative work of others as if it were one’s own.
-This includes:
-
-1. Failing to identify direct or word-for-word quotations by use of appropriate symbols and reference to the source.
-2. Restating in your own words the work (ideas, conclusions, words) of another without reference to the source.
-3. Presenting as your own the creative work (for instance, music or photographs) of another without proper acknowledgment. Besides plagiarism, other forms of academic dishonesty include the following:
-4. Submitting the same work in two or more courses without significant modifications or expansion and without the approval of the instructors involved.
-5. Submitting purchased, borrowed, copied or specially commissioned work as if it were one’s own.
-6. Knowingly permitting others to submit your work under their names.
-7. Copying the work of others during an examination or other academic exercise.
-8. Knowingly allowing others to copy your work during an examination or other academic exercise.
-9. Using “cheat sheets” or any other unauthorized form of assistance during an exam, quiz or other academic exercise.
-10. Manipulating or fabricating data to support erroneous conclusions.
-
-Academic Accommodations and Students with Disabilities
-------------------------------------------------------
-
-Tusculum University makes available to qualified students with disabilities those reasonable accommodations or services as are necessary to provide such students with unrestricted access to the learning environment and the opportunity to demonstrate academic achievement. 
-In order to procure services or classroom accommodations, the qualified student is responsible for self-identifying and directing all requests or accommodations or services to the Academic Resource Center counselors. 
-Contact information:  Counseling and ADA Services, 423-636-7300, ext. 5402; [counselingandadaservices@tusculum.edu](mailto:counselingandadaservices@tusculum.edu); Room 233, Garland Library.
- 
-Tutoring
---------
-
-Free tutoring services are provided by Tusculum University.
-The campus Tutoring Center is located in the Garland Library on the Greeneville campus. 
-Tutoring is available in English and Mathematics, including Statistics, in the Tutoring Center, Rooms 317-318, 9:00 AM – 5:00 PM, Monday through Friday.
-For all other subjects, sign in at the Garland Library Circulation Desk (Main Floor/2nd floor),7:00 PM – 9 PM, Sunday through Thursday. 
-Tutoring is available during the stated hours on a walk-in basis, and you can also schedule an appointment by emailing [tutoring@tusculum.edu](mailto:tutoring@tusculum.edu). 
-In some circumstances, written approval to meet in other public locations can be obtained from the Tutor Coordinator. 
-Please note that the faculty reserves the right to require students to attend tutoring sessions.
- 
-Title IX
---------
-
-Tusculum University is committed to providing a safe learning environment that is free of all forms of sex and gender-based discrimination and harassment, including sexual assault, intimate partner violence, and stalking. 
-If you or someone you know has experienced any form of sexual misconduct, you are strongly encouraged (but not required) to contact the Title IX Co-Coordinators at (423) 636-7318 or email either of them: [jgresham@tusculum.edu](mailto:jgresham@tusculum.edu) or [mcooney@tusculum.edu](mailto:mcooney@tusculum.edu)).
-Please note that all Tusculum University faculty members are considered “responsible employees,” meaning any situation involving sex or gender-based discrimination shared with faculty must be reported to the Title IX Co-Coordinators.
-If you wish to speak with someone confidentially, contact Dr.  Michell Temple (Garland Library 233; tel.  423-636-7402; [counselingandadaservices@tusculum.edu](mailto:counselingandadaservices@tusculum.edu)). 
-For more information regarding Title IX reporting options and links to available resources, please visit [https://web.tusculum.edu/titleix/](https://web.tusculum.edu/titleix/).
-
-Inclement Weather Policy
-------------------------
-
-When Tusculum University classes are cancelled due to inclement weather, students will receive direction on how to complete scheduled and assigned activities on the Moodle site. 
-In the case of inclement weather and the University is not closed, students and faculty are to exercise good judgment concerning personal safety related to traveling. 
-If the University does not close and students miss class, they are responsible for contacting the course instructor prior to the class.
-Tusculum University will post information regarding closings or changes in the schedule on the home page of the university website, as well as to the Tusculum Facebook page and the Twitter feed.
-All students are encouraged to sign up for the Pioneer Alert system by following the instructions at [http://www3.tusculum.edu/pr/inclement-weather-policy/](http://www3.tusculum.edu/pr/inclement-weather-policy/).
-
-Student Veterans
-----------------
-
-For information on support provided by Tusculum to veterans, contact Dale Laney, Director of Veteran Services, 121 Garland Library, tel. 423-636-7371, or [dlaney@tusculum.edu](mailto:dlaney@tusculum.edu). 
-
-<!-- Assignment Links -->
-
-[Mediated]:          /course/public-speaking/assignment/mediated-assignment/               "Assignment description"
-[Debate]:            /course/public-speaking/assignment/debate-assignment/                 "Assignment description"
+<!-- [Debate]:            /course/public-speaking/assignment/debate-assignment/                 "Assignment description" -->
 [Graded PowerPoint]: /course/public-speaking/assignment/graded-powerpoint-assignment/      "Assignment description"
+[Mediated]:          /course/public-speaking/assignment/mediated-assignment/               "Assignment description"
 [Peer Evaluations]:  /course/public-speaking/assignment/peer-evaluations/                  "Assignment description"
 [Persuasive]:        /course/public-speaking/assignment/persuasive-assignment/             "Assignment description"
 [Practice]:          /course/public-speaking/assignment/practice-presentation/             "Assignment description"
 [Professionalism]:   /course/public-speaking/assignment/professionalism-grade/             "Assignment description"
-[Video Submission]:  /course/public-speaking/assignment/submitting-presentations-by-video/ "Assignment description"
+[Speech Critique]:   /course/public-speaking/assignment/speech-critique/                   "Assignment description"
 [Support]:           /course/public-speaking/assignment/support-assignment/                "Assignment description"
+[Video Submission]:  /course/public-speaking/assignment/submitting-presentations-by-video/ "Assignment description"
