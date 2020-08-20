@@ -77,4 +77,4 @@ Kurtis is an Assistant Professor of Communication at Tusculum University in the 
 His research focuses on communication in educational and political contexts.
 He serves as the Communication Program Director, Faculty Parliamentarian, and as Coach of the Andrew Johnson Debate Team.
 
-In his free time, Kurtis enjoys bluegrass, chess, and spending time with his family.
+In his free time, Kurtis enjoys chess, racquet sports, American & world folk music, and spending time with his family.
