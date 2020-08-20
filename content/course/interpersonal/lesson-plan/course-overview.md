@@ -2,7 +2,8 @@
 title: Course Overview
 toc: true
 type: docs
-date: "2019-08-07"
+date: 2019-08-07
+updated: 2020-08-17
 draft: false
 featured: false
 # menu:
@@ -17,7 +18,6 @@ weight: 30
 
 **Course(s) Used:**
 
-* Public Speaking
 * Interpersonal Communication
 
 **Goals and Objectives:**
@@ -51,7 +51,7 @@ Outline of the Lesson
 3.  Textbook
 4.  Course Structure
 5.  Attendance
-6.  Moodle
+6.  Learning Management System
 7.  Website
 8.  Grading
 9.  How to Succeed
@@ -86,6 +86,7 @@ Follow guidance from local accommodation authorities.
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v0.01 | 2020-08-17 | Moodle is dead
   v0.00 | 2019-08-07 | Initial Version
 
 -->

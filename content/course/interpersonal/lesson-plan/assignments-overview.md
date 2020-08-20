@@ -2,7 +2,8 @@
 title: Assignments Overview
 toc: true
 type: docs
-date: "2019-08-07"
+date: 2019-08-07
+updated: 2020-08-16
 draft: false
 featured: false
 # menu:
@@ -24,8 +25,13 @@ weight: 30
 * Students are familiar with the Fishbowl Discussion assignment.
 * Students are familiar with the Literature Review assignment
 
-**Rationale:** This lesson ensures that students are familiar with the two
-major assignments in the course.
+**Rationale:** This lesson ensures that students are familiar with the two major assignments in the course.
+
+**Formative Assessment:**
+
+* Download the activity document from the Learning Management System
+* Answer the questions in the document about these two assignments
+* Upload the document to the Activity Dropbox for this week
 
 Materials Needed
 ================
@@ -44,13 +50,21 @@ Outline of the Lesson
 
 1. Review of previous session's content
 2. Overview of Fishbowl Discussion assignment
-   1. Annotating articles
-   2. Discussion portion of assignment
-   3. Class questions
+   1. Purpose of this assignment:
+      1. Familiarization with reading scientific research
+      2. Supports Literature Review assignment
+   2. Components
+      1. One page article summaries
+      2. Discussion portion of assignment
+      3. Class questions
 3. Overview of Literature Review assignment
-   1. Paper portion of assignment
-   2. Presentation portion of assignment
-   3. Class questions
+   1. Purpose of this assignment:
+      1. A foundational paper for majors, who will conduct a replication study as their final project
+      2. Expose students to the process of scientific research
+   2. Components
+      1. Paper portion of assignment
+      2. Presentation portion of assignment
+      3. Class questions
 4. How to use these two assignments together
 5. Hands on group work
    1. Example Fishbowl Discussion in class
@@ -59,8 +73,8 @@ Outline of the Lesson
 Limitations
 ===========
 
-This lesson requires student participation and buy-in. Finding a topic for
-the practice discussion on the same day is a challenge.
+This lesson requires student participation and buy-in.
+Finding a topic for the practice discussion on the same day is a challenge.
 
 <!--
 Debrief
@@ -78,6 +92,7 @@ Follow guidance from local accommodation authorities.
 
    v#   | Date       | Modifications
   ------|:-----------|:-------------
+  v0.01 | 2020-08-16 | Pandemic activity changes
   v0.00 | 2019-08-22 | Initial Version
 
 -->

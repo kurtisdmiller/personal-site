@@ -51,7 +51,7 @@ Outline of the Lesson
 3.  Textbook
 4.  Course Structure
 5.  Attendance
-6.  Moodle
+6.  Learning Management System
 7.  Website
 8.  Grading
 9.  How to Succeed

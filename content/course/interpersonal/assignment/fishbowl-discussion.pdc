@@ -1,0 +1,108 @@
+---
+title: Fishbowl Discussion
+toc: true
+type: docs
+date: 2019-08-07
+lastmod: 2020-08-19
+draft: false
+featured: false
+menu:
+  interpersonal:
+    parent: Assignments
+    weight: 10
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 10
+
+---
+
+**Overview:** Students will choose one Communication Theory mentioned in their chosen chapter, read two original articles which use this theory, and engage in discussion as part of a small group on this subject in front of the class.
+
+**Purpose:** Students are familiarized with Communication as a Social Science and the process of knowledge generation behind the theories presented in their textbook.
+
+<!--
+Target Length:**
+-->
+
+**Due:** According to the date you signed up for.
+
+# Detailed Description
+
+## Objective
+
+Select a chapter from the textbook and choose one Interpersonal Communication theory presented in that chapter.
+Select two original research articles from the Communication literature which use that theory.
+You may choose to use articles that are referenced in your textbook.
+Prepare a complete one page article summary sheet for each article.
+Participate in a discussion with the panel about the topic of the class meeting.
+Discuss how what you read connects with what other people have read and what we can learn from these to apply to our daily lives.
+
+## Limitations
+
+-   Both articles you choose must have a "Results" section.
+
+## Format
+
+The format should be a discussion, not a series of presentations.
+Students doing the fishbowl discussion are encouraged to comment on and ask questions about what other students say.
+Questions from the audience are encouraged, but generally should not start until all of the presenters have had a chance to contribute to the overall discussion.
+
+# Grading
+
+This project is graded out of 20 points.
+
+## Fishbowl Discussion Rubric
+
+------------------------   --------------------------   --------------------------   --------------------------   --------------------------
+                           4 points                     3 points                     2 points                     0 points
+------------------------   --------------------------   --------------------------   --------------------------   --------------------------
+Contributions              Makes many substantive       Makes at least 3             Makes at least 1             No contributions are made.
+                           contributions.               substantive conributions.    substantive contribution.
+                           Contributions clearly        Connections to discussion    Speaker may not be able to
+                           connected to discussion.     may be tangential.           connect to discussion.
+
+
+Reasoning and Evidence     Uses strong evidence from    Uses evidence to support     Uses minimal evidence or     No evidence is presented.
+                           text, with accurate          some points, most with       evidence is not cited.
+                           citation.                    citation.
+
+Participation              Encourages other             Avoids disrupting others.    Disrupts other               Does not participate.
+                           participants. Does not       Generally does not           participants by
+                           interrupt or monopolize      interrupt or monopolize      interrupting frequently or
+                           discussion.                  discussion.                  or monopolizing
+                                                                                     discussion.
+
+Delivery                   Speaks clearly,              Occasionally difficult to    Difficult to hear and/or     Does not speak.
+                           concisely, understandably,   hear or understand.          understand, and/or
+                           and appropriately.                                        significantly
+                                                                                     inappropriate.
+
+Preparation                One page article summary     One page article summary     One page article summary     One page article summary
+                           sheet is complete and        sheet is complete. Minor     sheet is incomplete.         sheet missing nearly all
+                           thoughtful. Reference uses   errors in APA style for      Reference entry is           information.
+                           APA style correctly.         reference entry.             missing most information.
+------------------------   --------------------------   --------------------------   --------------------------   --------------------------
+
+# Examples
+
+[Example one page article summary][]
+
+[Example one page article summary]: /course/interpersonal/assignment/example-summary-sheet.docx   "Example One Page Article Summary"
+<!--
+# Acknowledgments
+-->
+<!--
+# References and End Notes
+
+[^student-permission]: Many thanks to the students who have given me permission to use examples based on their work. Student consent forms are on file.
+-->
+<!-- Previous Versions:
+
+   v#   | Date       | Modifications
+  ------|------------|:--------------
+  v1.01 | 2020-08-19 | Revised rubric language and document structure, using a "one page article summary" as a lead-in to annotated bibliographies
+  v1.00 | 2019-08-08 | Changes for Hugo compatibility, no longer contract based
+  v0.01 | 2018-03-20 | Refined Grading Scale
+  v0.00 | 2018-03-05 | Initial Version
+
+-->

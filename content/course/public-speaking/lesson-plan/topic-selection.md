@@ -2,7 +2,8 @@
 title: Topic Selection
 toc: true
 type: docs
-date: "2019-08-07"
+date: 2019-08-07
+update: 2020-08-16
 draft: false
 featured: false
 # menu:
@@ -31,6 +32,12 @@ only influence some of these factors. It is important to be able to
 analyze the factors you cannot influence so you can choose the best fit
 for the aspects you can influence.
 
+**Formative Assessment:**
+
+* Download the activity document from the Learning Management System
+* Brainstorm at least 25 topics for your upcoming prepared presentation
+* Upload the document to the Activity Dropbox for this week
+
 Materials Needed
 ================
 
@@ -57,7 +64,7 @@ Outline of the Lesson
         1.  Age[^both-average-and-range]
         2.  Gender
         3.  Race
-        4.  Socio-economic status
+        4.  Socioeconomic status
         5.  Education
     2.  Psychological characteristics
         1.  Attitudes
@@ -87,10 +94,10 @@ Outline of the Lesson
         3.  Consider personal experiences and interests
         4.  Research current events
     2.  Analyze the best options
-7.  Hands-on group work
+7.  Hands-on activity
     1.  Group students into groups of 5 students
     2.  Student brainstorm a large number of potential topics for an upcoming presentation
-    3.  Students select the best topics for this class, and also for hypothetical audience-environment pairs. 
+    3.  Students select the best topics for this class, and also for hypothetical audience-environment pair
     4.  Debrief the activity
 8.  Lesson closing
 
@@ -120,6 +127,7 @@ Follow guidance from local accommodation authorities.
 
    v#   | Date       | Modifications
   ------|------------|:-----------------
+  v0.02 | 2020-08-16 | Pandemic adjustments for activities
   v0.01 | 2019-08-07 | Changes for Hugo compatibility
   v0.00 |          - | Initial Version
 

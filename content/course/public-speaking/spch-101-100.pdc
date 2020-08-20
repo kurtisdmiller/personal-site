@@ -43,7 +43,7 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
 ----   -------------   ---------------------------------------------------------------------------------------------
   Wk   Meetings        Topic
 ----   -------------   ---------------------------------------------------------------------------------------------
-  1    A: M,  8/17 \   Welcome, Communication as a Field of Study, ([Handout][ho-s]) \
+	1    A: M,  8/17 \   Welcome, [Communication as a Field of Study][lp-cfs], ([Handout][ho-s]) \
        B: W,  8/19 \   [Choosing Topics][lp-ts] \
                        [Introductions, Transitions, & Conclusions][lp-itc] \
                        <!-- drill 22&23 -->
@@ -199,6 +199,7 @@ This course will be conducted in four phases: "crawl," "walk," "run," and "fly."
 
 <!-- lesson plan links -->
 [lp-cd]:       /course/public-speaking/lesson-plan/competitive-debate/                         "Lesson Plan"
+[lp-cfs]:      /course/public-speaking/lesson-plan/communication-as-a-field-of-study/         "Lesson Plan"
 [lp-crp]:      /course/public-speaking/lesson-plan/crisis-response-presentations/              "Lesson Plan"
 [lp-fui]:      /course/public-speaking/lesson-plan/finding-and-using-images/                   "Lesson Plan"
 [lp-itc]:      /course/public-speaking/lesson-plan/introductions-transitions-and-conclusions/  "Lesson Plan"

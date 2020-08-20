@@ -2,7 +2,8 @@
 title: Introductions, Transitions, and Conclusions
 toc: true
 type: docs
-date: "2019-08-07"
+date: 2019-08-07
+updated: 2020-08-16
 draft: false
 featured: false
 # menu:
@@ -21,18 +22,19 @@ weight: 32
 
 **Goals and Objectives:**
 
-* Students can identify the essential components of an effective
-  introduction.
-* Students can identify the common types of transition and the locations
-  where they are needed.
-* Students can identify the essential components of an effective
-  conclusion.
+* Students can identify the essential components of an effective introduction.
+* Students can identify the common types of transition and the locations where they are needed.
+* Students can identify the essential components of an effective conclusion.
 
-**Rationale:** Effective introductions, transitions, and conclusions are
-essential components of every presentation. They are essential for
-establishing and maintaining audience attention throughout the
-presentation. Introductions and conclusions are the portions of
-presentations that audiences are most likely to remember.
+**Rationale:** Effective introductions, transitions, and conclusions are essential components of every presentation.
+They are essential for establishing and maintaining audience attention throughout the presentation.
+Introductions and conclusions are the portions of presentations that audiences are most likely to remember.
+
+**Formative Assessment:**
+
+* Download the activity document from the Learning Management System
+* Create a complete introduction and conclusion for your practice presentation
+* Upload the document to the Activity Dropbox for this week
 
 Materials Needed
 ================
@@ -108,6 +110,7 @@ needed.
 
    v#   | Date       | Modifications
   ------|------------|:-----------------
+  v0.03 | 2020-08-16 | Pandemic adjustments for activity
   v0.02 | 2019-08-07 | Changes for Hugo compatibility
   v0.01 |          - | added description for overview
   v0.00 |          - | Initial Version
