@@ -108,9 +108,9 @@ a well-formatted outline.
 
 <!--
 # Links
-
-[Speech Critque]: /course/public-speaking/assignment/speech-critique/
 -->
+
+[Speech Critique]: /course/public-speaking/assignment/speech-critique/
 
 <!-- Previous Versions:
 
