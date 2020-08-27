@@ -2,7 +2,8 @@
 title: Culture and Interpersonal, Day 1
 toc: true
 type: docs
-date: "2019-08-29"
+date: 2019-08-29
+lastmod: 2020-08-23
 draft: false
 featured: false
 # menu:
@@ -26,10 +27,16 @@ weight: 60
 * Students understand significant dimensions of culture used in interpersonal communication research.
 * Students identify times that they code switch in everyday interaction.
 
-**Rationale:** Culture has an enormous impact on the fields of experience that individual communicators have, and the degree to which they overlap. An understanding of cultural differences is essential to development as a communicator.
+**Rationale:** Culture has an enormous impact on the fields of experience that individual communicators have, and the degree to which they overlap.
+An understanding of cultural differences is essential to development as a communicator.
 
-Materials Needed
-================
+**Formative Assessment:**
+
+* Download the activity document from the Learning Management System
+* Complete the assessment from the textbook and respond to the questions
+* Upload the document to the learning management system
+
+# Materials Needed
 
 **Materials:**
 
@@ -39,8 +46,7 @@ Materials Needed
 
 * Classroom computer and projector
 
-Outline of the Lesson
-=====================
+# Outline of the Lesson
 
 1.  Review of previous session's content
 2.  What is a culture?
@@ -76,18 +82,15 @@ Outline of the Lesson
 [^question-of-degree]: Cultural difference is more a question of degree than a yes/no question.
 [^co-culture-examples]: Age, Race/Ethnicity, Sexual Orientation, Nationality, Region, Ability, Religion, Activity, etc.
 
-Limitations
-===========
+# Limitations
 
 Hofstede's dimensions of national culture are a limited construct, and are not a complete description of either national culture or a variety of additional co-cultures. Not all nations have a single national culture or even a significant salient national identity.
 
 <!--
-Debrief
-=======
+# Debrief
 -->
 
-Variations and Accommodations
-=============================
+# Variations and Accommodations
 
 Follow guidance from local accommodation authorities.
 
@@ -97,6 +100,7 @@ Follow guidance from local accommodation authorities.
 
    v#   | Date       | Modifications
   ------|:-----------|:-------------
+  v0.00 | 2020-08-23 | Changes for Canvas, pandemic
   v0.00 | 2019-08-29 | Initial Version
 
 -->

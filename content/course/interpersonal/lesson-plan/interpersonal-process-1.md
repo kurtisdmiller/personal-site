@@ -2,7 +2,8 @@
 title: Interpersonal Process, Day 1
 toc: true
 type: docs
-date: "2019-08-23"
+date: 2019-08-23
+lastmod: 2020-08-23
 draft: false
 featured: false
 # menu:
@@ -24,13 +25,16 @@ weight: 30
 * Students can describe the transactional model of communication.
 * Students can list characteristics that separate Interpersonal Communication from other types of communication.
 
-**Rationale:** This lesson lays the foundation for the study of
-communication as a field, the location of interpersonal communication
-within that field, and the major concepts used in modeling the process of
-communication.
+**Rationale:** This lesson lays the foundation for the study of communication as a field, the location of interpersonal communication within that field, and the major concepts used in modeling the process of communication.
 
-Materials Needed
-================
+**Formative Assessment:**
+
+* Download the activity document from the Learning Management System
+* Identify three key members of your social group
+* Rate the relationship and answer the questions
+* Upload the document to the learning management system
+
+# Materials Needed
 
 **Materials:**
 
@@ -40,8 +44,7 @@ Materials Needed
 
 * Classroom computer and projector
 
-Outline of the Lesson
-=====================
+# Outline of the Lesson
 
 1.  Review of previous session's content
 2.  A hard question: "What is Communication?"
@@ -98,19 +101,15 @@ Outline of the Lesson
 [^schramm-1954]: Schramm, W. (1954). *The process and effects of mass communication.* Urbana, IL: University of Illinois Press.
 [^shannon-1948]: Shannon, C. E. (1948) A Mathematical Theory of Communication, *The Bell System Technical Journal, 27*, 379--423, 623--646. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x
 
-Limitations
-===========
+# Limitations
 
-This lesson is likely to run over. This is a lot of content for the class
-time allotted.
+This lesson is likely to run over. This is a lot of content for the class time allotted.
 
 <!--
-Debrief
-=======
+# Debrief
 -->
 
-Variations and Accommodations
-=============================
+# Variations and Accommodations
 
 Follow guidance from local accommodation authorities.
 
@@ -120,6 +119,7 @@ Follow guidance from local accommodation authorities.
 
    v#   | Date       | Modifications
   ------|:-----------|:-------------
+  v0.01 | 2020-08-23 | Updates for Canvas, pandemic
   v0.00 | 2019-08-26 | Initial Version
 
 -->

@@ -2,7 +2,8 @@
 title: Organizing Informative Presentations
 toc: true
 type: docs
-date: "2019-08-07"
+date: 2019-08-07
+lastmod: 2020-08-21
 draft: false
 featured: false
 # menu:
@@ -21,20 +22,21 @@ weight: 50
 
 **Goals and Objectives:**
 
-* Students can identify each of the common informative organization
-  schemes.
+* Students can identify each of the common informative organization schemes.
 * Students understand common mistakes for each organization scheme.
-* Students understand how considering multiple organization schemes for
-  a topic improves presentations.
+* Students understand how considering multiple organization schemes for a topic improves presentations.
 
-**Rationale:** Using a recognizable organization pattern through all of
-the main points in a presentation makes it easier for the audience to
-follow the presentation. Considering multiple organization patterns for
-a topic often highlights different and more compelling approaches to the
-presentation, and often more effective main points.
+**Rationale:** Using a recognizable organization pattern through all of the main points in a presentation makes it easier for the audience to follow the presentation.
+Considering multiple organization patterns for a topic often highlights different and more compelling approaches to the presentation, and often more effective main points.
 
-Materials Needed
-================
+**Formative Assessment:**
+
+* Download the activity document from the Learning Management System
+* Identify a single topic area (not a draft thesis statement).
+* Create a thesis statement and a set of main points for each organizational patter (other than topical).
+* Upload the document to the Activity Dropbox for this week
+
+# Materials Needed
 
 **Materials:**
 
@@ -45,8 +47,7 @@ Materials Needed
 
 * None
 
-Outline of the Lesson
-=====================
+# Outline of the Lesson
 
 1.  Review of previous session's content
 2.  Lesson opening
@@ -71,32 +72,27 @@ Outline of the Lesson
     7.  Debrief the activity.
 7.  Lesson closing
 
-Limitations
-===========
+# Limitations
 
-This lesson requires note cards and student creativity. Students in the
-class may work at dramatically different paces, which may require
-strategic grouping or an opportunity to engage in pair work earlier in the
-process.
+This lesson requires note cards and student creativity.
+Students in the class may work at dramatically different paces, which may require strategic grouping or an opportunity to engage in pair work earlier in the process.
 
 <!--
-Debrief
-=======
+# Debrief
 -->
 
-Variations and Accommodations
-=============================
+# Variations and Accommodations
 
-Follow guidance from local accommodation authorities. Students for whom
-technology usage will present an unreasonable burden will be accommodated
-on an individual basis. Students may be placed in groups strategically if
-needed.
+Follow guidance from local accommodation authorities.
+Students for whom technology usage will present an unreasonable burden will be accommodated on an individual basis.
+Students may be placed in groups strategically if needed.
 
 <!-- End Notes -->
 
 <!-- Previous Versions
    v#   | Date       | Modifications
   ------|------------|:---------------
+  v0.04 | 2020-08-21 | updated format, and for Canvas. Added formative assessment
   v0.03 | 2019-08-07 | Changes for Hugo Compatibility
   v0.02 |          - | revised activity for group work
   v0.01 |          - | Minor text fixes

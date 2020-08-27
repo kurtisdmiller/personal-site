@@ -2,7 +2,8 @@
 title: Preparation Outlines
 toc: true
 type: docs
-date: "2019-08-07"
+date: 2019-08-07
+lastmod: 2020-08-21
 draft: false
 featured: false
 # menu:
@@ -26,12 +27,15 @@ weight: 40
 * Students know the primary criteria for effective outlining.
 * Students practice organizing points into an outline which meets these criteria.
 
-**Rationale:** Preparing an outline will help you prepare, research, and
-organize your presentation. Outlining is a key competency in Public
-Speaking.
+**Rationale:** Preparing an outline will help you prepare, research, and organize your presentation. Outlining is a key competency in Public Speaking.
 
-Materials Needed
-================
+**Formative Assessment:**
+
+* Download the activity document from the Learning Management System
+* Re-order the main points in the document so they work as an outline
+* Upload the document to the Activity Dropbox for this week
+
+# Materials Needed
 
 **Materials:**
 
@@ -41,8 +45,7 @@ Materials Needed
 
 * Classroom computer and projector
 
-Outline of the Lesson
-=====================
+# Outline of the Lesson
 
 1.  Review of previous session's content
 2.  Lesson opening
@@ -69,24 +72,20 @@ Outline of the Lesson
 7. Debrief the activity
 8.  Lesson closing
 
-Limitations
-===========
+# Limitations
 
 This lesson requires students to use notebook paper and note cards.
 Strategic grouping may be necessary for improved peer mentoring.
 
 <!--
-Debrief
-=======
+# Debrief
 -->
 
-Variations and Accommodations
-=============================
+# Variations and Accommodations
 
-Follow guidance from local accommodation authorities. Students for whom
-writing by hand and moving physical objects will present an unreasonable
-burden may be accommodated if necessary. Students may be placed in groups
-strategically if needed.
+Follow guidance from local accommodation authorities.
+Students for whom writing by hand and moving physical objects will present an unreasonable burden may be accommodated if necessary.
+Students may be placed in groups strategically if needed.
 
 <!-- End Notes -->
 [^full-sentences-used]: Full sentence outlines are used in this class.
@@ -96,6 +95,7 @@ strategically if needed.
 
    v#   | Date       | Modifications
   ------|------------|:-----------------
+  v0.03 | 2020-08-21 | updated format, and for Canvas. Added formative assessment
   v0.02 | 2019-08-07 | Changes for Hugo Compatibility
   v0.01 | 2017-03-09 | Corrected link in footnote
   v0.00 |          - | Initial Version
