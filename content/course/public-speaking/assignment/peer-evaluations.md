@@ -57,7 +57,7 @@ You will reply to the video linked by your partner with several paragraphs addre
 
 The required paragraphs are listed below.
 Each should contain multiple sentences.
-The [Speech Critique][] assignment description includes more detail about topics that you might want to address within each paragraph, if you are having trouble.
+The [Speech Critique][] assignment description includes more detail about 
 
 1. Discuss organization of the presentation
 2. Discuss research and supporting evidence in the presentation
@@ -104,6 +104,12 @@ a well-formatted outline.
 # Acknowledgments
 
 [^student-permission] Many thanks to the students who have given me permission to use examples based on their work. Student consent forms are on file.
+-->
+
+<!--
+# Links
+
+[Speech Critque]: /course/public-speaking/assignment/speech-critique/
 -->
 
 <!-- Previous Versions:
