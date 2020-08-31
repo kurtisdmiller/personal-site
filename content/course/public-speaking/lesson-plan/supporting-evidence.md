@@ -2,7 +2,8 @@
 title: Supporting Evidence
 toc: true
 type: docs
-date: "2019-08-07"
+date: 2019-08-07
+lastmod: 2020-08-29
 draft: false
 featured: false
 # menu:
@@ -27,13 +28,16 @@ weight: 60
 * Students understand the importance of using diverse forms of evidence.
 * Students know how to cite their evidence in presentations.
 
-**Rationale:** All presentations are built around a series of claims that
-are supported by evidence. Presentation with well supported claims that
-are addressed by several diverse forms of evidence are significantly more
-effective.
+**Rationale:** All presentations are built around a series of claims that are supported by evidence.
+Presentation with well supported claims that are addressed by several diverse forms of evidence are significantly more effective.
 
-Materials Needed
-================
+**Formative Assessment:**
+
+* Download the activity document from the Learning Management System
+* Identify the problems with each set of supporting evidence
+* Upload the document to the Learning Management System
+
+# Materials Needed
 
 **Materials:**
 
@@ -43,7 +47,7 @@ Materials Needed
 
 * Classroom computer and projector, personal devices
 
-## Outline of the Lesson
+# Outline of the Lesson
 
 1.  Review of previous session's content
 2.  Lesson opening
@@ -85,22 +89,7 @@ Materials Needed
     3.  Slow Down!
         1.  Wikipedia
         2.  Online versions of print sources
-6.  Citing your sources
-    1.  Citations in outlines and on presentation aids
-        1.  In-text and full citations
-        2.  Citation Styles: **APA,** MLA, Chicago/Turabian
-        3.  The OWL at Purdue[^OWL]
-    2.  Oral citations
-        1.  Initial citition
-            1.  Author’s name
-            2.  The author’s credibility (Who is this person? Why are they qualified on this subject?)
-            3.  The type of source (Editorial, News Article, Book, TV Show, etc.)
-            4.  Title of the piece (Article title, Book title, Episode title, etc.)
-            5.  Title of what it is in (Title of Newspaper, Webpage, etc.)
-            6.  The date that it was published
-            7.  Every direct quotation should include a page number (or equivalent information)
-        2.  Re-visited citations, just make it clear
-7.  Hands-on group work
+6.  Hands-on group work
     1.  Read a news story online (10 minutes)
         1.  Identify the types of evidence used
     2.  Discuss with your group (5 minutes)
@@ -109,26 +98,21 @@ Materials Needed
         3.  Did the author diversify their evidence?
         4.  What evidence should they add (and how can they find it)?
     3.  Debrief the activity
-8.  Lesson closing
+7.  Lesson closing
 
-Limitations
-===========
+# Limitations
 
-This lesson requires student access to online resources and personal
-devices.
+This lesson requires student access to online resources and personal devices.
 
 <!--
-Debrief
-=======
+# Debrief
 -->
 
-Variations and Accommodations
-=============================
+# Variations and Accommodations
 
-Follow guidance from local accommodation authorities. Students for whom
-technology usage will present an unreasonable burden may be accommodated
-on an individual basis. Students may be placed in groups strategically if
-needed.
+Follow guidance from local accommodation authorities.
+Students for whom technology usage will present an unreasonable burden may be accommodated on an individual basis.
+Students may be placed in groups strategically if needed.
 
 <!-- End Notes -->
 
@@ -141,6 +125,7 @@ needed.
 
    v#   | Date       | Modifications
   ------|------------|:-----------------
+  v0.06 | 2020-08-29 | Pandemic changes, Canvas
   v0.05 | 2019-08-07 | Changes for Hugo compatibility
   v0.04 | 2017-03-09 | Moved discussion on citation here, re-ordered discussion around supporting an argument
   v0.03 |          - | Added discussion of types of Sources

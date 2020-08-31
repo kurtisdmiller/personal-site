@@ -3,7 +3,7 @@ title: Fishbowl Discussion
 toc: true
 type: docs
 date: 2019-08-07
-lastmod: 2020-08-19
+lastmod: 2020-08-27
 draft: false
 featured: false
 menu:
@@ -21,7 +21,7 @@ weight: 10
 **Purpose:** Students are familiarized with Communication as a Social Science and the process of knowledge generation behind the theories presented in their textbook.
 
 <!--
-Target Length:**
+Target Length:
 -->
 
 **Due:** According to the date you signed up for.
@@ -77,17 +77,19 @@ Delivery                   Speaks clearly,              Occasionally difficult t
                            and appropriately.                                        significantly
                                                                                      inappropriate.
 
-Preparation                One page article summary     One page article summary     One page article summary     One page article summary
+Preparation                One-page article summary     One-page article summary     One-page article summary     One-page article summary
                            sheet is complete and        sheet is complete. Minor     sheet is incomplete.         sheet missing nearly all
                            thoughtful. Reference uses   errors in APA style for      Reference entry is           information.
                            APA style correctly.         reference entry.             missing most information.
 ------------------------   --------------------------   --------------------------   --------------------------   --------------------------
 
-# Examples
+# Examples & Templates
 
-[Example one page article summary][]
+* [One-page Article Summary Template][]
+* [Fishbowl Discussion Response Template][]
 
-[Example one page article summary]: /course/interpersonal/assignment/example-summary-sheet.docx   "Example One Page Article Summary"
+[Fishbowl Discussion Response Template]:  /course/interpersonal/assignment/fishbowl-discussion-response-template.docx   "One-Page Article Template Document"
+[One-page Article Summary Template]:      /course/interpersonal/assignment/summary-sheet-template.docx                  "One-Page Article Template Document"
 <!--
 # Acknowledgments
 -->
@@ -100,6 +102,7 @@ Preparation                One page article summary     One page article summary
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v1.02 | 2020-08-27 | Added example document for the response
   v1.01 | 2020-08-19 | Revised rubric language and document structure, using a "one page article summary" as a lead-in to annotated bibliographies
   v1.00 | 2019-08-08 | Changes for Hugo compatibility, no longer contract based
   v0.01 | 2018-03-20 | Refined Grading Scale
