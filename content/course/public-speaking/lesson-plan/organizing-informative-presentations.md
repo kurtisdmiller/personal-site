@@ -33,7 +33,7 @@ Considering multiple organization patterns for a topic often highlights differen
 
 * Download the activity document from the Learning Management System
 * Identify a single topic area (not a draft thesis statement).
-* Create a thesis statement and a set of main points for each organizational patter (other than topical).
+* Create a thesis statement and a set of main points for each organizational pattern (other than topical).
 * Upload the document to the Activity Dropbox for this week
 
 # Materials Needed

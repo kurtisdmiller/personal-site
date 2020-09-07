@@ -29,11 +29,6 @@ weight: 40
 
 **Rationale:** Preparing an outline will help you prepare, research, and organize your presentation. Outlining is a key competency in Public Speaking.
 
-**Formative Assessment:**
-
-* Download the activity document from the Learning Management System
-* Re-order the main points in the document so they work as an outline
-* Upload the document to the Activity Dropbox for this week
 
 # Materials Needed
 
@@ -61,7 +56,7 @@ weight: 40
     2.  **Coordination** (All items at the same level should have the same level of importance.)
     3.  **Subordination** (Top-level items should be general and information deeper in the outline should be more specific.)
     4.  **Division** (Each item, if divided, should be divided into two or more parts.)
-6.  Hands-on group work
+6.  Face-to-face Formative Assessment:
     1.  Group students into groups of 5 students
     2.  Each group creates a full-sentence outline for a presentation about "how to do something" (15 minutes)
     3.  Groups revise the outline to follow the 4 outline principles (5 min)
@@ -69,7 +64,11 @@ weight: 40
     5.  Groups shuffle the note cards and pass their presentation to another group
     6.  Groups re-construct an outline from the cards (10 min)
     7.  Groups fix problems with the outline (5 minutes)
-7. Debrief the activity
+    8. Debrief the activity
+7.  Hybrid/Online Formative Assessment:
+    1.  Download the activity document from the Learning Management System
+    2.  Re-order the main points in the document so they work as an outline
+    3.  Upload the document to the Activity Dropbox for this week
 8.  Lesson closing
 
 # Limitations

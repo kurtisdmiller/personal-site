@@ -1,5 +1,5 @@
 ---
-title: Plagiarism and Intellectual Property
+title: Reading Scientific Research
 toc: true
 type: docs
 date: 2019-08-07

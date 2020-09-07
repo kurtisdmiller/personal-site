@@ -32,14 +32,8 @@ only influence some of these factors. It is important to be able to
 analyze the factors you cannot influence so you can choose the best fit
 for the aspects you can influence.
 
-**Formative Assessment:**
 
-* Download the activity document from the Learning Management System
-* Brainstorm at least 25 topics for your upcoming prepared presentation
-* Upload the document to the Activity Dropbox for this week
-
-Materials Needed
-================
+# Materials Needed
 
 **Materials:**
 
@@ -49,8 +43,7 @@ Materials Needed
 
 * Classroom computer and projector
 
-Outline of the Lesson
-=====================
+# Outline of the Lesson
 
 1.  Review of previous session's content
 2.  Lesson opening
@@ -94,26 +87,25 @@ Outline of the Lesson
         3.  Consider personal experiences and interests
         4.  Research current events
     2.  Analyze the best options
-7.  Hands-on activity
+7.  Face-to-face Formative Assessment:
     1.  Group students into groups of 5 students
     2.  Student brainstorm a large number of potential topics for an upcoming presentation
     3.  Students select the best topics for this class, and also for hypothetical audience-environment pair
     4.  Debrief the activity
-8.  Lesson closing
+8.  Hybrid/Online Formative Assessment:
+    1.  Download the activity document from the Learning Management System
+    2.  Brainstorm at least 25 topics for your upcoming prepared presentation
+    3.  Upload the document to the Activity Dropbox for this week
+9.  Lesson closing
 
-Limitations
-===========
-
-This lesson requires students to use notebook paper. Strategic grouping
-may be necessary for improved peer mentoring.
+This lesson requires students to use notebook paper.
+Strategic grouping may be necessary for improved peer mentoring.
 
 <!--
-Debrief
-=======
+# Debrief
 -->
 
-Variations and Accommodations
-=============================
+# Variations and Accommodations
 
 Follow guidance from local accommodation authorities.
 

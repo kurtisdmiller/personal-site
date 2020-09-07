@@ -2,7 +2,8 @@
 title: Visual Aid Design
 toc: true
 type: docs
-date: "2019-09-12"
+date: 2019-09-12
+lastmod: 2020-09-06
 draft: false
 featured: false
 # menu:
@@ -15,9 +16,7 @@ weight: 80
 
 ---
 
-*Note: A version of the activity used in this lesson was presented at the
-2018 Southern States Communication Association Conference. [See it
-here!](/talk/miller-pruim-2018-slides/)*
+*Note: A version of the activity used in the face-to-face version of this lesson was presented at the 2018 Southern States Communication Association Conference. [See it here!](/talk/miller-pruim-2018-slides/)*
 
 **Course(s) Used:**
 
@@ -31,13 +30,10 @@ here!](/talk/miller-pruim-2018-slides/)*
 * Students are able to use the assertion-evidence structure effectively.
 
 **Rationale:** Many students have difficulty using visual aids properly.
-Most students have been exposed to poor-quality topic and bullet list
-visual aids throughout their entire time in education. This lesson walks
-students at the 100 level through the process of designing effective
-slides using visual forms of different evidence.
+Most students have been exposed to poor-quality topic and bullet list visual aids throughout their entire time in education.
+This lesson walks students at the 100 level through the process of designing effective slides using visual forms of different evidence.
 
-Materials Needed
-================
+# Materials Needed
 
 **Materials:**
 
@@ -49,8 +45,7 @@ Materials Needed
 
 * Computer Lab
 
-Outline of the Lesson
-=====================
+# Outline of the Lesson
 
 1.  Review of previous session's content
 2.  Lesson opening
@@ -75,7 +70,7 @@ Outline of the Lesson
         3.  Direct quotes (peoples' words)[^must-be-evidence]
         4.  Stories/Narratives[^usually-multiple-slides]
         5.  Visual evidence **must be cited visually**
-7.  Hands-on group work: Slides Against Humanity[^miller-pruim-2018-slides]
+7.  Face-to-Face Formative Assessment: Slides Against Humanity[^miller-pruim-2018-slides]
     1.  Separate student into two groups.
     2.  Deal out cards to students
         * Group A gets cards from the deck with blanks
@@ -88,22 +83,30 @@ Outline of the Lesson
         * Students use a brief direct quotation as visual evidence
     6.  Students present the slides that they have created
     7.  Debrief the activity
-8.  Lesson closing
+8.  Hybrid/Online Formative Assessment:
+    1.  Create your own example presentation (you may use a draft of your next visual aid or modify your practice presentation visual aid)
+    2.  You need three content slides:
+        1.  Uses numbers visually (graph/chart)
+        2.  Uses people's words visually (quotation)
+        3.  Uses things visually (image, etc.)
+    3.  Make sure each content slide has the three essential elements of of an assertion evidence slide:
+        1.  Full sentence heading that makes a claim
+        2.  Visual evidence that supports the clam
+        3.  Citation for that visual evidence
+    4.  Upload the document to the activity on the Learning Management System
+9.  Lesson closing
 
-Limitations
-===========
+# Limitations
 
 This lesson requires student access to online resources and personal
 computers. Strategic grouping may be necessary for improved peer
 mentoring.
 
 <!--
-Debrief
-=======
+# Debrief
 -->
 
-Variations and Accommodations
-=============================
+# Variations and Accommodations
 
 Follow guidance from local accommodation authorities. Students for whom
 technology usage will present an unreasonable burden may be accommodated
@@ -123,6 +126,7 @@ needed.
 
    v#   | Date       | Modifications
   ------|------------|:---------------
+  v0.04 | 2020-09-06 | updated format, and for Canvas. Added formative assessment
   v0.03 | 2019-09-12 | Fixed rationale.
   v0.02 | 2019-08-07 | Changes for Hugo compatibility
   v0.01 | 2017-09-13 | modified to create 3 content slides
