@@ -1,8 +1,9 @@
 ---
 title: Perceiving Others, Day 1
-tou: true
+toc: true
 type: docs
-date: "2019-09-12"
+date: 2019-09-12
+lastmod: 2020-09-07T16:37:00-0400
 draft: false
 featured: false
 # menu:
@@ -28,8 +29,7 @@ weight: 100
 theories in psychology and has a significant impact on the processes we
 use when interpreting the messages other people send.
 
-Materials Needed
-================
+# Materials Needed
 
 **Materials:**
 
@@ -39,8 +39,7 @@ Materials Needed
 
 * Classroom computer and projector
 
-Outline of the Lesson
-=====================
+# Outline of the Lesson
 
 1.  Review of previous session's content
 2.  Attribution Theory[^wood-dimensions][^weiner-1985-PsyRev][^wood-2008-book]
@@ -57,17 +56,21 @@ Outline of the Lesson
     1.  Automatic
     2.  Effortless
     3.  Conducted without identifying specific reasons/explanations.
-6.  Hands on group work: "Exploring Attribution Theory and Bias"[^robinson-2017-CT][^ho-at]
+6.  Face-to-face Formative Assessment: "Exploring Attribution Theory and Bias"[^robinson-2017-CT][^ho-at]
     1.  Partner students in groups of 4-6.
     2.  **Situation #1[^va-po1]:** Learn about your new partner, Jane[^ho-at]
     3.  **Situation #2**
     4.  **Situation #3**
     5.  Identify the types of attributions you made.
     6.  Compare to the attributions made by other groups.
-7.  Debrief the activity
-    1.  Why did some groups attribute differently?
-    2.  How might you have attributed differently?
-    3.  Identify other causes that would be categorized differently.
+    7.  Debrief the activity
+        1.  Why did some groups attribute differently?
+        2.  How might you have attributed differently?
+        3.  Identify other causes that would be categorized differently.
+7.  Hybrid/Online Formative Assessment:
+    1.  Download the activity document from the Learning Management System
+    2.  Answer the questions in the document about both scenarios
+    3.  Upload the document to the Learning Management System
 8.  Lesson closing
 
 [^ho-at]: [HO](/course/interpersonal/handout/attribution-activity-robinson-2017-CT.pdf)
@@ -78,21 +81,17 @@ Outline of the Lesson
 [^sedekides-etal-1998-JPSP]: Sedikides, C., Campbell, W. K., Reeder, G. D., & Elliot, A. J. (1998). The self-serving bias in relational context. *Journal of Personality and Social Psychology, 74*, 378--386. [https://doi.org/10.1037/0022-3514.74.2.378](https://doi.org/10.1037/0022-3514.74.2.378)
 [^tetlock-1985-SocPsyQ]: Tetlock, P. E. (1985). Accountability: A social check on the fundamental attribution error. *Social Psychology Quarterly, 48*, 227--236.
 [^weiner-1985-PsyRev]: Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review, 92*, 548--573. 
-[^wood-2008-book]: Wood, J. T. (2008). *Communication mosaics*, 5th ed, Belmont, CA: Thompson-Wadsworth. 
+[^wood-2008-book]: Wood, J. T. (2008). *Communication mosaics*, 5th ed, Belmont, CA: Thompson-Wadsworth.
 
-Limitations
-===========
+# Limitations
 
-Students often have difficulty identifying alternate explanations that are
-truly different on some dimensions.
+Students often have difficulty identifying alternate explanations that are truly different on some dimensions.
 
 <!--
-Debrief
-=======
+# Debrief
 -->
 
-Variations and Accommodations
-=============================
+# Variations and Accommodations
 
 Follow guidance from local accommodation authorities.
 
@@ -102,6 +101,7 @@ Follow guidance from local accommodation authorities.
 
    v#   | Date       | Modifications
   ------|:-----------|:-------------
+  v0.01 | 2020-09-06 | Pandemic changes, Canvas
   v0.00 | 2019-09-12 | Initial Version
 
 -->

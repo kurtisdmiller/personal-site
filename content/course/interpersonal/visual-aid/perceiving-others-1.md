@@ -6,8 +6,8 @@ author: Kurtis D. Miller
 tags:
 categories: 
 draft: false
-date: "2019-09-12"
-updated: "2019-09-12"
+date: 2019-09-12
+updated: 2020-09-07
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -47,7 +47,7 @@ Questions
 Interaction #3
 --------------
 
-Thee days later, you have your fourth group meeting. The meeting started 30 minutes ago, and Jane hasn't arrived yet.
+Three days later, you have your fourth group meeting. The meeting started 30 minutes ago, and Jane hasn't arrived yet.
 
 ---
 

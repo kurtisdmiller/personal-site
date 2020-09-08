@@ -2,7 +2,8 @@
 title: Finding and Using Images
 toc: true
 type: docs
-date: "2019-08-07"
+date: 2019-08-07
+lastmod: 2020-09-07T10:27:00-0400
 draft: false
 featured: false
 # menu:
@@ -29,14 +30,11 @@ weight: 100
 * Students understand licensing and usage rights for copyrighted.
 * Students can address accessibility concerns for images.
 
-**Rationale:** Integrating images effectively is a vital part of
-constructing a well-developed visual aid. Visual aids which use the
-Assertion-Evidence Structure rely on images as one of their primary modes
-of presenting visual evidence. Integrating images is an area that students
-frequently struggle with.
+**Rationale:** Integrating images effectively is a vital part of constructing a well-developed visual aid.
+Visual aids which use the Assertion-Evidence Structure rely on images as one of their primary modes of presenting visual evidence.
+Integrating images is an area that students frequently struggle with.
 
-Materials Needed
-================
+# Materials Needed
 
 **Materials:**
 
@@ -46,8 +44,7 @@ Materials Needed
 
 * At least one computer with Internet access per group
 
-Outline of the Lesson
-=====================
+# Outline of the Lesson
 
 1.  Review of previous session's content
 2.  Lesson opening
@@ -71,7 +68,7 @@ Outline of the Lesson
     2.  Attribution
     3.  Licensing
     4.  Accessibility
-8.  Hands-on group work
+8.  Face-to-face Formative Assessment:
     * Students work in teams to create both a PowerPoint-style and
       a handout presentation aid. These should include at least three
       images that provide evidence for a clear assertion. They use
@@ -82,27 +79,26 @@ Outline of the Lesson
         * "What did you find most challenging about this project?"
         * "What do you think your visual aids do best?"
         * "What aspect of these visual aids could use the most improvement?"
-9.  Lesson closing
+9.  Hybrid/Online Formative Assessment:
+    1.  Download the activity document from the Learning Management System
+    2.  Located and insert the required images, providing appropriate citation
+    3.  Upload the document to the activity on the Learning Management System
+10. Lesson closing
 
-Limitations
-===========
+# Limitations
 
-This lesson requires a classroom computer, a projector, and Internet
-access for demonstration. The students will need to bring their own
-computers if the class does not have access to a computer lab.
+This lesson requires a classroom computer, a projector, and Internet access for demonstration.
+The students will need to bring their own computers if the class does not have access to a computer lab.
 
 <!--
-Debrief
-=======
+# Debrief
 -->
 
-Variations and Accommodations
-=============================
+# Variations and Accommodations
 
-Follow guidance from local accommodation authorities. Students for whom
-technology usage will present an unreasonable burden be accommodated on an
-individual basis. Students may be placed in groups strategically if
-needed.
+Follow guidance from local accommodation authorities.
+Students for whom technology usage will present an unreasonable burden be accommodated on an individual basis.
+Students may be placed in groups strategically if needed.
 
 <!-- End Notes -->
 
@@ -110,6 +106,7 @@ needed.
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v0.02 | 2020-09-06 | updated format, and for Canvas. Added formative assessment
   v0.01 | 2019-08-07 | Changes for Hugo Compatibility
   v0.00 |          - | Initial Version
 
