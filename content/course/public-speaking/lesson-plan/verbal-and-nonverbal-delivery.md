@@ -2,7 +2,8 @@
 title: Verbal and Nonverbal Delivery
 toc: true
 type: docs
-date: "2019-08-07"
+date: 2019-08-07
+lastmod: 2020-09-13
 draft: false
 featured: false
 # menu:
@@ -25,15 +26,9 @@ weight: 160
 * Students can identify the features of good nonverbal delivery.
 * Students come out of their shell and present passionately.
 
-**Rationale:** The speed of information has increased dramatically in our
-interconnected world. Social media, blogging, and other forms of
-communication technology mean that crises appear and build momentum more
-quickly than ever. Basic exposure to crisis response presentations is
-essential because members of organizations never know when they may need
-to be part of responding to a crisis.
+**Rationale:** Confident and effective verbal and nonverbal communication is essential to presenting effectively.
 
-Materials Needed
-================
+# Materials Needed
 
 **Materials:**
 
@@ -43,8 +38,7 @@ Materials Needed
 
 * Classroom computer and projector
 
-Outline of the Lesson
-=====================
+# Outline of the Lesson
 
 1.  Review of previous session's content
 2.  Lesson opening
@@ -83,34 +77,34 @@ Outline of the Lesson
     4.  **Adapters** (generally distracting)
     5.  **Facial Expressions**
     6.  **Eye contact**
-8.  Hands-on group work
+8.  Face-to-face Formative Assessment:
     1.  Go create an outline for a brief presentation in groups
     2.  Practice delivering it individually
         1.  Each member should have a different verbal and nonverbal style
         2.  **Over-enthusiasm is encouraged**
     3.  Deliver the random presentations
     4.  Debrief the activity
-9.  Lesson closing
+9.  Hybrid/Online Formative Assessment:
+    1.  Follow the link on learning management system
+    2.  Record a well-delivered introduction that you could use for your presentation
+    3.  Ensure that you pay attention to all of the features of verbal and nonverbal presentations
+    4.  Submit the recording (you can resubmit until you are happy with the recording)
+10. Lesson closing
 
-Limitations
-===========
+# Limitations
 
-This lesson requires student access to online resources and personal
-computers. Strategic grouping may be necessary for improved peer
-mentoring.
+This lesson requires student access to online resources and personal computers.
+Strategic grouping may be necessary for improved peer mentoring.
 
 <!--
-Debrief
-=======
+# Debrief
 -->
 
-Variations and Accommodations
-=============================
+# Variations and Accommodations
 
-Follow guidance from local accommodation authorities. Students for whom
-technology usage will present an unreasonable burden may be accommodated
-on an individual basis. Students may be placed in groups strategically if
-needed.
+Follow guidance from local accommodation authorities.
+Students for whom technology usage will present an unreasonable burden may be accommodated on an individual basis.
+Students may be placed in groups strategically if needed.
 
 <!-- End Notes -->
 
@@ -121,6 +115,7 @@ needed.
 
    v#   | Date       | Modifications
   ------|------------|:--------------
+  v0.05 | 2020-09-13 | updated format, and for Canvas. Added formative assessment
   v0.04 | 2019-08-07 | Changes for Hugo compatibility
   v0.03 | 2017-09-14 | Expanded on note card section, Added facial expressions (how did I forget those?)
   v0.02 | 2017-08-11 | Added section on using note cards

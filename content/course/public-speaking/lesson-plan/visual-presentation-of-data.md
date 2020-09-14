@@ -2,7 +2,8 @@
 title: Visual Presentation of Data
 toc: true
 type: docs
-date: "2019-08-07"
+date: 2019-08-07
+lastmod: 2020-09-13
 draft: false
 featured: false
 # menu:
@@ -27,13 +28,10 @@ weight: 110
 * Students can identify common errors in creating charts and graphs.
 * Students know what to consider before using existing charts and graphs.
 
-**Rationale:** Presenting numerical data, such as statistical evidence
-visually is one of the best uses of presentation aids. People can much
-more easily understand data when it is presented in a visual format rather
-than as a list of more abstract numbers.
+**Rationale:** Presenting numerical data, such as statistical evidence visually is one of the best uses of presentation aids.
+People can much more easily understand data when it is presented in a visual format rather than as a list of more abstract numbers.
 
-Materials Needed
-================
+# Materials Needed
 
 **Materials:**
 
@@ -44,8 +42,7 @@ Materials Needed
 
 * At least one computer with Internet access per group
 
-Outline of the Lesson
-=====================
+# Outline of the Lesson
 
 1.  Review of previous session's content
 2.  Lesson opening
@@ -70,38 +67,39 @@ Outline of the Lesson
     6.  Unnecessary text (titles, scales, labels, keys)
     7.  Using Infographics
     8.  Relying solely on semantic color[^colorblind]
-6.  Hands-on group work
-    * Students work in teams to locate create graphs and charts in PowerPoint. Students use US Mortality data located online from the [CDC](http://www.cdc.gov/nchs/nvss/deaths.htm). Students should create 3 assertion-evidence structure slides which use graphs and charts based on these data as their visual evidence. There should be one slide which uses a bar graph or histogram, a second which uses a pie graph, and a third which uses a line graph. They use personal computers to create these presentation aids and share them with the class when complete. Questions groups should answer in front of the class include:
-        * "What did you find most challenging about this project?"
-        * "What aspect of these charts and graphs?"
-        * "How would you cite these data?"
-7.  Using existing charts and graphs is like using images
+6.  Using existing charts and graphs is like using images
     1.  Resolution
     2.  Aspect Ratio
     3.  Backgrounds and Colors
     4.  Licensing
     5.  Effects
-8.  Oral presentation of numerical data
+7.  Oral presentation of numerical data
     1.  Contextualize numbers for your audience
     2.  Use round numbers unless precision is *required* 
-9.  Lesson closing
+8.  Face-to-face Formative Assessment:
+    * Students work in teams to locate create graphs and charts in PowerPoint. Students use US Mortality data located online from the [CDC](http://www.cdc.gov/nchs/nvss/deaths.htm). Students should create 3 assertion-evidence structure slides which use graphs and charts based on these data as their visual evidence. There should be one slide which uses a bar graph or histogram, a second which uses a pie graph, and a third which uses a line graph. They use personal computers to create these presentation aids and share them with the class when complete. Questions groups should answer in front of the class include:
+        * "What did you find most challenging about this project?"
+        * "What aspect of these charts and graphs?"
+        * "How would you cite these data?"
+9.  Hybrid/Online Formative Assessment:
+    1.  Download the activity document from the Learning Management System
+    2.  Create the required slides, providing appropriate citation
+    3.  Upload the document to the activity on the Learning Management System
+10. Lesson closing
 
-Limitations
-===========
+# Limitations
 
-This lesson requires a classroom computer, a projector, and Internet
-access for demonstration. The students will need to bring their own
-computers if the class does not have access to a computer lab.
+This lesson requires a classroom computer, a projector, and Internet access for demonstration.
+The students will need to bring their own computers if the class does not have access to a computer lab.
 
 <!--
-Debrief
-=======
+# Debrief
 -->
 
-Variations and Accommodations
-=============================
+# Variations and Accommodations
 
-Follow guidance from local accommodation authorities. Students for whom technology usage will present an unreasonable burden be accommodated on an individual basis. Students may be placed in groups strategically if needed.
+Follow guidance from local accommodation authorities.
+Students for whom technology usage will present an unreasonable burden be accommodated on an individual basis. Students may be placed in groups strategically if needed.
 
 <!-- End Notes -->
 
@@ -111,6 +109,7 @@ Follow guidance from local accommodation authorities. Students for whom technolo
 
    v#   | Date       | Modifications
   ------|------------|:---------------
+  v0.03 | 2020-09-13 | updated format, and for Canvas. Added formative assessment
   v0.02 | 2019-08-07 | Changes for Hugo Compatibility
   v0.01 | 2017-10-03 | updated to include timelines and color vision deficiency numbers
   v0.00 |          - | Initial Version
